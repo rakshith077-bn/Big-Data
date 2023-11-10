@@ -5,6 +5,10 @@ try:
     with open(file_name, 'r') as file:
         data = file.read()
 
+    dataset_lenght = len(data)
+
+    print(f"The lenght of the dataset is {dataset_lenght}")
+
 except FileNotFoundError:
     print(f"The file {file_name} not found")
 
@@ -13,28 +17,17 @@ except Exception as e:
     
 #Processing the Dataset
 import csv 
-
-#Since it is 50,000 rows, I will print it only for the first 10 rows
-#Reading the CSV file and printing the tuple in the format ["INSERT", "Attribute_1", "Attribute_2",...., "Attribute_n"]
+    
 try:
     with open(file_name, 'r', newline='') as file:
         reader = csv.reader(file)
-        next(reader) #Skipping the first heading line in the dataset
-        row_count = 0
         for row in reader:
-            if row_count < 10:
-                row_tuple = ('INSERT',) + tuple(row)
-                print(row_tuple)  # Without storing the "INSERT" value in the tuple I'm printing it here
-                row_count += 1
-            else:
-                break
-
+            row_tuple = ('INSERT',) + tuple(row)
+            print(row_tuple)  # This will print each row as a tuple with 'INSERT' at the start
+except FileNotFoundError:
+    print(f"File {file_name} not found.")
 except Exception as e:
     print(f"An error occurred: {e}")
-    
-    
-# Since it's working, I'll print it for the whole dataset and then move on to writing those into different values
-
 
 
 # To make sure the dataset has not stored the value "INSERT", I'll print it the first 50 columns of it
@@ -64,38 +57,16 @@ for dir_name in dir_names:
     except Exception as e:
         print(f"An Error occured: {e}")
 
+rows_per_file = 200
 
-#Creating files respective to the above directories    
-file_names = ["Page 0", "Page 1", "Page 2"]
+total_files = dataset_lenght // rows_per_file
 
-
-
-for name in file_names:
-    try:
-        for name in file_names:
-            path_file = os.path.join(dir_names, name)
-        if not os.path.exists(dir_names):
-            os.mkdir(dir_names)
-        print("File Created successfully")
-    
-    except FileExistsError:
-        print(f"File {name} already exists")
-    
-    except FileNotFoundError:
-        print(f"Directory {dir_names} not found")
-    
-    except Exception as e:
-        print(f"An error occured: {e}")
-    
-    
-    
-    try:
-        with open(file_path, 'w') as file:
-            file.write(f"This is a file in {dir_name}")
-        print(f"File created successfully in {dir_name}")
-    except Exception as e:
-        print(f"An error occured: {e}")
-        
+for i in range(total_files):
+    file_path = os.path.join(dir_name, f"Page_{i}.txt")
+    start_index = i * rows_per_file
+    end_index = (i + 1) * rows_per_file
+    with open(file_path, 'w') as text_file:
+        text_file.writelines(map(str, file_name[start_index:end_index]))
 
 
         
