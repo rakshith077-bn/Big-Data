@@ -64,8 +64,9 @@ def create_pages_fixed(data, directory, rows_per_page=500):
                     page_file.write(line)
 
                 print("Files in 'Fixed' Directory created successfully")
+        
         except Exception as e:
-            print(f"An error occurred while writing to '{directory}' directory: {e}")
+            print(f"The following error occured while creating the directory {directory}")
 
 
 # Creating files in "Delimited" directory
@@ -90,7 +91,7 @@ def create_pages_delimited(df, directory, delimiter='$', rows_per_page=500):
                 print("Files in 'Delimited' created succesfully")
 
         except Exception as e:
-            print(f"An error occurred while writing to '{directory}' directory: {e}")
+            print(f"The following error occurred during the process: {e}")
 
 
 # Creating files in the directory "Offset"
@@ -140,6 +141,7 @@ if __name__ == "__main__":
                 create_pages_offset(df, "Offset", fixed_length_size=2)
         else:
             print(f"Unknown command: {command}")
+
 
 # Part 2 - Analysis
 import multiprocessing
