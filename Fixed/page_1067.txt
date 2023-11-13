@@ -1,0 +1,500 @@
+A-19186-27315       JUSTIN LO MD, A PROFESSIONAL MEDICAL CORPORATIONCALIFORNIA          208,000.00          
+A-19186-27324       PURDUE UNIVERSITY   INDIANA             38,210.00           
+A-19186-27332       PHOTON INFOTECH INC TEXAS               80,850.00           
+A-19186-27358       XORIANT CORPORATION CALIFORNIA          160,763.00          
+A-19188-27476       SKIDMORE, OWINGS & MERRILL LLPNEW YORK            60,299.00           
+A-19189-27592       GOOGLE LLC          CALIFORNIA          132,184.00          
+A-19189-27663       Randstad Technologies, LLCMASSACHUSETTS       103,501.00          
+A-19189-27799       Randstad Technologies, LLCMASSACHUSETTS       103,501.00          
+A-19189-27803       KALSEC, INC.        MICHIGAN            82,867.00           
+A-19189-27900       Randstad Technologies, LLCMASSACHUSETTS       103,501.00          
+A-19190-27970       INTEL CORPORATION   CALIFORNIA          88,795.00           
+A-19190-28047       INTEL CORPORATION   CALIFORNIA          74,485.00           
+A-19190-28152       SIDLEY AUSTIN (US) LLPILLINOIS            81,910.00           
+A-19190-28156       IRIS SOFTWARE, INC. NEW JERSEY          117,624.00          
+A-19190-28304       Photobooks, Inc.    GEORGIA             84,240.00           
+A-19190-28378       GOOGLE LLC          CALIFORNIA          86,320.00           
+A-19190-28381       Randstad Technologies, LLCMASSACHUSETTS       103,501.00          
+A-19190-28411       RStudio             MASSACHUSETTS       87,152.00           
+A-19190-28439       GOOGLE LLC          CALIFORNIA          117,624.00          
+A-19190-28447       PAYPAL DATA SERVICES, INC.TEXAS               88,483.00           
+A-19190-28529       Pharmacyclics, LLC  CALIFORNIA          76,794.00           
+A-19191-28614       INTEL CORPORATION   CALIFORNIA          74,485.00           
+A-19191-28638       INTEL CORPORATION   CALIFORNIA          68,016.00           
+A-19191-28679       Equifax, Inc.       GEORGIA             77,667.00           
+A-19191-28728       M. B. Kahn Construction Co., Inc.SOUTH CAROLINA      53,435.00           
+A-19191-28816       NUTANIX, INC.       CALIFORNIA          164,674.00          
+A-19191-28835       FIRST DATA TECHNOLOGIES, INCGEORGIA             101,587.00          
+A-19191-28879       POWERMIND SOLUTONS INCGEORGIA             97,427.00           
+A-19191-28942       NUTANIX, INC.       CALIFORNIA          164,674.00          
+A-19191-28956       GMTO CORPORATION    CALIFORNIA          72,987.00           
+A-19191-29014       Reuters News & Media, Inc.NEW YORK            114,754.00          
+A-19191-29187       LOGOS GLOBALTECH LLCCALIFORNIA          103,064.00          
+A-19192-29293       Haverty Furniture Company, Inc.GEORGIA             56,826.00           
+A-19192-29399       Sichenzia Ross Ference LLPNEW YORK            130,686.00          
+A-19192-29412       EPITEC, INC.        MICHIGAN            109,782.00          
+A-19192-29539       KING'S DAUGHTERS MEDICAL SPECIALTIESKENTUCKY            208,000.00          
+A-19192-29550       CMG Mortgage, Inc. dba CMG FinancialCALIFORNIA          65,312.00           
+A-19192-29633       UST GLOBAL INC      CALIFORNIA          79,872.00           
+A-19192-29703       UST GLOBAL INC      CALIFORNIA          125,736.00          
+A-19192-29728       Randstad Technologies, LLCMASSACHUSETTS       103,501.00          
+A-19192-29813       VIGILANT TECHNOLOGIES LLCMICHIGAN            93,954.00           
+A-19193-29955       METLIFE GROUP, INC. NEW YORK            92,955.00           
+A-19193-30068       GOOGLE LLC          CALIFORNIA          99,882.00           
+A-19193-30134       MAKRO TECHNOLOGIES INCNEW JERSEY          61,443.00           
+A-19193-30190       RELIANT VISION GROUP INC.NEW JERSEY          96,366.00           
+A-19193-30199       OCTO CONSULTING GROUP INCVIRGINIA            136,053.00          
+A-19193-30257       PHOTON INFOTECH INC TEXAS               126,235.00          
+A-19194-30423       IT AMERICA INC      NEW JERSEY          96,366.00           
+A-19196-30734       Sawyer/Berson Architecture&Landscape ArchitectureNEW YORK            64,230.00           
+A-19196-30754       Randstad Technologies, LLCMASSACHUSETTS       103,501.00          
+A-19196-30770       OUTLOOK RESOURCES, INC.CALIFORNIA          32,864.00           
+A-19196-30831       Graebel Companies, Inc.COLORADO            160,992.00          
+A-19196-30840       SYNOPSYS, INC.      CALIFORNIA          119,101.00          
+A-19196-30990       GOOGLE LLC          CALIFORNIA          96,762.00           
+A-19196-31036       ARUP NORTH AMERICA LTD.CALIFORNIA          95,555.00           
+A-19196-31120       Painstop Spine Clinic LLCMISSISSIPPI         51,979.00           
+A-19196-31172       MORGAN STANLEY SERVICES GROUP INCNEW YORK            124,883.00          
+A-19197-31332       OPTIMUS, INC.       FLORIDA             71,739.00           
+A-19197-31369       POCKET GEMS INC     CALIFORNIA          121,077.00          
+A-19197-31416       Polmax Truck and Trailer Repair Center, LLCILLINOIS            49,733.00           
+A-19197-31475       Polmax Truck and Trailer Repair Center, LLCILLINOIS            49,733.00           
+A-19197-31498       JANUS MANAGEMENT HOLDINGS CORPORATIONCOLORADO            119,642.00          
+A-19197-31553       Polmax Truck and Trailer Repair Center, LLCILLINOIS            49,733.00           
+A-19197-31595       ASML US LP          ARIZONA             137,800.00          
+A-19197-31601       MEDIDATA SOLUTIONS  NEW YORK            64,085.00           
+A-19197-31602       PROTEINZ LLC        FLORIDA             31,824.00           
+A-19197-31648       RAPID MANUFACTURING CALIFORNIA          38,002.00           
+A-19197-31668       GLOBALLOGIC INC.    CALIFORNIA          132,184.00          
+A-19197-31725       HERMES MICROVISION, INC.CALIFORNIA          119,101.00          
+A-19197-31761       OTA America, Inc.   CALIFORNIA          57,886.00           
+A-19198-31854       ASURION             TENNESSEE           94,557.00           
+A-19198-31932       RELIANT VISION GROUP INC.NEW JERSEY          96,366.00           
+A-19198-31945       ULINE, INC.         WISCONSIN           69,826.00           
+A-19198-31956       HARTFORD STEAM BOILER INSPECTION & INSURANCE COCONNECTICUT         74,734.00           
+A-19198-32028       MORGAN STANLEY SERVICES GROUP INCNEW YORK            112,673.00          
+A-19198-32060       RXADVANCE CORPORATIONMASSACHUSETTS       134,493.00          
+A-19198-32221       Polmax Truck and Trailer Repair Center, LLCILLINOIS            49,733.00           
+A-19198-32311       SYRAINFOTEK LLC     GEORGIA             125,320.00          
+A-19198-32339       Cascade Financial ServicesARIZONA             64,522.00           
+A-19198-32344       CAPITAL INFOTECH INCVIRGINIA            114,982.00          
+A-19198-32358       MICRON TECHNOLOGY, INC.IDAHO               96,762.00           
+A-19199-32447       Environmental Consulting & Technology, Inc.FLORIDA             76,502.00           
+A-19199-32588       CONSTRUSUPPLIES US LLCFLORIDA             89,960.00           
+A-19199-32635       XDUCE CORPORATION   NEW JERSEY          138,861.00          
+A-19199-32661       NEMO IT SOLUTIONS, INCTEXAS               97,864.00           
+A-19199-32736       INTUIT              CALIFORNIA          131,726.00          
+A-19199-32794       Top of the World LLCOKLAHOMA            17,451.00           
+A-19199-32905       GUIDEWIRE SOFTWARE, INCCALIFORNIA          147,597.00          
+A-19200-32932       I28 TECHNOLOGIES CORPORATIONNEW JERSEY          114,754.00          
+A-19200-32989       T. ROWE PRICE ASSOCIATES, INC.MARYLAND            78,894.00           
+A-19200-33102       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33142       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33166       SIRIUS XM RADIO, INCNEW YORK            121,222.00          
+A-19200-33190       IT Management Corp  CALIFORNIA          77,667.00           
+A-19200-33280       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33326       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33329       JAM CITY, INC.      CALIFORNIA          48,880.00           
+A-19200-33355       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33376       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33388       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33394       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33400       GUIDEWIRE SOFTWARE, INCCALIFORNIA          102,898.00          
+A-19200-33408       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33410       STITCH CAR AUTO SALE LLCFLORIDA             36,774.00           
+A-19200-33411       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33438       ECO USA             NEW JERSEY          73,341.00           
+A-19200-33459       GO TO LOGISTICS INC ILLINOIS            49,733.00           
+A-19200-33484       Gogo LLC            COLORADO            105,414.00          
+A-19203-33981       Jordim In't         FLORIDA             63,794.00           
+A-19203-34004       MERRY HEART PERSONNEL CORPNEW JERSEY          26,915.00           
+A-19203-34014       LexMachina          GEORGIA             157,706.00          
+A-19204-34215       IOMEGA TECHNOLOGIES, INC.NEW JERSEY          96,366.00           
+A-19204-34246       International technology Solutions,IncSOUTH CAROLINA      99,195.00           
+A-19204-34284       KALAMAZOO COLLEGE   MICHIGAN            53,000.00           
+A-19204-34368       INTUIT              CALIFORNIA          108,784.00          
+A-19204-34401       INVESCO GROUP SERVICES, INC.GEORGIA             120,702.00          
+A-19204-34428       JRI AMERICA, INC.   NEW YORK            121,222.00          
+A-19204-34435       LOUIS STOKES CLEVELAND VA MEDICAL CENTEROHIO                42,994.00           
+A-19204-34475       Jordim In't         FLORIDA             63,794.00           
+A-19204-34522       Jordim In't         FLORIDA             63,794.00           
+A-19204-34551       McNabb Technologies, LLCILLINOIS            118,394.00          
+A-19204-34576       JRI AMERICA, INC.   NEW YORK            121,222.00          
+A-19204-34605       HARLEY ELLIS DEVEREAUX CORPORATIONMICHIGAN            59,467.00           
+A-19204-34626       JRI AMERICA, INC.   NEW YORK            137,426.00          
+A-19204-34643       LA-VIE BRIDAL LTD   HAWAII              31,450.00           
+A-19204-34668       Handel Architects LLPNEW YORK            60,299.00           
+A-19205-34443       INTERACTIVE STRATEGIESDISTRICT OF COLUMBIA93,933.00           
+A-19205-34967       JRI AMERICA, INC.   NEW YORK            138,861.00          
+A-19205-35012       Hyannis Air Service, Inc.MASSACHUSETTS       17.50               
+A-19205-35160       Kyoto Limousine Inc.CALIFORNIA          37,835.00           
+A-19212-37873       THE NIELSEN COMPANY (US), LLCNEW YORK            102,482.00          
+A-19226-44458       HAYS MEDICAL CENTER KANSAS              208,000.00          
+A-19249-54314       CHICAGOTRADING COMPANYILLINOIS            86,923.00           
+A-19253-56215       LENDINGTREE         NORTH CAROLINA      105,893.00          
+A-19254-56755       Main Street Subs & Salads, LLCWISCONSIN           17,347.00           
+A-19256-58113       Vibrant Sciences, LLCCALIFORNIA          97,906.00           
+A-19263-60874       DRISHTICON          CALIFORNIA          144,040.00          
+A-19266-61506       Farbest Foods Inc   INDIANA             24,003.00           
+A-19267-61945       Farbest Foods Inc   INDIANA             24,003.00           
+A-18106-63938       IM FLASH TECHNOLOGIES, LLCUTAH                88,338.00           
+A-18110-66012       IM FLASH TECHNOLOGIES, LLCUTAH                61,880.00           
+A-18192-96096       MUNDIAL, INC,       FLORIDA             70,262.00           
+A-18221-06153       DLR GROUP           NEBRASKA            61,339.00           
+A-18236-10990       TWITTER, INC.       CALIFORNIA          118,456.00          
+A-18247-14122       ADROIX CORP (DBA) CODEFORCE 360GEORGIA             75,566.00           
+A-18247-14156       ADROIX CORP (DBA) CODEFORCE 360GEORGIA             95,451.00           
+A-18247-14210       ADROIX CORP (DBA) CODEFORCE 360GEORGIA             90,626.00           
+A-18248-14675       ADROIX CORP (DBA) CODEFORCE 360GEORGIA             95,451.00           
+A-18270-22925       TESLA, INC.         CALIFORNIA          97,864.00           
+A-18304-35833       PARTNERS PHYSICIAN GROUPOHIO                126,651.00          
+A-18331-45280       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18334-46610       Ancestry.com Operations, Inc.UTAH                75,504.00           
+A-18336-46970       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18336-46972       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18336-47002       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18336-47023       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18336-47033       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18336-47034       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18336-47035       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18339-48353       APPLIED COMPUTER TECHNIQUESMICHIGAN            72,030.00           
+A-18339-48531       INTUIT              CALIFORNIA          84,885.00           
+A-18344-50331       APPLIED COMPUTER TECHNIQUESMICHIGAN            72,030.00           
+A-18347-52338       CHICKEN KEBAB       NEW YORK            33,176.00           
+A-18348-52856       J&J MULTISERVICES EXPRESS LLCFLORIDA             36,005.00           
+A-18352-54154       EXPEDIA, INC.       WASHINGTON          89,981.00           
+A-18353-54256       OKLAHOMA INVESTMENT GROUP LLC MGOKLAHOMA            81,037.00           
+A-18361-57077       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18365-57574       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-18365-57596       MVT SERVICES, LLC   NEW MEXICO          31,387.00           
+A-19003-58472       UNIVERSITY OF UTAH  UTAH                59,134.00           
+A-19004-58671       INTEL CORPORATION   CALIFORNIA          113,093.00          
+A-19009-60211       INTEL CORPORATION   CALIFORNIA          128,480.00          
+A-19010-60710       INTEL MASSACHUSETTS, INC.MASSACHUSETTS       85,907.00           
+A-19010-60714       INTEL CORPORATION   CALIFORNIA          112,315.00          
+A-19010-60800       NIC INFO TEK INC    FLORIDA             73,112.00           
+A-19011-61426       ECOGREEN CONSTRUCTION INCCALIFORNIA          77,334.00           
+A-19011-61513       EXPEDIA, INC.       WASHINGTON          98,575.00           
+A-19011-61627       Demirkiran Imports LLCVIRGINIA            20,072.00           
+A-19014-62069       TUBULAR LABS        CALIFORNIA          74,006.00           
+A-19015-62737       NVIDIA CORPORATION  CALIFORNIA          192,233.00          
+A-19017-63764       INTUIT              CALIFORNIA          95,638.00           
+A-19020-64283       Arrow Electrical ServicesTEXAS               109,138.00          
+A-19022-64590       LITEX INDUSTRIES, LIMITEDTEXAS               52,978.00           
+A-19022-64724       kinectra llc        TEXAS               77,854.00           
+A-19022-64913       INTEL CORPORATION   CALIFORNIA          129,103.00          
+A-19023-65109       UNICON PHARMA INC.  NEW JERSEY          87,464.00           
+A-19023-65215       UNICON PHARMA INC.  NEW JERSEY          87,464.00           
+A-19023-65436       ELECTRONIC ARTS, INC.CALIFORNIA          118,456.00          
+A-19024-65824       APPS SOLUTIONS INC  PENNSYLVANIA        59,197.00           
+A-19030-67561       INTEL MASSACHUSETTS, INC.MASSACHUSETTS       86,011.00           
+A-19030-67584       D' ELEGANCE ENTERPRISES, INC.nan                 53,310.00           
+A-19031-68163       VIBRANT SCIENCES LLCCALIFORNIA          136,864.00          
+A-19031-68256       FULL CARE, INC      MISSOURI            22,797.00           
+A-19032-68685       INTEL MASSACHUSETTS, INC.MASSACHUSETTS       85,907.00           
+A-19035-69300       L&T TECHNOLOGY SERVICES LIMITEDNEW JERSEY          96,366.00           
+A-19037-70603       ELIASSEN GROUP, LLC MASSACHUSETTS       63,003.00           
+A-19038-70936       ELIASSEN GROUP, LLC MASSACHUSETTS       63,003.00           
+A-19039-71332       R SYSTEMS INC       CALIFORNIA          102,690.00          
+A-19039-71445       R SYSTEMS INC       CALIFORNIA          102,690.00          
+A-19039-71484       L&T TECHNOLOGY SERVICES LIMITEDNEW JERSEY          80,350.00           
+A-19042-71880       MCKESSON CORPORATIONTEXAS               83,075.00           
+A-19044-72753       The Lawn Champs, LLCMISSOURI            22,797.00           
+A-19044-72759       The Lawn Champs, LLCMISSOURI            22,797.00           
+A-19044-72915       COCO SOFT INC.      CALIFORNIA          103,064.00          
+A-19051-74960       My3Tech Inc         SOUTH DAKOTA        61,901.00           
+A-19051-75036       AUROPRO SYSTEMS, INCNEW JERSEY          77,022.00           
+A-19052-75365       ESTATE LANDSCAPING, INC. DBA ESTATES LANDSCAPINGOHIO                23,150.00           
+A-19052-75379       ESTATE LANDSCAPING, INC. DBA ESTATES LANDSCAPINGOHIO                23,150.00           
+A-19054-76092       Lanier Cold Storage, LLCGEORGIA             20,946.00           
+A-19056-76491       Lanier Cold Storage, LLCGEORGIA             20,946.00           
+A-19057-76888       TECUMSEH POULTRY LLCNEBRASKA            12.10               
+A-19057-76916       Lanier Cold Storage, LLCGEORGIA             20,946.00           
+A-19057-76921       TECUMSEH POULTRY LLCNEBRASKA            12.10               
+A-19057-76925       TECUMSEH POULTRY LLCNEBRASKA            12.10               
+A-19057-76935       TECUMSEH POULTRY LLCNEBRASKA            12.10               
+A-19057-76961       ELECTRONIC ARTS, INC.CALIFORNIA          121,077.00          
+A-19070-80606       INFORMATICA LLC     CALIFORNIA          118,456.00          
+A-19092-87811       PIONEER ANESTHESIA CONSULTANTS LLCINDIANA             208,000.00          
+A-19093-88322       NORTHERN MICHIGAN UNIVERSITYMICHIGAN            52,407.00           
+A-19093-88430       RIZONTEK, INC.      VIRGINIA            84,926.00           
+A-19098-90169       SUNY ESF            NEW YORK            42,463.00           
+A-19101-91430       INTEL AMERICA'S INC.CALIFORNIA          88,483.00           
+A-19115-97614       Heritage Landscape ServicesVIRGINIA            23,733.00           
+A-19116-98165       Heritage Landscape ServicesVIRGINIA            23,733.00           
+A-19117-98228       HP INC.             CALIFORNIA          172,078.00          
+A-19119-98810       UNIVERSITY OF SOUTH FLORIDAFLORIDA             87,351.00           
+A-19121-99650       GEORGETOWN UNIVERSITYDISTRICT OF COLUMBIA45,520.00           
+A-19123-00680       INTEL CORPORATION   CALIFORNIA          116,646.00          
+A-19123-00977       GOOGLE LLC          CALIFORNIA          132,184.00          
+A-19127-01854       MEAD JOHNSON & COMPANY, LLCINDIANA             86,736.00           
+A-19128-02769       UMASS MEMORIAL MEDICAL CENTER, INC.MASSACHUSETTS       107,390.00          
+A-19129-03212       UBER TECHNOLOGIES INC.CALIFORNIA          79,206.00           
+A-19130-03582       UBS BUSINESS SOLUTIONS US LLCDELAWARE            92,997.00           
+A-19130-03804       UBER TECHNOLOGIES INC.CALIFORNIA          79,206.00           
+A-19134-05129       MORGAN STANLEY SERVICES GROUP INCNEW YORK            91,986.00           
+A-19134-05139       VISA TECHNOLOGY AND OPERATIONS, LLCCALIFORNIA          93,558.00           
+A-19135-05285       NVIDIA CORPORATION  CALIFORNIA          106,579.00          
+A-19135-05444       THE NIELSEN COMPANY (US), LLCNEW YORK            91,645.00           
+A-19135-05587       MORGAN STANLEY SERVICES GROUP INCNEW YORK            74,443.00           
+A-19135-05654       SALESFORCE.COM      CALIFORNIA          102,898.00          
+A-19136-06084       GOOGLE LLC          CALIFORNIA          117,624.00          
+A-19136-06113       SOUTHERN METHODIST UNIVERSITYTEXAS               45,130.00           
+A-19137-06617       MANATRON, INC.      MICHIGAN            93,538.00           
+A-19137-06640       THE JOHNS HOPKINS UNIVERSITYMARYLAND            53,790.00           
+A-19137-06685       SALESFORCE.COM      CALIFORNIA          107,744.00          
+A-19137-06821       VIP Labor Solution IncNEW YORK            63,190.00           
+A-19137-06823       SAXON GLOBAL INC    TEXAS               93,538.00           
+A-19137-06956       TARGET ENTERPRISE, INC.MINNESOTA           116,730.00          
+A-19140-07162       SONY INTERACTIVE ENTERTAINMENT LLCCALIFORNIA          109,658.00          
+A-19141-07743       T-MOBILE USA, INC.  WASHINGTON          133,806.00          
+A-19141-08287       MONTANA STATE UNIVERSITYMONTANA             65,750.00           
+A-19142-08382       T-MOBILE USA, INC.  WASHINGTON          130,230.00          
+A-19142-08641       UNIVERSITY OF CALIFORNIA, LOS ANGELESCALIFORNIA          51,720.00           
+A-19142-08652       Software Associates IncMARYLAND            126,256.00          
+A-19143-09361       The Comfort Companies, LLCWISCONSIN           100,672.00          
+A-19144-09707       GOOGLE LLC          CALIFORNIA          74,006.00           
+A-19144-09811       HOUZZ INC.          CALIFORNIA          109,242.00          
+A-19144-09825       SHUTTERFLY, INC.    CALIFORNIA          121,077.00          
+A-19148-10376       THE MATHWORKS, INC. MASSACHUSETTS       78,645.00           
+A-19148-10602       VALUEMOMENTUM, INC. NEW JERSEY          138,861.00          
+A-19149-11227       GOOGLE LLC          CALIFORNIA          132,184.00          
+A-19149-11345       UBER TECHNOLOGIES INC.CALIFORNIA          118,456.00          
+A-19150-11645       UBER TECHNOLOGIES INC.CALIFORNIA          74,006.00           
+A-19151-12283       REPUTATION.COM, INC.CALIFORNIA          100,506.00          
+A-19151-12355       HEWLETT PACKARD ENTERPRISE COMPANYCALIFORNIA          121,389.00          
+A-19154-12918       TMC North America IncWISCONSIN           109,491.00          
+A-19154-12958       THE TRAVELERS INDEMNITY COMPANYCONNECTICUT         67,642.00           
+A-19155-13402       Movial North America, Inc.CALIFORNIA          154,315.00          
+A-19155-13528       ORACLE AMERICA, INC.CALIFORNIA          121,410.00          
+A-19155-13681       VALUEMOMENTUM, INC. NEW JERSEY          138,861.00          
+A-19156-13974       FACEBOOK, INC.      CALIFORNIA          100,506.00          
+A-19156-13995       SALESFORCE.COM      CALIFORNIA          121,077.00          
+A-19156-14156       RITE SOFTWARE SOLUTIONS & SERVICES LLCTEXAS               91,915.00           
+A-19156-14232       Neutron Holdings, Inc. d/b/a LimeCALIFORNIA          128,690.00          
+A-19157-14755       sp0n Inc. DBA CitizenNEW YORK            137,426.00          
+A-19157-14867       TRIMBLE INC.        CALIFORNIA          102,357.00          
+A-19157-15044       APPLE INC.          CALIFORNIA          86,320.00           
+A-19158-15162       UBS BUSINESS SOLUTIONS US LLCDELAWARE            138,050.00          
+A-19158-15462       HARTFORD FIRE INSURANCE COMPANYCONNECTICUT         87,131.00           
+A-19158-15489       SIMCORP USA, INC.   NEW YORK            93,642.00           
+A-19159-15685       VASSAR COLLEGE      NEW YORK            56,290.00           
+A-19159-15707       UBER TECHNOLOGIES INC.CALIFORNIA          79,206.00           
+A-19159-15716       UBER TECHNOLOGIES INC.CALIFORNIA          94,557.00           
+A-19159-15722       UBER TECHNOLOGIES INC.CALIFORNIA          121,077.00          
+A-19161-15780       Us Granite Marble Inc.MARYLAND            88,234.00           
+A-19161-15868       MICROSTRATEGY INCORPORATEDVIRGINIA            65,686.00           
+A-19161-16042       UBER TECHNOLOGIES INC.CALIFORNIA          121,077.00          
+A-19161-16176       WASHINGTON UNIVERSITY IN ST. LOUISMISSOURI            157,667.00          
+A-19161-16281       VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITYVIRGINIA            45,220.00           
+A-19162-16563       SSATECH, INC        VIRGINIA            93,933.00           
+A-19162-16610       SSATECH, INC        VIRGINIA            93,933.00           
+A-19163-17119       T-MOBILE USA, INC.  WASHINGTON          104,790.00          
+A-19163-17211       VANDERBILT UNIVERSITYTENNESSEE           93,184.00           
+A-19163-17372       Summit Landscape Group, LLCSOUTH CAROLINA      27,518.00           
+A-19163-17439       UNIVERSITY OF RHODE ISLANDRHODE ISLAND        92,250.00           
+A-19163-17545       SOUTH DAKOTA STATE UNIVERSITYSOUTH DAKOTA        51,860.00           
+A-19163-17580       SHADOW LAKE ASSOCIATES, INCNEW JERSEY          59,550.00           
+A-19164-17778       THE UNIVERSITY OF TENNESSEE, KNOXVILLETENNESSEE           41,070.00           
+A-19164-17785       GOOGLE LLC          CALIFORNIA          86,320.00           
+A-19164-17826       IMG SYSTEMS INC     TEXAS               93,538.00           
+A-19164-18000       Society of Photo-Optical Instrumentation EngineersWASHINGTON          102,960.00          
+A-19164-18081       FUJI HANA STEAK & SUSHIGEORGIA             25,771.00           
+A-19164-18118       SPIRENT COMMUNICATIONSCALIFORNIA          76,378.00           
+A-19164-18218       APPLE INC.          CALIFORNIA          119,101.00          
+A-19165-18479       HUMANA INSURANCE COMPANYKENTUCKY            94,432.00           
+A-19165-18486       INDIANA UNIVERSITY  INDIANA             46,370.00           
+A-19165-18532       SPLUNK              CALIFORNIA          119,101.00          
+A-19165-18594       FACEBOOK, INC.      CALIFORNIA          94,557.00           
+A-19165-18700       FACEBOOK, INC.      CALIFORNIA          111,655.00          
+A-19165-18706       PINTEREST, INC.     CALIFORNIA          147,597.00          
+A-19165-18733       Solmon Alam LLC     MASSACHUSETTS       31,990.00           
+A-19165-18756       SHERIDAN PETROLEUM, INCFLORIDA             58,219.00           
+A-19165-18819       Tobinworld          CALIFORNIA          59,830.00           
+A-19168-19065       MVHE, INC.          OHIO                208,000.00          
+A-19168-19072       GOOGLE LLC          CALIFORNIA          86,320.00           
+A-19168-19132       HEWLETT PACKARD ENTERPRISE COMPANYCALIFORNIA          106,413.00          
+A-19168-19190       UBS BUSINESS SOLUTIONS US LLCDELAWARE            77,251.00           
+A-19169-19550       INTEL CORPORATION   CALIFORNIA          91,874.00           
+A-19169-19565       INTEL CORPORATION   CALIFORNIA          88,795.00           
+A-19169-19587       INTEL CORPORATION   CALIFORNIA          85,134.00           
+A-19169-19605       COGNISOFT TECHNOLOGIES LLCNEW JERSEY          90,605.00           
+A-19169-19880       UNIVERSITY OF NEW HAMPSHIRENEW HAMPSHIRE       133,000.00          
+A-19169-19909       SODEXO, INC.        MARYLAND            190,507.00          
+A-19169-19924       UNIVERSITY OF PENNSYLVANIAPENNSYLVANIA        66,350.00           
+A-19169-19947       Prudent Accountants IncMINNESOTA           62,026.00           
+A-19169-20122       Talita Camilo Professional ServicesMASSACHUSETTS       56,971.00           
+A-19170-20183       INTEL CORPORATION   CALIFORNIA          125,424.00          
+A-19170-20188       INTEL CORPORATION   CALIFORNIA          101,317.00          
+A-19170-20190       LARSEN & TOUBRO INFOTECH LIMITEDNEW JERSEY          117,624.00          
+A-19170-20196       INTEL CORPORATION   CALIFORNIA          91,874.00           
+A-19170-20411       FIGMA, INC.         CALIFORNIA          98,842.00           
+A-19170-20423       TWITTER, INC.       CALIFORNIA          157,706.00          
+A-19170-20478       UNIVERSITY OF DAYTONOHIO                58,460.00           
+A-19170-20493       TECHNOVATORS INC.   NEW JERSEY          103,834.00          
+A-19170-20495       GOOGLE LLC          CALIFORNIA          86,320.00           
+A-19170-20570       FACEBOOK, INC.      CALIFORNIA          168,189.00          
+A-19171-20758       LARSEN & TOUBRO INFOTECH LIMITEDNEW JERSEY          77,022.00           
+A-19171-20766       YODLEE, INC.        CALIFORNIA          111,078.00          
+A-19171-20870       SIEMENS ENERGY, INC.FLORIDA             121,139.00          
+A-19171-20886       NUMBERS ONLY, INC.  TEXAS               72,176.00           
+A-19171-20938       HUMANA INSURANCE COMPANYKENTUCKY            122,782.00          
+A-19171-20986       SOFTNICE INC.       PENNSYLVANIA        79,123.00           
+A-19171-21013       Hitech Info Group, LLCGEORGIA             104,790.00          
+A-19171-21063       ASCENA RETAIL GROUP, INC.OHIO                114,691.00          
+A-19171-21086       Hexion, Inc.        OHIO                124,738.00          
+A-19171-21105       SALESFORCE.COM      CALIFORNIA          123,301.00          
+A-19171-21137       VISA TECHNOLOGY AND OPERATIONS, LLCCALIFORNIA          190,507.00          
+A-19171-21221       New Horizon Plus, incNEW YORK            67,725.00           
+A-19171-21222       HOLOGIC, INC.       MASSACHUSETTS       111,446.00          
+A-19171-21223       ELECTION SYSTEM & SOFTWARE, INC.NEBRASKA            75,504.00           
+A-19171-21306       GAP INC.            CALIFORNIA          153,358.00          
+A-19171-21356       Hexion, Inc.        OHIO                124,738.00          
+A-19172-21435       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21436       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21437       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19172-21438       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19172-21439       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21441       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21442       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21443       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19172-21444       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21446       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21448       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21449       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21450       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19172-21452       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19172-21453       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21454       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19172-21498       OTC DIRECT, INC.    NEBRASKA            46,925.00           
+A-19172-21659       Unica Group Inc.    PENNSYLVANIA        58,219.00           
+A-19172-21688       STATE STREET BANK AND TRUST COMPANYMASSACHUSETTS       81,037.00           
+A-19172-21690       MARIETTA COLLEGE    OHIO                39,623.00           
+A-19172-21793       PricewaterhouseCoopers Advisory Services LLCFLORIDA             106,350.00          
+A-19173-21916       T. ROWE PRICE ASSOCIATES, INC.MARYLAND            80,704.00           
+A-19174-21920       SSATECH, INC        VIRGINIA            93,933.00           
+A-19174-21956       T. ROWE PRICE ASSOCIATES, INC.MARYLAND            80,704.00           
+A-19174-21978       Grava LLC           TEXAS               75,317.00           
+A-19175-22055       INTEL CORPORATION   CALIFORNIA          74,485.00           
+A-19175-22096       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22097       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22098       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22100       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22101       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22102       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22292       Upserve             RHODE ISLAND        79,456.00           
+A-19175-22316       MEDTRONIC, INC.     MINNESOTA           82,222.00           
+A-19175-22329       UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTEROKLAHOMA            72,657.00           
+A-19175-22369       WICHITA STATE UNIVERSITYKANSAS              49,400.00           
+A-19175-22399       Oshman Mirisola Law Group, PLLCNEW YORK            47,549.00           
+A-19175-22429       SALESFORCE.COM      CALIFORNIA          138,778.00          
+A-19175-22494       Robin E Lippert     DISTRICT OF COLUMBIA33,134.00           
+A-19175-22504       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22507       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22508       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22514       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22536       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22537       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22539       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               75,130.00           
+A-19175-22540       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               88,171.00           
+A-19175-22563       PALANTIR TECHNOLOGIESCALIFORNIA          101,837.00          
+A-19175-22596       PALANTIR TECHNOLOGIESCALIFORNIA          101,837.00          
+A-19176-22801       MIO PARTNERS, INC.  NEW YORK            106,371.00          
+A-19176-22864       PINNACLE TECHNICAL RESOURCES, INC.TEXAS               98,925.00           
+A-19176-22879       FACEBOOK, INC.      CALIFORNIA          111,655.00          
+A-19176-23075       SUPERIOR ESSEX INTERNATIONAL LPGEORGIA             70,658.00           
+A-19176-23250       Mode Analytics, Inc.CALIFORNIA          70,158.00           
+A-19177-23299       ROBERT BOSCH LLC    MICHIGAN            109,179.00          
+A-19177-23399       SOCIAL FINANCE INC. CALIFORNIA          117,853.00          
+A-19177-23488       Gowan Company LLC   ARIZONA             71,302.00           
+A-19178-24108       U.S. BANK NATIONAL ASSOCIATIONMINNESOTA           112,403.00          
+A-19178-24201       TSYS ACQUIRING SOLUTIONSARIZONA             90,875.00           
+A-19178-24258       PINTEREST, INC.     CALIFORNIA          121,077.00          
+A-19178-24282       THIN FILM ELECTRONICS, INC.CALIFORNIA          112,922.00          
+A-19178-24290       RIGHT CARE LLC      TEXAS               17,410.00           
+A-19178-24337       H.Y. International CorporationVIRGINIA            23,608.00           
+A-19178-24343       UNIVERSITY OF DELAWAREDELAWARE            78,538.00           
+A-19178-24350       ORACLE FINANCIAL SERVICES SOFTWARE INC.NEW JERSEY          138,861.00          
+A-19178-24411       HOJ ENGINEERING & SALES CO., LLCUTAH                47,778.00           
+A-19178-24436       PINTEREST, INC.     CALIFORNIA          118,456.00          
+A-19178-24486       PANASONIC AVIONICS CORPORATIONCALIFORNIA          113,986.00          
+A-19179-24867       ORACLE FINANCIAL SERVICES SOFTWARE INC.NEW JERSEY          72,509.00           
+A-19179-24950       UNIVERSITY OF MAINE MAINE               76,500.00           
+A-19179-25002       POLYCOR U.S., INC.  GEORGIA             74,131.00           
+A-19179-25231       GOOGLE LLC          CALIFORNIA          147,597.00          
+A-19179-25316       TARGET ENTERPRISE, INC.MINNESOTA           109,928.00          
+A-19180-25341       Restoration Media Inc.CALIFORNIA          51,438.00           
+A-19181-25446       SUTHERLAND GLOBAL SERVICESNEW YORK            201,282.00          
+A-19182-25619       FACEBOOK, INC.      CALIFORNIA          121,077.00          
+A-19182-25678       State University of New YorkCollege at PlattsburghNEW YORK            41,630.00           
+A-19182-25699       OCCIDENTAL PETROLEUM CORPTEXAS               76,773.00           
+A-19182-25850       APPS SOLUTIONS INC  PENNSYLVANIA        59,197.00           
+A-19182-25877       NORDSTROM, INC      WASHINGTON          162,219.00          
+A-19183-26068       HCA MANAGEMENT SERVICES LPTENNESSEE           97,053.00           
+A-19183-26348       PINNACLE TECHNICAL RESOURCES, INC.TEXAS               94,307.00           
+A-19183-26394       UNIVERSITY OF COLORADOCOLORADO            68,210.00           
+A-19183-26456       FACEBOOK, INC.      CALIFORNIA          101,837.00          
+A-19183-26541       REDBRIDGE CAPITAL, LLCCALIFORNIA          103,917.00          
+A-19184-26677       FACEBOOK, INC.      CALIFORNIA          111,655.00          
+A-19184-26687       GOOGLE LLC          CALIFORNIA          132,184.00          
+A-19184-26725       SYNGENTA CROP PROTECTION LLCNORTH CAROLINA      73,674.00           
+A-19184-26914       Sg  Glass IndustriesFLORIDA             37,960.00           
+A-19184-26929       GOOGLE LLC          CALIFORNIA          86,320.00           
+A-19184-26946       Vintha Inc.         MAINE               48,734.00           
+A-19184-26957       FACEBOOK, INC.      CALIFORNIA          124,671.00          
+A-19184-27011       PricewaterhouseCoopers Advisory Services LLCFLORIDA             138,861.00          
+A-19186-27219       INTEL CORPORATION   CALIFORNIA          88,816.00           
+A-19186-27248       Family of Saint SharbelVIRGINIA            60,944.00           
+A-19186-27291       UNITED CHINESE RESTAURANT III, INC.COLORADO            30,264.00           
+A-19186-27293       FACEBOOK, INC.      CALIFORNIA          100,506.00          
+A-19186-27370       UNIVERSITY OF HOUSTONTEXAS               40,990.00           
+A-19188-27459       Thoughtline Technologies IncILLINOIS            96,658.00           
+A-19188-27471       VITECH SYSTEMS GROUPNEW YORK            96,366.00           
+A-19189-27688       GALLEGA SOFTWARE SOLUTIONS , INCGEORGIA             108,555.00          
+A-19189-27979       SYNAPTICS, INC      CALIFORNIA          129,563.00          
+A-19190-28103       SAIPEM AMERICA, INC TEXAS               51,210.00           
+A-19190-28153       TRUMPF INC.         CONNECTICUT         81,411.00           
+A-19190-28305       TECHASPECT SOLUTIONS INCCALIFORNIA          103,064.00          
+A-19190-28355       MEDTRONIC, INC.     MINNESOTA           93,163.00           
+A-19190-28380       TECHASPECT SOLUTIONS INCCALIFORNIA          103,064.00          
+A-19190-28385       TECHASPECT SOLUTIONS INCCALIFORNIA          103,064.00          
+A-19190-28421       TECHASPECT SOLUTIONS INCCALIFORNIA          103,064.00          
+A-19190-28483       GOOGLE LLC          CALIFORNIA          132,184.00          
+A-19190-28549       TRIBOLATECH INC.    CALIFORNIA          106,226.00          
+A-19191-28662       NOVARTIS PHARMACEUTICALS CORPORATIONNEW JERSEY          190,403.00          
+A-19191-28888       TOTAL SYSTEM SERVICES, INC. (TSYS, INC.)GEORGIA             125,320.00          
+A-19191-28970       GLU MOBILE INC      CALIFORNIA          141,856.00          
+A-19191-28974       FMC TECHNOLOGIES, INC.TEXAS               53,394.00           
+A-19191-29080       TELIGENT            NEW JERSEY          135,533.00          
+A-19191-29088       MASTERCARD INTERNATIONAL INCORPORATEDNEW YORK            197,142.00          
+A-19191-29110       GOOGLE LLC          CALIFORNIA          86,320.00           
+A-19191-29121       ROYAL BANK OF CANADANEW JERSEY          212,181.00          
+A-19191-29180       PETCO ANIMAL SUPPLIES STORES, INC.CALIFORNIA          124,654.00          
+A-19191-29184       First Genesis Professional Services, Inc.TEXAS               128,170.00          
+A-19191-29216       ROKU, INC.          CALIFORNIA          96,762.00           
+A-19192-29333       STEWARD MEDICAL GROUPTEXAS               125,986.00          
+A-19192-29342       SIEMENS ENERGY, INC.FLORIDA             120,286.00          
+A-19192-29431       GOOGLE LLC          CALIFORNIA          117,624.00          
+A-19192-29488       SIEMENS MEDICAL SOLUTIONS USA, INC.PENNSYLVANIA        113,214.00          
+A-19192-29495       EVERCORE PARTNERS SERVICES EAST, LLCNEW YORK            259,834.00          
+A-19192-29574       SVA ARCHITECTS      CALIFORNIA          70,387.00           
+A-19192-29585       TECHNOLOGY RESOURCE GROUP, LLCMICHIGAN            63,128.00           
+A-19192-29642       STRATEGIC RESOURCES INTERNATIONAL, INCNEW JERSEY          114,754.00          
+A-19192-29678       GEORGIA STATE UNIVERSITYGEORGIA             46,390.00           
+A-19192-29684       GOOGLE LLC          CALIFORNIA          132,184.00          
+A-19192-29705       HENRY FORD HEALTH SYSTEMMICHIGAN            86,778.00           
+A-19192-29710       PRUTECH SOLUTIONS, INCNEW JERSEY          138,861.00          
+A-19192-29768       RIDER LEVETT BUCKNALL LTD.ARIZONA             56,867.00           
+A-19193-29996       GULFSTREAM AEROSPACE CORPORATIONGEORGIA             96,554.00           
+A-19193-30047       THE MOAK YANG PRESBYTERIAN CHURCHNEW YORK            33,946.00           
+A-19193-30128       MUFG UNION BANK, N.A.NEW YORK            100,506.00          
+A-19193-30156       ONDOT SYSTEMS INC.  CALIFORNIA          122,221.00          
+A-19193-30177       ZENSAR TECHNOLOGIES INC.ILLINOIS            90,563.00           
+A-19193-30184       LMT Onsrud LP       ILLINOIS            99,632.00           
+A-19193-30245       HITACHI VANTARA CORPORATIONCALIFORNIA          109,242.00          
+A-19193-30298       FastModel Holdings, LLCILLINOIS            115,440.00          
+A-19193-30301       THE CHILDREN'S MERCY HOSPITALMISSOURI            163,880.00          
+A-19194-30340       HOME DEPOT U.S.A., INC.GEORGIA             163,134.00          
+A-19196-30510       SPRUCE INFOTECH INC PENNSYLVANIA        90,646.00           
+A-19196-30652       REXNORD INDUSTRIES, LLCWISCONSIN           90,459.00           
+A-19196-30783       THE VANGUARD GROUP  PENNSYLVANIA        122,304.00          

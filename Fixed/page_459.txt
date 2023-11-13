@@ -1,0 +1,500 @@
+A-16195-32225       MINDEX TECHNOLOGIES INC.NY                  61,818.00           
+A-16244-48579       US IT SOLUTIONS, INC.CA                  96,325.00           
+A-16195-32285       ROBERT BOSCH LLC    MI                  127,192.00          
+A-16194-31549       AMSTAR GROUP LLC    CO                  182,686.00          
+A-16137-10512       TARGET LABS, INC.   VA                  88,878.00           
+A-16237-46063       UBS BANK USA        UT                  124,093.00          
+A-16250-49601       RANDSTAD TECHNOLOGIES, LPMA                  131,747.00          
+A-16244-48415       US IT SOLUTIONS, INC.CA                  73,091.00           
+A-16244-48590       US IT SOLUTIONS, INC.CA                  94,619.00           
+A-16250-49614       MEDIDATA SOLUTIONS  NY                  67,808.00           
+A-16161-19869       DELOITTE CONSULTING LLPPA                  71,021.00           
+A-16140-12412       Spike Inc.          MA                  70,741.00           
+A-16194-31694       CISCO SYSTEMS, INC. CA                  104,694.00          
+A-16140-12200       SALESFORCE.COM      CA                  98,987.00           
+A-16154-17083       Accenz LLC          MI                  70,304.00           
+A-16133-09318       MINDTREE LIMITED    NJ                  101,400.00          
+A-16132-08444       COMPUSOFT INTEGRATED SOLUTIONS, INC.MI                  93,912.00           
+A-16194-31671       CERNER CORPORATION  MO                  66,997.00           
+A-16194-31645       QUALCOMM TECHNOLOGIES INC.CA                  99,861.00           
+A-16159-18978       D&M Steel, Inc.     CA                  52,042.00           
+A-16244-48438       NTT DATA, INC       TX                  115,794.00          
+A-16137-10624       MINDTREE LIMITED    NJ                  101,400.00          
+A-16251-50156       UBER TECHNOLOGIES INC.CA                  113,381.00          
+A-16251-50163       NISSAN NORTH AMERICA INC.TN                  65,208.00           
+A-16244-48603       PROKARMA INC        NE                  81,910.00           
+A-16244-48602       Master Chang's Tiger Den Martial Arts & Ballet IncNC                  25,847.00           
+A-16159-18887       AMERICAN TECH VISION SOLUTIONS LLCTX                  85,862.00           
+A-16244-48364       MUFG UNION BANK, N.A.NY                  91,166.00           
+A-16194-31841       JP MORGAN CHASE & COIL                  89,523.00           
+A-16167-21931       YAHOO! INC.         CA                  82,576.00           
+A-16194-31597       GOOGLE INC.         CA                  122,296.00          
+A-16244-48580       BANK OF AMERICA     NC                  110,448.00          
+A-16244-48437       CUMMINS INC.        IN                  65,645.00           
+A-16244-48598       MARVELL SEMICONDUCTOR INCCA                  89,150.00           
+A-16244-48368       NEMO IT SOLUTIONS, INCTX                  86,195.00           
+A-16146-14695       WASHINGTON HOSPITAL CENTERDC                  143,416.00          
+A-16161-19916       BEUMER Kansas City, LLCMO                  53,539.00           
+A-16250-49688       SYNTEL INC.         MI                  81,744.00           
+A-16250-49622       SYNTEL INC.         MI                  81,744.00           
+A-16210-36724       BARRETTS MINERALS INC.MT                  107,682.00          
+A-16236-45341       NEXANT, INC.        CA                  71,885.00           
+A-16237-46036       DOLLAR SHAVE CLUB, INC.CA                  64,834.00           
+A-16250-49968       LOGIC Solutions Group LLCTX                  98,030.00           
+A-16250-49666       MASTECH, INC., A MASTECH HOLDINGS, INC. COMPANYPA                  101,712.00          
+A-16194-31527       ERNST & YOUNG U.S. LLPNJ                  107,661.00          
+A-16237-46056       ALLINA HEALTH SYSTEMMN                  184,974.00          
+A-16250-49593       LT Design Studio    CA                  88,795.00           
+A-16151-15813       ERNST & YOUNG U.S. LLPNJ                  110,510.00          
+A-16194-31679       APPLE INC.          CA                  157,477.00          
+A-16195-32196       WELLINGTON MANAGEMENT COMPANY LLPMA                  107,474.00          
+A-16137-10309       SALESFORCE.COM      CA                  117,770.00          
+A-16137-10482       UNIVERSITY OF ILLINOIS AT CHICAGOIL                  23,740.00           
+A-16244-48388       CAPGEMINI AMERICA, INC.IL                  86,070.00           
+A-16170-23468       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16147-15136       CORNERSTONE ONDEMAND, INC.CA                  120,453.00          
+A-16195-32240       Ludvig Svensson, Inc.NC                  90.00               
+A-16244-48410       CAPGEMINI AMERICA, INC.IL                  87,027.00           
+A-16162-20665       APPLE INC.          CA                  120,349.00          
+A-16245-48634       CAPGEMINI AMERICA, INC.IL                  125,445.00          
+A-16162-20526       MICROSOFT CORPORATIONWA                  40,352.00           
+A-16244-48358       CAPGEMINI AMERICA, INC.IL                  86,070.00           
+A-16237-46013       CAPGEMINI AMERICA, INC.IL                  87,027.00           
+A-16237-46054       ASPEN TECHNOLOGY, INCMA                  113,464.00          
+A-16244-48407       NOBLE ENERGY INC.   TX                  120,182.00          
+A-16244-48392       PIONEER CONSULTING SERVICES, LLCIA                  91,520.00           
+A-16237-46017       CBRE, INC           TX                  104,936.00          
+A-16244-48427       CAPGEMINI AMERICA, INC.IL                  86,070.00           
+A-16153-16849       CISCO SYSTEMS, INC. CA                  82,098.00           
+A-16237-46058       ORACLE AMERICA, INC.CA                  136,573.00          
+A-16152-16106       CORNERSTONE ONDEMAND, INC.CA                  61,880.00           
+A-16146-14409       Capriza Inc.        CA                  120,349.00          
+A-16244-48380       CHARTER GLOBAL, INC.GA                  95,306.00           
+A-16130-07452       RAZORFISH, LLC      WA                  45,261.00           
+A-16237-46031       CAPGEMINI AMERICA, INC.IL                  88,504.00           
+A-16195-32168       VERINT SYSTEMS INC. NY                  107,349.00          
+A-16236-45440       CISCO SYSTEMS, INC. CA                  96,640.00           
+A-16137-10218       ERNST & YOUNG U.S. LLPNJ                  75,566.00           
+A-16137-10498       MICROSOFT CORPORATIONWA                  118,706.00          
+A-16134-09526       ERNST & YOUNG U.S. LLPNJ                  75,566.00           
+A-16245-48611       IITJOBS, INC        CA                  121,202.00          
+A-16244-48280       JCG FOODS OF GEORGIA LLC D/B/A KOCH FOODSGA                  20,654.00           
+A-16231-43782       TECHPILLARS INC     GA                  93,371.00           
+A-16236-45377       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16238-46219       HNI CORPORATION     IA                  90,480.00           
+A-16244-48297       JCG FOODS OF GEORGIA LLC D/B/A KOCH FOODSGA                  20,654.00           
+A-16231-44065       AMAZON CORPORATE LLCWA                  102,731.00          
+A-16232-44189       AMAZON CORPORATE LLCWA                  76,294.00           
+A-16218-39513       GULFSTREAM AEROSPACE CORPORATIONGA                  76,336.00           
+A-16238-46512       AIG EMPLOYEE SERVICES, INC.NY                  111,488.00          
+A-16231-44031       NETPACE, INC        CA                  79,498.00           
+A-16203-34709       GOOGLE INC.         CA                  98,342.00           
+A-16242-47611       TIGER ANALYTICS LLC CA                  96,325.00           
+A-16243-47939       SRI LANKA FOUNDATION incCA                  48,547.00           
+A-16237-45993       Lundberg, LLC       WA                  102,232.00          
+A-16243-47685       WAYNE FARMS LLC     GA                  9.24                
+A-16225-42072       APPLE INC.          CA                  119,912.00          
+A-16242-47635       HARRISON POULTRY    GA                  8.27                
+A-16235-45060       TECUMSEH POULTRY LLCNE                  11.46               
+A-16224-41260       GOOGLE INC.         CA                  101,088.00          
+A-16238-46427       WAYNE FARMS LLC     GA                  10.21               
+A-16235-45016       WAYNE FARMS LLC     GA                  10.21               
+A-16238-46646       SABRE GLBL INC.     TX                  118,976.00          
+A-16231-43712       GLOBAL TRUST MANAGEMENT US BRANCH INC.FL                  81,890.00           
+A-16235-44843       GRAPHIQ INC.        CA                  65,853.00           
+A-16238-46194       Select Resources LLCMI                  74,194.00           
+A-16238-46350       AMAZON CORPORATE LLCWA                  101,088.00          
+A-16228-42215       HOMEAWAY, INC.      TX                  61,048.00           
+A-16231-43743       NEMO IT SOLUTIONS, INCTX                  115,794.00          
+A-16236-45540       SHARON BAROVSKY     CA                  27,477.00           
+A-16236-45339       DGN TECHNOLOGIES INC.CA                  142,064.00          
+A-16218-39590       WESTWING CORPORATIONCA                  39,291.00           
+A-16236-45284       ASIAN SPICE LLC DBA ASIAN SPICE RESTAURANTAZ                  25,480.00           
+A-16235-44939       EMBRY-RIDDLE AERONAUTICAL UNIVERSITYFL                  48,410.00           
+A-16221-39976       GOOGLE INC.         CA                  98,342.00           
+A-16222-40362       GOOGLE INC.         CA                  99,939.00           
+A-16227-42134       COMMITTED TO CHANGE, PCMD                  98,218.00           
+A-16202-34233       ERNST & YOUNG U.S. LLPNJ                  93,434.00           
+A-16232-44248       BRILLIO, LLC        NJ                  111,114.00          
+A-16229-43027       AIG EMPLOYEE SERVICES, INC.NY                  120,037.00          
+A-16221-40061       GOOGLE INC.         CA                  120,349.00          
+A-16232-44475       NETVISION RESOURCES INC.VA                  108,139.00          
+A-16232-44323       BRILLIO, LLC        NJ                  111,114.00          
+A-16221-40067       GOOGLE INC.         CA                  99,939.00           
+A-16225-41896       GOOGLE INC.         CA                  98,342.00           
+A-16215-38213       GOOGLE INC.         CA                  120,349.00          
+A-16229-42926       BROADCOM CORPORATIONCA                  82,014.00           
+A-16232-44209       GOOGLE INC.         CA                  120,349.00          
+A-16231-43897       GOOGLE INC.         CA                  58,656.00           
+A-16229-43135       INOVANT LLC         CA                  100,065.00          
+A-16228-42273       DENIM GROUP, LTD.   TX                  80,683.00           
+A-16228-42345       BROADCOM CORPORATIONCA                  138,403.00          
+A-16229-42888       BROADCOM CORPORATIONCA                  138,403.00          
+A-16229-42866       BROADCOM CORPORATIONCA                  138,403.00          
+A-16230-43443       AMAZON CORPORATE LLCWA                  115,565.00          
+A-16201-34220       FACEBOOK, INC.      CA                  96,866.00           
+A-16215-38517       Restaurant Iccho    CA                  26,291.00           
+A-16176-25779       GRANTHAM, MAYO, VAN OTTERLOO & CO. LLCMA                  75,200.00           
+A-16187-29158       IBM CORPORATION     NC                  91,562.00           
+A-16218-39649       GOOGLE INC.         CA                  99,939.00           
+A-16222-40466       GOOGLE INC.         CA                  120,349.00          
+A-16190-30444       IBM CORPORATION     NC                  130,666.00          
+A-16120-03927       INFOSYS LTD.        TX                  108,063.00          
+A-16160-19408       INFOSYS LTD.        TX                  108,063.00          
+A-16225-41932       WAYNE FARMS LLC     GA                  9.24                
+A-16224-41611       Koogwon Kwun CPA & Associates, Inc.CA                  27,290.00           
+A-16201-33816       ERNST & YOUNG U.S. LLPNJ                  92,206.00           
+A-16215-38521       GSI TECHNOLOGY, INC.CA                  130,562.00          
+A-16221-40071       Home Bound HealthcareIL                  77,709.00           
+A-16221-40054       GOOGLE INC.         CA                  99,939.00           
+A-16193-31256       GOOGLE INC.         CA                  84,739.00           
+A-16193-31312       GOOGLE INC.         CA                  99,939.00           
+A-16132-08312       INFOSYS LTD.        TX                  81,952.00           
+A-16221-40243       GOOGLE INC.         CA                  99,939.00           
+A-16214-37690       INFOSYS LTD.        TX                  108,063.00          
+A-16222-40767       HOLY KOREAN MARTYRS CATHOLIC CHURCHMD                  26,146.00           
+A-16197-33089       INFOSYS LTD.        TX                  108,063.00          
+A-16190-30858       APPLE INC.          CA                  108,493.00          
+A-16203-34922       HOME DEPOT U.S.A., INC.GA                  100,422.00          
+A-16166-21503       GOOGLE INC.         CA                  96,866.00           
+A-15343-48555       Access Now          NY                  73,237.00           
+A-16207-35567       GOOGLE INC.         CA                  120,349.00          
+A-16214-37697       GOOGLE INC.         CA                  84,739.00           
+A-16159-18765       GOVERNOR CONTROL SYSTEMS, INC.FL                  66,102.00           
+A-16214-37931       GOOGLE INC.         CA                  99,939.00           
+A-16187-29204       IBM CORPORATION     NC                  91,562.00           
+A-16196-32544       ERNST & YOUNG U.S. LLPNJ                  153,546.00          
+A-16217-39393       ERNST & YOUNG U.S. LLPNJ                  91,686.00           
+A-16217-39010       GSPANN Technologies Inc.CA                  127,837.00          
+A-16217-39145       GSPANN Technologies Inc.CA                  127,837.00          
+A-16182-28390       GRAHAM PACKAGING COMPANY, L.P.PA                  91,978.00           
+A-16207-35503       GOOGLE INC.         CA                  98,342.00           
+A-16215-38390       GOOGLE INC.         CA                  99,939.00           
+A-16189-30290       IBM CORPORATION     NC                  119,350.00          
+A-16209-36281       GOOGLE INC.         CA                  98,342.00           
+A-16125-05426       INFOSYS LTD.        TX                  108,063.00          
+A-16207-35551       GOOGLE INC.         CA                  98,342.00           
+A-16211-37306       GT NEXUS, INC.      NY                  99,986.00           
+A-16183-28759       CERNER CORPORATION  MO                  65,312.00           
+A-16123-04578       CORNERSTONE RESEARCH, INC.MA                  110,968.00          
+A-16145-13897       ROSSER FOUNDATION   VA                  57,803.00           
+A-16112-00167       QUADGEN WIRELESS SOLUTIONS INCPA                  112,029.00          
+A-16033-68407       MICROSOFT CORPORATIONWA                  74,402.00           
+A-16120-04053       HAGERMAN MUNICIPAL SCHOOLSNM                  45,503.00           
+A-16120-03931       PEOPLE TECH GROUP INCWA                  133,806.00          
+A-16082-87667       MICROSOFT CORPORATIONWA                  117,458.00          
+A-16103-95913       GOOGLE INC.         CA                  91,562.00           
+A-16119-03573       PEOPLE TECH GROUP INCWA                  133,806.00          
+A-16119-03575       PEOPLE TECH GROUP INCWA                  133,806.00          
+A-16119-03323       PEOPLE TECH GROUP INCWA                  133,806.00          
+A-16020-63119       MICROSOFT CORPORATIONWA                  90,210.00           
+A-16078-86304       MICROSOFT CORPORATIONWA                  117,458.00          
+A-16062-79194       MICROSOFT CORPORATIONWA                  71,843.00           
+A-16116-01656       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16115-01201       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16113-00638       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16113-00640       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16113-00639       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16113-01104       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16113-01105       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16113-01093       GEORGE'S CHICKEN, LLC.VA                  19,053.00           
+A-16113-00633       ABBYLAND FOODS, INC WI                  18,574.00           
+A-16083-88312       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16111-99699       Uniti Acceptance    CA                  184,787.00          
+A-16102-95759       GOOGLE INC.         CA                  98,342.00           
+A-16084-88728       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16103-95919       GOOGLE INC.         CA                  99,939.00           
+A-16104-96569       GOOGLE INC.         CA                  99,939.00           
+A-16097-93650       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16095-92572       MUY PIZZA TEJAS LLC TX                  16,848.00           
+A-16015-61949       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16021-63507       BAKER BOTTS L.L.P.  TX                  175,594.00          
+A-16022-64199       MICROSOFT CORPORATIONWA                  101,088.00          
+A-16097-93758       HORTONWORKS, INC.   CA                  138,403.00          
+A-16102-95788       China Mobile International (USA) Inc.CA                  30,992.00           
+A-15338-46555       MICROSOFT CORPORATIONWA                  117,458.00          
+A-16099-94700       GOOGLE INC.         CA                  99,939.00           
+A-16099-94731       GOOGLE INC.         CA                  99,939.00           
+A-16098-94400       I.T Tapping, Inc.   CA                  18,928.00           
+A-16096-93252       GOOGLE INC.         CA                  99,939.00           
+A-16089-90231       INLAND BUILDERS CORPORATIONGU                  13.36               
+A-16089-90229       INLAND BUILDERS CORPORATIONGU                  14.78               
+A-16089-90230       INLAND BUILDERS CORPORATIONGU                  14.78               
+A-16096-93054       GEORGE'S CHICKEN, LLC.VA                  19,053.00           
+A-16092-91774       YU AN   PROFIT, INC DC                  30,763.00           
+A-16077-85953       Winverts, Inc.      CA                  97,448.00           
+A-16070-82897       QUALITY BICYCLE PRODUCTS, INC.MN                  78,395.00           
+A-16055-76164       DOF SUBSEA USA, INC.TX                  105,435.00          
+A-16049-74394       CONSILIUM MARINE US, INCFL                  78,229.00           
+A-16062-78950       SUNMERGE SYSTEMS INC.NJ                  103,626.00          
+A-16052-75164       Brickens Construction Inc.NY                  72,488.00           
+A-16036-69639       THE WALL STREET TIMES INC.NY                  94,640.00           
+A-16014-61018       JAFRUM INTERNATIONAL, INC.NC                  71,926.00           
+A-16014-61195       EL RANCHERITO, INC. IL                  28,725.00           
+A-15364-55848       KUM GANG, INC.      NY                  81,827.00           
+A-15358-54501       JEPOL CONSTRUCTION INC.NY                  39,707.00           
+A-15356-53774       Goethe International Charter SchoolCA                  63,597.00           
+A-15358-54529       Goethe International Charter SchoolCA                  63,597.00           
+A-15288-28816       SOFTHQ              CA                  107,786.00          
+A-15356-53592       NAGOYA, INC.        OK                  18,907.00           
+A-15288-28820       SOFTHQ              CA                  107,786.00          
+A-15288-28837       SOFTHQ              CA                  107,786.00          
+A-15244-13571       Firstrade Securities Inc.NY                  78,582.00           
+A-15320-39776       Capital Drywall, Inc.NC                  27,102.00           
+A-16055-76171       MIDLANDS MANAGEMENT CORPORATIONOK                  174,096.00          
+A-15315-38065       INFINITE COMPUTING SYSTEMS, INC.IA                  86,902.00           
+A-15313-37239       Vision Scenery Corporation, Inc.CA                  66,310.00           
+A-15325-42358       BETTER HEALTHCARE OT/PT/SLP, PLLCNY                  84,656.00           
+A-15321-40478       The Arnold Group    WA                  167,586.00          
+A-15307-35438       ArtMat LLC.         NY                  41,995.00           
+A-15289-29642       MICROSOFT CORPORATIONWA                  101,088.00          
+A-15246-14366       GALAXY COLOR INC. D/B/A COLOR CREATION USANY                  10.55               
+A-15246-14498       GALAXY COLOR INC. D/B/A COLOR CREATION USANY                  10.55               
+A-15092-63505       CYPRESS FAIRBANKS INDEPENDENT SCHOOL DISTRICTTX                  47,457.00           
+A-15097-64654       HAZEN AND SAWYER, P.CNY                  79,248.00           
+A-14317-25507       GRAY GHOST MANAGEMENT & OPERATIONS, LLCGA                  98,675.00           
+A-14316-25111       AGILENT TECHNOLOGIES, INC.CA                  134,534.00          
+A-13297-05257       JUNIPER NETWORKS    CA                  134,534.00          
+A-12363-26316       INTEL CORPORATION   CA                  83,637.00           
+A-16309-68511       ADVANCED MICRO DEVICES, INC. (AMD)CA                  90,147.00           
+A-16321-71740       International Tax Station Inc.VA                  43.03               
+A-16322-72596       MUY PIZZA HOUSTON, LLCTX                  16,994.00           
+A-16322-72559       INNOVENTIONS INTERNATIONAL, LLCFL                  70,366.00           
+A-16322-72612       HOUSE OF RAEFORD FARMS, INC.NC                  17,202.00           
+A-16322-72606       HOUSE OF RAEFORD FARMS, INC.NC                  17,202.00           
+A-16307-67514       NCS PEARSON INC.    NJ                  88,067.00           
+A-16307-67599       NCS PEARSON INC.    NJ                  88,067.00           
+A-16307-67556       NCS PEARSON INC.    NJ                  88,067.00           
+A-16312-68888       CARPET PALACE BETHESDA,INCMD                  89,190.00           
+A-16245-49141       Randal Riverside Corporation DBA Matlock PharmacyTX                  113,984.00          
+A-16306-67250       VERADOX, INC        CA                  164,382.00          
+A-16258-52465       USM BUSINESS SYSTEMS, INCVA                  103,750.00          
+A-16236-45567       Ironman Inc.        CA                  92,227.00           
+A-16237-46078       PLANWELL LLC        CA                  144,248.00          
+A-16217-39406       JUNIPER NETWORKS    CA                  157,477.00          
+A-16168-22494       ShieldX Networks, Inc.CA                  157,477.00          
+A-16228-42167       EMD MILLIPORE CORPORATIONMA                  115,814.00          
+A-16217-39439       Worldwide Orchids LLCFL                  64,334.00           
+A-16249-49590       QUALCOMM TECHNOLOGIES INC.CA                  100,464.00          
+A-16232-44403       APPLE INC.          CA                  157,477.00          
+A-16225-41944       YAHOO! INC.         CA                  134,909.00          
+A-16218-39483       IMPAQ INTERNATIONAL, LLCMD                  98,218.00           
+A-16228-42178       MORGAN STANLEY SERVICES GROUP INCNY                  100,755.00          
+A-16245-49006       HSBC BANK USA, N.A. NY                  104,998.00          
+A-16228-42412       ZORIA HOUSING, LLC. NY                  99,382.00           
+A-16169-23274       UNIVERSITY OF UTAH  UT                  53,590.00           
+A-16216-38549       TWITTER, INC.       CA                  96,013.00           
+A-16215-38497       QUALCOMM TECHNOLOGIES INC.CA                  142,938.00          
+A-16228-42569       QUALCOMM TECHNOLOGIES INC.CA                  100,464.00          
+A-16250-49749       QUALCOMM TECHNOLOGIES INC.CA                  100,464.00          
+A-16228-42564       FUSEPROJECT, LLC.   CA                  67,371.00           
+A-16232-44426       SONY INTERACTIVE ENTERTAINMENT NETWORK AMERICA LLCCA                  117,998.00          
+A-16217-39051       EZOPS Inc           NJ                  233,355.00          
+A-16215-38490       REVAL.COM           NY                  93,434.00           
+A-16193-31158       CARDINAL HEALTH     OH                  66,789.00           
+A-16218-39539       SPLUNK              CA                  120,390.00          
+A-16228-42571       QUALCOMM TECHNOLOGIES INC.CA                  96,970.00           
+A-16229-42680       Atlantic Partners CorporationFL                  99,278.00           
+A-16228-42469       Valley Pork, LLP    MN                  53,914.00           
+A-16210-36876       MINDTREE LIMITED    NJ                  101,400.00          
+A-16218-39462       HCL AMERICA INC.    CA                  108,493.00          
+A-16227-42154       MEDIATEK USA INC.   CA                  87,422.00           
+A-16237-46106       HCL AMERICA INC.    CA                  111,114.00          
+A-16191-30887       VIMO, INC. DBA GETINSURED.COMCA                  120,349.00          
+A-16158-18093       PAYPAL, INC.        CA                  103,875.00          
+A-16232-44425       USM BUSINESS SYSTEMS, INCVA                  108,139.00          
+A-16218-39499       CONOCOPHILLIPS COMPANYTX                  94,806.00           
+A-16215-38531       FORSYS INC          CA                  100,360.00          
+A-16190-30813       COSTAR REALTY INFORMATION, INCDC                  88,878.00           
+A-16250-49753       SARANSH, INC.       NJ                  115,398.00          
+A-16155-17847       AMAZON CORPORATE LLCWA                  101,088.00          
+A-16169-23135       UNIVERSITY OF UTAH  UT                  44,640.00           
+A-16218-39573       GLOBUS IT INCORPORATEDTX                  85,197.00           
+A-16244-48513       EPAM SYSTEMS, INC   PA                  96,762.00           
+A-16216-38558       TETRASOFT, INC.     MO                  123,406.00          
+A-16228-42350       SELECT PORTFOLIO SERVICING, INCUT                  52,125.00           
+A-16245-48689       DELOITTE CONSULTING LLPPA                  58,510.00           
+A-16245-48995       SUPRASOFT, INC      IL                  91,541.00           
+A-16236-45372       AMAZON CORPORATE LLCWA                  101,088.00          
+A-16232-44456       GOOGLE INC.         CA                  99,939.00           
+A-16194-31479       ERNST & YOUNG U.S. LLPNJ                  116,709.00          
+A-16238-46151       NATSOFT CORPORATION NJ                  103,626.00          
+A-16210-36892       ACTIVISION PUBLISHING INC.CA                  46,405.00           
+A-16155-17827       FIS MANAGEMENT SERVICES LLCFL                  89,856.00           
+A-16167-22267       APPLE INC.          CA                  117,222.00          
+A-16193-31118       TRADEWEB MARKETS LLCNY                  130,666.00          
+A-16245-48684       Nasary Development Corp.NY                  146,058.00          
+A-16244-48515       EXPEDIA, INC.       WA                  106,101.00          
+A-16237-46091       HEADWAY TECHNOLOGIES, INC.CA                  108,992.00          
+A-16238-46301       JP MORGAN CHASE & COIL                  108,139.00          
+A-16169-22858       ERNST & YOUNG U.S. LLPNJ                  120,224.00          
+A-16215-38500       ATHEER, INC         CA                  163,363.00          
+A-16218-39559       TEKSTROM INC        DE                  94,099.00           
+A-16238-46361       INTUIT              CA                  122,803.00          
+A-16238-46181       LUK USA LLC         OH                  79,435.00           
+A-16244-48556       SINOVISION INC.     NY                  71,594.00           
+A-16232-44457       COGNEX CORPORATION  MA                  136,115.00          
+A-16169-22859       ERNST & YOUNG U.S. LLPNJ                  120,224.00          
+A-16244-48561       Premier Services Inc.IA                  290.00              
+A-16225-41650       BANK OF AMERICA     NC                  130,666.00          
+A-16190-30861       Kaseya Development, LLCMA                  133,349.00          
+A-16245-48948       FULL MOON SUSHI     CA                  27,622.00           
+A-16193-31020       BLOOMBERG L.P.      NY                  81,266.00           
+A-16238-46278       SOFTWARE GALAXY SYSTEMS, LLCNJ                  96,762.00           
+A-16244-48536       APPLE INC.          CA                  142,948.00          
+A-16236-45347       U.S. BANK NATIONAL ASSOCIATIONMN                  96,907.00           
+A-16218-39598       SARIAN SOLUTONS INC NJ                  120,182.00          
+A-16218-39582       INTONE NETWORKS INC NJ                  103,626.00          
+A-16232-44372       VERIZON COMMUNICATIONS INC., & ALL ITS SUBSIDIARIES & AFFILIATESNY                  113,235.00          
+A-16237-45787       Innovium, Inc       CA                  138,403.00          
+A-16250-49755       MICROCHIP TECHNOLOGYAZ                  110,718.00          
+A-16229-42605       PANDORA MEDIA, INC  CA                  76,107.00           
+A-16168-22597       SALESFORCE.COM      CA                  81,848.00           
+A-16244-48506       L&H INDUSTRIAL, INC WY                  98,530.00           
+A-16244-48560       GENPACT LLC         NJ                  128,669.00          
+A-16227-42152       MEDIATEK USA INC.   CA                  108,992.00          
+A-16172-23557       SALESFORCE.COM      CA                  113,381.00          
+A-16250-49746       MISSOURI WESTERN STATE UNIVERSITYMO                  42,806.00           
+A-16158-18213       HALDORTOPSOE, INC.  TX                  101,005.00          
+A-16228-42549       DELOITTE CONSULTING LLPPA                  117,683.00          
+A-16218-39593       TPG CAPITAL, LP     TX                  138,549.00          
+A-16210-36888       AMAZON CORPORATE LLCWA                  128,294.00          
+A-16218-39717       CAREMARK, L.L.C.    RI                  87,027.00           
+A-16190-30800       SYNOPSYS, INC.      CA                  159,370.00          
+A-16228-42409       SAGITEC SOLUTIONS LLCMN                  92,685.00           
+A-16237-46088       MARVELL SEMICONDUCTOR INCCA                  119,350.00          
+A-16245-49007       MICROEXCEL INC      NJ                  104,936.00          
+A-16218-39719       BED BATH & BEYOND INCNJ                  62,462.00           
+A-16229-42744       BED BATH & BEYOND INCNJ                  62,462.00           
+A-16238-46186       OPUS CONSULTING SOLUTIONS INCIL                  111,218.00          
+A-16245-48815       LUXOFT USA INC.     NY                  111,405.00          
+A-16228-42578       BIZLINK TECH INC    TX                  47,486.00           
+A-16228-42510       SAGITEC SOLUTIONS LLCMN                  92,685.00           
+A-16228-42366       EBAY INC.           CA                  118,471.00          
+A-16238-46142       LARSEN & TOUBRO INFOTECH LIMITEDNJ                  123,490.00          
+A-16228-42304       GC&E SYSTEMS GROUP INC.GA                  113,318.00          
+A-16221-39961       BED BATH & BEYOND INCNJ                  62,462.00           
+A-16232-44497       XAVOR CORPORATION   CA                  119,725.00          
+A-16244-48563       EXPERIAN INFORMATION SOLUTIONS, INC.CA                  119,725.00          
+A-16228-42187       PARIBAS NORTH AMERICANJ                  130,666.00          
+A-16193-31308       ADVENTIST HEALTH SYSTEM/SUNBELT INC D/B/A FLORIDAFL                  22,360.00           
+A-16238-46166       WORLD FUEL SERVICES FL                  139,277.00          
+A-16238-46191       DELOITTE & TOUCHE LLPPA                  149,094.00          
+A-16244-48571       CALLISONRTKL INC.   MD                  63,066.00           
+A-16244-48526       Cogent Healthcare of Arizona PCTN                  101,608.00          
+A-16244-48493       AIG EMPLOYEE SERVICES, INC.NY                  94,973.00           
+A-16215-38128       STRETCHLINE USA, INC.NC                  144,123.00          
+A-16158-18220       LOYOLA UNIVERSITY MARYLANDMD                  87,630.00           
+A-16244-48562       INOVANT LLC         CA                  138,362.00          
+A-16245-48682       DELOITTE & TOUCHE LLPPA                  123,240.00          
+A-16227-42109       INTRALINKS, INC.    NY                  100,110.00          
+A-16229-42618       BIRLASOFT INC       NJ                  123,490.00          
+A-16159-18566       Volvo Financial ServicesNC                  71,843.00           
+A-16232-44460       APPLE INC.          CA                  118,205.00          
+A-16193-31076       OMNIVISION TECHNOLOGIES, INC.CA                  105,539.00          
+A-16245-49002       BOSCH SECURITY SYSTEMS, INC.MN                  74,422.00           
+A-16245-49001       BAYLOR UNIVERSITY   TX                  51,600.00           
+A-16245-48965       WAYNE FARMS LLC     GA                  10.21               
+A-16193-30926       MEDIATEK USA INC.   CA                  75,254.00           
+A-16221-39940       THE JOHNS HOPKINS UNIVERSITYMD                  93,621.00           
+A-16244-48418       GOOGLE INC.         CA                  99,939.00           
+A-16245-48812       ROBERT BOSCH LLC    MI                  105,955.00          
+A-16228-42330       LOWE'S COMPANIES, INC.NC                  91,582.00           
+A-16228-42556       YETI TECHNOLOGIES / YETI COMPUTERSTX                  65,042.00           
+A-16193-31053       RANDSTAD GENERAL PARTNER (US), LLCGA                  97,718.00           
+A-16250-49760       GLOBAL DATA MART, INC.NJ                  83,741.00           
+A-16244-48575       RECOMMIND, INC.     CA                  77,064.00           
+A-16158-18137       RESEARCH TRIANGLE INSTITUTENC                  52,312.00           
+A-16232-44428       CLARINS USA INC.    NY                  54,954.00           
+A-16232-44458       T-MOBILE USA, INC.  WA                  101,941.00          
+A-16155-17627       TEMENOS USA, INC.   PA                  94,869.00           
+A-16193-31065       BIOGEN, INC.        MA                  71,448.00           
+A-16228-42289       AMAZON CORPORATE LLCWA                  101,088.00          
+A-16228-42340       PINEHURST, INC      TX                  40,976.00           
+A-16238-46110       HCL AMERICA INC.    CA                  111,114.00          
+A-16194-31509       MIAMI UNIVERSITY    OH                  42,010.00           
+A-16238-46233       ORACLE AMERICA, INC.CA                  90,168.00           
+A-16244-48566       GOOGLE INC.         CA                  84,739.00           
+A-16244-48528       BECKMAN COULTER, INCCA                  55,432.00           
+A-16228-42524       DELASOFT, INC       DE                  74,589.00           
+A-16228-42357       GOOGLE INC.         CA                  133,806.00          
+A-16229-42646       AMSPEC LLC          NJ                  65,437.00           
+A-16224-41511       DELL MARKETING LP   TX                  84,232.00           
+A-16228-42283       OXFAM-AMERICA, INC. MA                  118,206.00          
+A-16244-48569       DAYNINE CONSULTING, INC.CA                  93,517.00           
+A-16238-46244       Kabob Palace Ltd.   VA                  26,894.00           
+A-16245-49000       NETSCOUT SYSTEMS INC.MA                  74,173.00           
+A-16244-48552       Infineon Technologies Americas Corp.CA                  101,600.00          
+A-16224-41619       Aimmune Therapeutics, Inc.CA                  53,019.00           
+A-16190-30795       APPLE INC.          CA                  119,350.00          
+A-16237-45793       GOOGLE INC.         CA                  99,939.00           
+A-16167-22103       RIVERVIEW LLP       MN                  49,338.00           
+A-16228-42251       TECH MAHINDRA (AMERICAS) INC., (FORMERLY MBT INTERNATIONAL, INC.)TX                  85,197.00           
+A-16215-38134       EDUARDO R. SOTO, P.A.FL                  68,973.00           
+A-16191-30893       UBER TECHNOLOGIES INC.CA                  102,357.00          
+A-16158-18118       YASMESOFT,INC.      TX                  85,197.00           
+A-16228-42483       ATOPTECH, INC.      CA                  108,805.00          
+A-16228-42158       MEDIATEK USA INC.   CA                  146,786.00          
+A-16193-31436       APPLE INC.          CA                  108,992.00          
+A-16228-42281       EXPRESS IDEA LLC    VA                  17,867.00           
+A-16221-39969       SMART MODULAR TECHNOLOGIES, INC.CA                  102,898.00          
+A-16235-44959       MERCK SHARP & DOHME CORPNJ                  53,165.00           
+A-16235-44976       THE COCA-COLA COMPANYGA                  141,066.00          
+A-16228-42185       SAGITEC SOLUTIONS LLCMN                  92,685.00           
+A-16221-39928       CISCO SYSTEMS, INC. CA                  117,730.00          
+A-16216-38665       TETRASOFT, INC.     MO                  78,957.00           
+A-16168-22795       Leader & Berkon LLP NY                  123,552.00          
+A-16245-48678       A2Z DEVELOPMENT CENTER, INC.CA                  105,539.00          
+A-16236-45346       ANDREWS UNIVERSITY  MI                  38,380.00           
+A-16167-22179       Albaad USA, Inc.    NC                  79,290.00           
+A-16238-46152       LARSEN & TOUBRO INFOTECH LIMITEDNJ                  103,626.00          
+A-16245-48816       Aptonet, Inc.       GA                  93,434.00           
+A-16155-17928       MATTEL HQ INC.      CA                  85,010.00           
+A-16244-48520       WAL-MART ASSOCIATES, INC.AR                  164,382.00          
+A-16244-48166       NEMO IT SOLUTIONS, INCTX                  86,195.00           
+A-16237-45783       American Association of School Administrators Inc.VA                  76,315.00           
+A-16228-42421       ASE (U.S.) INC.     CA                  109,512.00          
+A-16228-42521       SONY INTERACTIVE ENTERTAINMENT NETWORK AMERICA LLCCA                  97,573.00           
+A-16244-48574       ZENDESK, INC.       CA                  98,987.00           
+A-16245-49032       INSPERITY SERVICES, LPTX                  121,618.00          
+A-16225-42049       UNIVERSITY OF NEVADA, RENONV                  40,750.00           
+A-16159-18517       ZEEMEE INC          CA                  138,362.00          
+A-16218-39478       MATCARE LLC         MD                  33,114.00           
+A-16228-42376       Keypath Education, Inc.KS                  59,987.00           
+A-16236-45360       Priority Fulfillment Services Inc.TX                  146,994.00          
+A-16154-17317       TECO Services Inc   FL                  74,693.00           
+A-16194-31470       WESTPORT INSURANCE CORPORATIONKS                  120,515.00          
+A-16236-45343       BARCLAYS CAPITAL INC.NY                  159,141.00          
+A-16244-48533       US IT SOLUTIONS, INC.CA                  73,091.00           
+A-16194-31489       WESTPORT INSURANCE CORPORATIONKS                  66,643.00           
+A-16244-48494       ORTRONICS           CT                  82,098.00           
+A-16249-49589       Ames It and Numeric Solutions, LLCIA                  66,477.00           
+A-16238-46206       SYNECTIKS INC       NJ                  94,494.00           
+A-16244-48578       WILSHIRE ASSOCIATES INCORPORATEDCA                  97,323.00           
+A-16250-49759       GOOGLE INC.         CA                  108,992.00          
+A-16244-48516       AKAMAI TECHNOLOGIES, INC.MA                  80,496.00           
+A-16228-42415       AMAZON CORPORATE LLCWA                  88,392.00           
+A-16227-42105       Chamberlin & Associates, LLCAZ                  139,880.00          
+A-16225-41716       QUANTUM MARINE ENGINEERING OF FL, INCFL                  42,869.00           
+A-16250-49757       GALLEGA SOFTWARE SOLUTIONS , INCGA                  113,693.00          
+A-16245-48680       CITIGROUP GLOBAL MARKETS INC.NY                  153,546.00          
+A-16238-46407       ICSA INC            VA                  98,550.00           
+A-16237-45802       AMAZON CORPORATE LLCWA                  99,466.00           
+A-16218-39607       INTEC BILLING, INC. GA                  75,338.00           
+A-16228-42589       BENED SOFTWARE SERVICES, INC.TX                  81,765.00           
+A-16154-17104       AMERICAN FASHION CLOTHING INCTX                  50,086.00           
+A-16232-44453       FURTHER LLC         PA                  84,510.00           
+A-16193-31155       BLUE CROSS AND BLUE SHIELD OF LOUISIANALA                  49,566.00           
+A-16228-42344       SYSTEM SOFT TECHNOLOGIES LLCFL                  90,230.00           
+A-16221-39945       Celtic Cross Holdings, Inc. dba Celtic SystemsAZ                  106,912.00          
+A-16238-46388       Praxi Solutions Inc.FL                  76,586.00           
+A-16154-17266       TECO Services Inc   FL                  74,693.00           
+A-16228-42296       GARMIN INTERNATIONAL, INCKS                  106,309.00          
+A-16236-45340       RXLOGIX CORPORATION CA                  73,653.00           
+A-16215-38507       TECHNOZANT LLC      TX                  113,880.00          
+A-16232-44377       CERNER CORPORATION  MO                  94,058.00           
+A-16244-48496       S B INTERNATIONAL INC.TX                  93,746.00           
+A-16232-44407       MONTEBELLO ADULT DAY HEALTH CARE, INC.CA                  95,826.00           
+A-16228-42417       CERNER CORPORATION  MO                  66,997.00           
+A-16228-42618       AIM BIG INC.D/B/A AXIOM TECHNOLOGY GROUPIL                  105,102.00          
+A-16228-42484       DELOITTE CONSULTING LLPPA                  121,538.00          

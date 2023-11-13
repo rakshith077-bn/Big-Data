@@ -1,0 +1,500 @@
+A-16176-25932       CISCO SYSTEMS, INC. CA                  102619              
+A-16177-26024       CISCO SYSTEMS, INC. CA                  102619              
+A-16111-99985       APPLE INC.          CA                  119350              
+A-16170-23435       AKAMAI TECHNOLOGIES, INC.MA                  99195               
+A-16170-23437       AKAMAI TECHNOLOGIES, INC.MA                  99195               
+A-16188-29822       AMAZON CORPORATE LLCWA                  99466               
+A-16202-34478       VED INNOVATIONS, INCIL                  98800               
+A-16182-28197       CLIENT NETWORK SERVICES, INC.MD                  103022              
+A-16182-28228       CLIENT NETWORK SERVICES, INC.MD                  103022              
+A-16182-28237       CLIENT NETWORK SERVICES, INC.MD                  103022              
+A-16182-28280       CLIENT NETWORK SERVICES, INC.MD                  103022              
+A-16166-21767       APPLE INC.          CA                  119350              
+A-16109-98411       A2Z DEVELOPMENT CENTER, INC.CA                  102357              
+A-16167-22253       APPLE INC.          CA                  119350              
+A-16153-16403       AMAZON CORPORATE LLCWA                  70034               
+A-16175-25066       ASTROPHYSICS INC.   CA                  57616               
+A-16140-12332       BIOINFO SYSTEMS LLC CT                  81453               
+A-16159-18565       AIG EMPLOYEE SERVICES, INC.NY                  99653               
+A-16167-22212       ASTIR IT SOLUTIONS, INCNJ                  100859              
+A-16174-24919       IGATE TECHNOLOGIES, INC.NJ                  79019               
+A-16196-32481       ANDHUS TECHNOLOGIES INCIL                  80101               
+A-16161-20027       AIG Technologies, Inc.NY                  89856               
+A-16162-20579       AT&T SERVICES, INC. TX                  62442               
+A-16140-12346       MICROSOFT CORPORATIONWA                  87838               
+A-16201-34071       99 CENT ONLY STORES CA                  111654              
+A-16175-25296       VIOLIN MEMORY, INC. CA                  117645              
+A-16151-15799       ANYDATA CORPORATION CA                  72675               
+A-16202-34402       ALCATEL LUCENT USA, INC.NJ                  103442              
+A-15348-50182       GLOBAL IMPORT EXPORT WHOLESALE CO,INC.NY                  26.95               
+A-16162-20441       GENENTECH INC.      CA                  118082              
+A-16152-15915       APMEX, Inc.         OK                  67246               
+A-16154-17249       ABBVIE INC.         IL                  66643               
+A-16132-08222       BIOGEN, INC.        MA                  109762              
+A-16174-24666       ALLIED TELESIS, INC.CA                  65770               
+A-16196-32769       VALUEMOMENTUM, INC. NJ                  120182              
+A-16197-33063       AMAZON CORPORATE LLCWA                  86362               
+A-16195-32221       ALCATEL LUCENT USA, INC.NJ                  113156              
+A-16161-20314       ARTHUR GRAND TECHNOLOGIES INCVA                  122824              
+A-16167-21868       ANSYS, INC          PA                  92290               
+A-16167-22215       AMAZON CORPORATE LLCWA                  40352               
+A-16127-06548       CITADEL LLC         IL                  66934               
+A-16175-25054       AOL ADVERTISING INC.VA                  70304               
+A-16173-24177       AMAZON CORPORATE LLCWA                  59093               
+A-16180-26906       ACE AMERICAN INSURANCE COMPANYPA                  89981               
+A-16175-25448       APPLE INC.          CA                  119912              
+A-16168-22510       AMERICAN INSTITUTES FOR RESEARCHDC                  88358               
+A-16113-00950       AMAZON CORPORATE LLCWA                  59093               
+A-16140-12135       AMAZON CORPORATE LLCWA                  59093               
+A-16180-27060       AMERICAN INSTITUTES FOR RESEARCHDC                  84656               
+A-16161-20228       EMORY UNIVERSITY    GA                  59384               
+A-16109-98300       AMAZON CORPORATE LLCWA                  59093               
+A-16167-22355       FACEBOOK, INC.      CA                  91166               
+A-16188-29839       Alexander Gorlin    NY                  55286               
+A-16119-03260       AGUSTAWESTLAND PHILADELPHIA CORPORATIONPA                  85405               
+A-16200-33722       ALCON RESEARCH, LTD.TX                  89981               
+A-16159-18986       8K MILES SOFTWARE SERVICES INC.CA                  92560               
+A-15357-54100       Itenology CorporationMD                  69909               
+A-16174-24623       Affiliated Engineers W, Inc.CA                  89780               
+A-16160-19506       APPLE INC.          CA                  109658              
+A-16203-34767       ALCATEL LUCENT USA, INC.NJ                  96491               
+A-16120-04118       IRISLOGIC INC       CA                  109658              
+A-16180-27070       USDI - UNIQUE SYSTEMS DESIGN, INC.MI                  98280               
+A-16166-21685       ABB INC.            NC                  92206               
+A-16014-61528       INVENSENSE, INC.    CA                  152131              
+A-15360-54611       INTEL CORPORATION   CA                  108992              
+A-16201-33820       AMAZON CORPORATE LLCWA                  92498               
+A-16172-23881       ANALOG DEVICES INC. MA                  94515               
+A-16155-17529       ADVANCED MICRO DEVICES, INC. (AMD)CA                  89500               
+A-16123-04439       ANSYS, INC          PA                  108992              
+A-16123-04605       ANSYS, INC          PA                  108992              
+A-16123-04627       APPLE INC.          CA                  108992              
+A-16155-17901       BROADCOM CORPORATIONCA                  126880              
+A-16157-18017       INTEL CORPORATION   CA                  120390              
+A-16157-18024       INTEL CORPORATION   CA                  152131              
+A-16154-17027       ADVANCED MICRO DEVICES, INC. (AMD)CA                  102898              
+A-16168-22754       GENERAL MOTORS COMPANYMI                  73278               
+A-16183-28895       ADVANCED ENERGY INDUSTRIES, INC.CO                  108992              
+A-16145-14146       INTEL MOBILE COMMUNICATIONS, INC.CA                  152131              
+A-16120-03690       dmi locksmith. inc, PA                  52957               
+A-16119-03393       INTEL CORPORATION   CA                  88795               
+A-16124-05244       APPLE INC.          CA                  102898              
+A-16081-87250       INTEL MASSACHUSETTS, INC.MA                  94224               
+A-16148-15711       Dialog Semiconductor Inc.CA                  77834               
+A-16149-15739       INTEL MOBILE COMMUNICATIONS, INC.CA                  104582              
+A-16149-15718       INTEL MOBILE COMMUNICATIONS, INC.CA                  108992              
+A-16151-15831       INTEL MOBILE COMMUNICATIONS, INC.CA                  152131              
+A-16167-22184       ADVANCED MICRO DEVICES, INC. (AMD)CA                  77043               
+A-16155-17779       Axiom Materials, Inc.CA                  58926               
+A-16154-17132       AMAZON ROBOTICS, LLC.MA                  84448               
+A-16167-22275       ENPHASE ENERGY      CA                  91146               
+A-16174-24941       INTEL CORPORATION   CA                  88275               
+A-16174-24959       INTEL CORPORATION   CA                  88275               
+A-16123-04509       APPLE INC.          CA                  127192              
+A-16210-36652       KPIT INFOSYSTEMS INC.NJ                  92747               
+A-16160-19418       ADVANTAGE TECHNICAL RESOURCING, INC.MA                  44.96               
+A-16183-28680       ALTAIR PRODUCTDESIGN, INC.MI                  93850               
+A-16167-21984       ENGINEERING TECHNOLOGY ASSOCIATES, INC.MI                  91811               
+A-16167-22007       APPLE INC.          CA                  93995               
+A-16169-23025       APEX TOOL GROUP     MD                  76627               
+A-16183-28706       ALTAIR PRODUCTDESIGN, INC.MI                  91811               
+A-16187-29126       ALTAIR PRODUCTDESIGN, INC.MI                  93850               
+A-16202-34490       All Cell Technologies, LLCIL                  60070               
+A-16027-65930       Wallace Garcia Wilson Architects Inc.TX                  46946               
+A-16175-25151       AECOM TECHNICAL SERVICES, INC.CA                  55120               
+A-16194-31905       Big Island Dairy, LLCHI                  40186               
+A-16111-99391       BIOGEN, INC.        MA                  66248               
+A-16210-36890       BioAssay Works, LLC MD                  84552               
+A-16055-76507       BIOGEN, INC.        MA                  46966               
+A-16117-01912       BIOGEN, INC.        MA                  46966               
+A-16176-25589       ASCENT PHARMACEUTICALS, INC.NY                  89419               
+A-16176-25610       ASCENT PHARMACEUTICALS, INC.NY                  89419               
+A-16194-31762       AIG EMPLOYEE SERVICES, INC.NY                  70054               
+A-16005-57358       SINAI HEALTH SYSTEM IL                  39520               
+A-16011-59593       Southcoast Children's Society, Inc.CA                  42058               
+A-16193-31129       Bill Wilson Center  CA                  51314               
+A-16006-57883       KOREAN FULL GOSPEL CHURCH OF DAYTONOH                  24835               
+A-16189-30068       ANTIOCH KOREAN BAPTIST CHURCHIL                  33758               
+A-16175-25287       ATLANTA JUHYANG BAPTIST CHURCH, INC.GA                  32656               
+A-16194-31731       All Nation Church of Southern CaliforniaCA                  40997               
+A-10341-36882       ALLIANZ GLOBAL INVESTORS OF AMERICA, L.P.CA                  73070               
+A-16104-96694       UNIVERSITY OF MICHIGANMI                  52450               
+A-16195-32160       ALABAMA STATE UNIVERSITYAL                  60780               
+A-16169-23284       OREGON STATE UNIVERSITYOR                  93770               
+A-16130-07411       Alma College        MI                  62480               
+A-16161-19935       COLGATE UNIVERSITY  NY                  59860               
+A-16180-27243       OREGON STATE UNIVERSITYOR                  61860               
+A-16196-32545       APPALACHIAN STATE UNIVERSITYNC                  40850               
+A-16039-70388       KNOWLEDGE RESOURCES GROUP, INC.GA                  40280               
+A-16040-70722       KNOWLEDGE RESOURCES GROUP, INC.GA                  40280               
+A-16040-70762       KNOWLEDGE RESOURCES GROUP, INC.GA                  40280               
+A-16040-70872       KNOWLEDGE RESOURCES GROUP, INC.GA                  40280               
+A-16160-19302       MARION COUNTY SCHOOL DISTRICTSC                  39840               
+A-16169-23229       AJO UNIFIED SCHOOL DISTRICT #15AZ                  43243               
+A-16169-23270       AJO UNIFIED SCHOOL DISTRICT #15AZ                  43243               
+A-16168-22724       AJO UNIFIED SCHOOL DISTRICT #15AZ                  43243               
+A-16155-17590       APPDYNAMICS         CA                  74568               
+A-16102-95243       SUBATOMIC STUDIOS, LLCOR                  61090               
+A-16174-24903       AVROKO DESIGN LLC   NY                  80808               
+A-16117-02204       Tencent America, LLCCA                  65104               
+A-16174-24883       ASIA SOCIETY        NY                  71552               
+A-16195-32100       Asylum Marketing LLCFL                  42848               
+A-16167-22139       ANTHONY L. JORDAN HEALTH CENTERNY                  109845              
+A-16162-20536       APPALACHIAN REGIONAL HEALTHCARE, INCKY                  109491              
+A-16119-03070       ALTRU HEALTH SYSTEM ND                  90                  
+A-16175-25202       AltantiCare Regional Medical CenterNJ                  90                  
+A-16200-33495       ALTRU HEALTH SYSTEM ND                  164861              
+A-16139-11745       TRI-STATE MEMORIAL HOSPITALWA                  90                  
+A-16183-28666       BILLINGS CLINIC     MT                  90                  
+A-16127-06650       VIDANT MEDICAL GROUPNC                  88275               
+A-16145-13737       ALLEGHENY CLINIC    PA                  148117              
+A-16186-28949       ASSOCIATED RADIOLOGISTS OF FLINT, PCMI                  129709              
+A-16159-18567       ST. VINCENT MEDICAL GROUPAR                  101026              
+A-16179-26179       RAPID CITY REGIONAL HOSPITALSD                  187200              
+A-16133-09015       AEGIS THERAPIES, INCAR                  83720               
+A-16196-32803       ALPHAVISTA SERVICES INC.CA                  48.32               
+A-16159-18966       AXIOM WELLNESS      NJ                  58323               
+A-16116-01256       DE SOTO COUNTY HOSPITAL DISTRICTFL                  49878               
+A-16116-01500       SPECIALTYCARE, INC  TN                  68952               
+A-16189-30017       RAMONA CARE HOME    CA                  12.89               
+A-16183-28590       ANTONETTE A. EDNALINOCA                  22859               
+A-16174-24608       AMERICAN HEALTH ASSOCIATES, INC.FL                  26458               
+A-16180-26753       All Seasons Table RestaurantMA                  53685               
+A-16155-17673       USA HOT POT INC DBA MALATANGVA                  59218               
+A-15350-51658       ATON ENTERPRISES III, LLC.CA                  19822               
+A-16161-20243       GALLEON VENTURE     MA                  25730               
+A-16046-73064       Voyager Systems, Inc.NC                  16827               
+A-16181-27732       AMERIFOODS ENTERPRISE, INC.NC                  16848               
+A-16012-59845       JMH Enterprises LLC VA                  35131               
+A-16260-53560       PODO, INC           CA                  19136               
+A-16159-19024       MUY HAMBURGER PARTNERS, LLCTX                  17930               
+A-16159-18916       SHP Barn LLC        CA                  33010               
+A-15257-17367       JOSEPH PADOVANO     FL                  19614               
+A-16154-16997       WOODBRIDGE HEALTH SERVICES, INC. DBA WOODBRIDGE HOMECA                  22235               
+A-16190-30482       VFB Enterprises Inc.FL                  36088               
+A-16153-16434       ALT Pensacola Inc.  FL                  47778               
+A-16153-16456       ATHENE ANNUITY AND LIFE COMPANYIA                  105248              
+A-16196-32832       VIEW CAPITAL ADVISORS, LLCTX                  95139               
+A-16159-18590       CITADEL LLC         IL                  74214               
+A-16160-19424       A Tu Estilo Inc.    FL                  42952               
+A-16105-96987       DELIGHTFUL TOURS, INCNY                  39666               
+A-16162-20498       APPDIRECT, INC.     CA                  145642              
+A-16204-35198       ASPEN TECHNOLOGY, INCMA                  112341              
+A-16119-03125       AGUSTAWESTLAND PHILADELPHIA CORPORATIONPA                  88691               
+A-16111-99993       CISCO SYSTEMS, INC. CA                  110484              
+A-16102-95548       VESTAS-AMERICAN WIND TECHNOLOGY, INC.OR                  92394               
+A-16195-32292       ALCATEL LUCENT USA, INC.NJ                  109096              
+A-16195-32365       ANRITSU COMPANY     CA                  113808              
+A-16166-21760       H MART NORWALK, LLC CA                  40706               
+A-16174-24487       321COMMERCIAL REALTY HOLDING LLCNJ                  22339               
+A-16187-28980       Al Tayyar Energy - PrincetonMD                  73986               
+A-11059-58777       RED LAKE PROPERTIES LLCIL                  54829               
+A-16228-42416       Valley Pork, LLP    MN                  53914               
+A-16022-64084       Superior Quality Construction, Inc.IL                  42390               
+A-15356-53758       Dry Creek Remodeling, Inc.CO                  54309               
+A-16004-56494       Three D Industrial Maintenance CorpNY                  43202               
+A-16161-19956       Collision Factory, Inc.CA                  51210               
+A-16180-27150       SILA HEATING & AIR CONDITIONINGNY                  71344               
+A-16032-67518       GEORGE'S CHICKEN, LLC.VA                  19053               
+A-16058-77746       GEORGE'S CHICKEN, LLC.VA                  19053               
+A-16032-67663       GEORGE'S CHICKEN, LLC.VA                  19053               
+A-16034-68512       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16043-72584       HARRISON POULTRY    GA                  8.16                
+A-16049-74272       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16039-70345       HARRISON POULTRY    GA                  8.16                
+A-16042-72332       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16032-67683       HARRISON POULTRY    GA                  8.16                
+A-16032-67780       HARRISON POULTRY    GA                  8.16                
+A-16033-68100       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16175-25060       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16165-21306       TECUMSEH POULTRY LLCNE                  10.93               
+A-16176-25504       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16194-31869       VICTORY PROCESSING, LLCGA                  16890               
+A-16203-34870       VICTORY PROCESSING, LLCGA                  16890               
+A-16157-17997       TECUMSEH POULTRY LLCNE                  10.93               
+A-16190-30710       VICTORY PROCESSING, LLCGA                  16890               
+A-16207-35573       VICTORY PROCESSING, LLCGA                  16890               
+A-16020-62845       J&M Woo, LLC        MD                  17139               
+A-16013-60775       The Perfect Cleaners IncorporatedGA                  25792               
+A-16146-14509       JHSL Inc (d/b/a Pelican Cleaners)LA                  21424               
+A-16146-14689       K&K Manufacturing IncCA                  38875               
+A-16011-59684       JM ESTHETIC DENTAL LABNY                  30035               
+A-16181-27657       KOCH FOODS OF CINCINNATI LLCOH                  17451               
+A-16154-17127       KOCH FOODS OF CINCINNATI LLCOH                  17451               
+A-16165-21269       ABBYLAND FOODS, INC WI                  18574               
+A-16173-24101       ABBYLAND FOODS, INC WI                  18574               
+A-16258-52426       COUNTY DRAPERIES INC.NY                  16.13               
+A-16064-80531       AMERICAN SOLAR DIRECTCA                  210122              
+A-16187-29173       AFS INTERCULTURAL PROGRAMSNY                  203486              
+A-16085-89215       F&F GAS STATION INC FL                  69514               
+A-16200-33615       BLUFFTON MOTOR WORKS LLCIN                  137883              
+A-16188-29818       AKQA, INC.          CA                  127670              
+A-16155-17572       CAIVIS INVESTMENT COMPANY V, LLCNY                  144123              
+A-16181-27380       AMAZON CORPORATE LLCWA                  122709              
+A-16204-35172       AMGEN INC.          CA                  182666              
+A-16091-91332       X.COMMERCE          CA                  123198              
+A-16183-28754       1B.USA, LLC         FL                  127837              
+A-16196-32850       AMSPEC LLC          NJ                  114317              
+A-13073-48238       INFOSYS LTD.        TX                  106200              
+A-13115-59070       INFOSYS LTD.        TX                  106200              
+A-13115-59178       INFOSYS LTD.        TX                  106200              
+A-13119-60062       INFOSYS LTD.        TX                  106200              
+A-13114-58771       INFOSYS LTD.        TX                  106200              
+A-13114-58784       INFOSYS LTD.        TX                  106200              
+A-13114-58828       INFOSYS LTD.        TX                  106200              
+A-13114-58879       INFOSYS LTD.        TX                  106200              
+A-13114-58950       INFOSYS LTD.        TX                  106200              
+A-13098-53616       INFOSYS LTD.        TX                  106200              
+A-13121-60503       INFOSYS LTD.        TX                  106200              
+A-13140-64908       INFOSYS LTD.        TX                  106200              
+A-13151-67911       INFOSYS LTD.        TX                  106200              
+A-13127-62031       INFOSYS LTD.        TX                  106200              
+A-13128-62157       INFOSYS LTD.        TX                  106200              
+A-13036-38051       INFOSYS LTD.        TX                  106200              
+A-13112-58287       INFOSYS LTD.        TX                  106200              
+A-13113-58384       INFOSYS LTD.        TX                  106200              
+A-12346-21972       INFOSYS LTD.        TX                  106200              
+A-13107-56705       INFOSYS LTD.        TX                  106200              
+A-13298-05673       INFOSYS LTD.        TX                  109075              
+A-16137-10614       DELOITTE CONSULTING LLPPA                  106879              
+A-16144-13502       DELOITTE CONSULTING LLPPA                  137974              
+A-16144-13582       DELOITTE & TOUCHE LLPPA                  117078              
+A-16099-94891       PITSS America LLC   MI                  133786              
+A-16144-13273       DELOITTE & TOUCHE LLPPA                  127799              
+A-16140-12020       DELOITTE CONSULTING LLPPA                  115233              
+A-16140-12076       CISCO SYSTEMS, INC. CA                  163371              
+A-16140-12088       DELOITTE CONSULTING LLPPA                  149094              
+A-16138-11252       DELOITTE CONSULTING LLPPA                  154565              
+A-16139-11376       DELOITTE CONSULTING LLPPA                  127513              
+A-16166-21532       APPLE INC.          CA                  153229              
+A-16099-95121       Partner Fund Management, L.P.CA                  200366              
+A-16158-18219       CB Information Services, Inc. (DBA CB Insights)NY                  108131              
+A-16151-15797       AMDOCS INC.         MO                  154440              
+A-16033-68195       MORGAN STANLEY & CO. LLCNY                  108118              
+A-16168-22590       BNP PARIBAS         NJ                  125985              
+A-16146-14511       DELOITTE & TOUCHE LLPPA                  120592              
+A-16103-95992       MORGAN STANLEY & CO. LLCNY                  76565               
+A-16180-27161       PLANTE & MORAN, PLLCMI                  158850              
+A-16239-46917       LAND O'LAKES INC    MN                  146016              
+A-16196-32652       BOART LONGYEAR COMPANYUT                  79747               
+A-16146-14555       Rivulis Irrigation, Inc.CA                  129397              
+A-16201-34070       ATIEVA, INC.        CA                  170685              
+A-16124-05049       BLACK & VEATCH CORPORATIONKS                  51189               
+A-16146-14564       Caliber Sales Engineering IncFL                  92643               
+A-16146-14648       BESTECH TRADING U.S.A., LTD.CA                  128502              
+A-16049-74580       K & C USA Inc       WA                  62275               
+A-16201-34120       Aquavit Inc.        NY                  93309               
+A-16158-18276       AMBER INDIA CORPORATIONCA                  61235               
+A-16043-72817       PRIME HEALTHCARE MANAGEMENT, INC.CA                  67226               
+A-16173-24217       Ampak Chemicals, Inc.CA                  126402              
+A-16164-20791       AMGEN INC.          CA                  144976              
+A-16153-16663       Boo Han Market III, LLCWA                  62421               
+A-16176-25677       ADI WORLDLINK, LLC  TX                  68765               
+A-16144-13225       PricewaterhouseCoopers Advisory Services LLCFL                  117229              
+A-15155-83183       SOHO APPAREL GROUP INC.CA                  38459               
+A-16139-11503       Unlimited Containers. IncCA                  39354               
+A-16183-28847       VISA USA            CA                  110115              
+A-16238-46348       PRICEWATERHOUSECOOPERSNY                  92955               
+A-16180-26740       AMAZON CORPORATE LLCWA                  63690               
+A-16147-14768       CENTRONIA           DC                  53747               
+A-16085-89237       BDO USA LLP         IL                  74277               
+A-16158-18389       AMGEN INC.          CA                  91042               
+A-16187-29028       SEAFOOD WHOLESALERS LTDTX                  49109               
+A-15273-23621       M-1 MERCHANT SERVICES, INC.CA                  47216               
+A-16174-24510       BNP PARIBAS NORTH AMERICANJ                  124093              
+A-16167-22122       BANK OF AMERICA     NC                  69243               
+A-16127-06837       AQR CAPITAL MANAGEMENTCT                  113776              
+A-16180-27056       ANGELO, GORDON & CO., L.P.NY                  94640               
+A-16161-20237       BANK OF AMERICA     NC                  70138               
+A-16123-04727       BMO HARRIS BANK NA  IL                  71989               
+A-16180-26950       BROOKHAVEN SCIENCE ASSOCIATES, LLCNY                  84115               
+A-16131-08057       YAHOO! INC.         CA                  89024               
+A-16265-54694       VIRTUSA CORPORATION MA                  76877               
+A-12290-07510       INFOSYS LTD.        TX                  71240               
+A-12290-07694       INFOSYS LTD.        TX                  71240               
+A-12290-07750       INFOSYS LTD.        TX                  71240               
+A-12361-25603       INFOSYS LTD.        TX                  71240               
+A-13024-34089       INFOSYS LTD.        TX                  51800               
+A-12290-07894       INFOSYS LTD.        TX                  71240               
+A-12291-08017       INFOSYS LTD.        TX                  71240               
+A-12291-08028       INFOSYS LTD.        TX                  71240               
+A-12291-08062       INFOSYS LTD.        TX                  71240               
+A-12293-08996       INFOSYS LTD.        TX                  71240               
+A-13119-59919       INFOSYS LTD.        TX                  71240               
+A-13133-63094       INFOSYS LTD.        TX                  71240               
+A-12342-20927       INFOSYS LTD.        TX                  71240               
+A-13028-34914       INFOSYS LTD.        TX                  83900               
+A-12300-10811       INFOSYS LTD.        TX                  71240               
+A-12300-10855       INFOSYS LTD.        TX                  71240               
+A-12340-20241       INFOSYS LTD.        TX                  71240               
+A-13029-35380       INFOSYS LTD.        TX                  71240               
+A-12286-06934       INFOSYS LTD.        TX                  71240               
+A-12288-07036       INFOSYS LTD.        TX                  71240               
+A-12288-07037       INFOSYS LTD.        TX                  71240               
+A-12313-13469       INFOSYS LTD.        TX                  71240               
+A-12292-08742       INFOSYS LTD.        TX                  71240               
+A-12293-08759       INFOSYS LTD.        TX                  71240               
+A-13126-61655       INFOSYS LTD.        TX                  71240               
+A-16040-71169       ORACLE AMERICA, INC.CA                  121222              
+A-16055-76178       BUSINESS INTELLIGENCE SYSTEMS, INC.VA                  83782               
+A-16027-65903       APPLIED THOUGHT AUDITORS AND CONSULTANT, INCFL                  74818               
+A-16012-59959       ECLINICALWORKS, LLC MA                  81266               
+A-16027-65667       APPLIED THOUGHT AUDITORS AND CONSULTANT, INCFL                  87214               
+A-16201-33890       AMERICAN UNIT INC   TX                  99258               
+A-16173-24288       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16161-20115       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16096-93262       QUALITY SYSTEM      TX                  62566               
+A-16180-26706       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16159-18735       AMERICAN UNIT INC   TX                  99258               
+A-16159-18825       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16159-18869       AMERICAN UNIT INC   TX                  99258               
+A-16160-19611       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16166-21400       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16180-27259       SOFTCOM SYSTEMS, INC.NJ                  87922               
+A-16138-11169       DELOITTE & TOUCHE LLPPA                  104520              
+A-16138-11153       DELOITTE CONSULTING LLPPA                  75421               
+A-16164-20797       AMGEN INC.          CA                  103771              
+A-16164-20805       AMGEN INC.          CA                  124550              
+A-16168-22515       APIGEE INC          CA                  127837              
+A-16204-35215       Bytemark Inc        NY                  81266               
+A-16147-14862       AMERICAN UNIT INC   TX                  99258               
+A-16131-07995       MICROSOFT CORPORATIONWA                  118706              
+A-16159-18948       AMERICAN UNIT INC   TX                  99258               
+A-16159-18961       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16146-14518       AMERICAN EXPRESS TRAVEL RELATED SERVICESNY                  105934              
+A-16120-04032       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16160-19301       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16160-19394       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16125-05570       BUSINESS INTELLIGENCE SYSTEMS, INC.VA                  103750              
+A-16139-11607       DELOITTE CONSULTING LLPPA                  118706              
+A-16139-11389       NASCO               GA                  111987              
+A-16161-19753       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16161-19856       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16166-21428       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16166-21492       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16166-21534       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16102-95321       DIGITAL MANAGEMENT, INC.MD                  123718              
+A-16158-18202       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16165-20899       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16165-20930       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16165-20988       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16196-32881       AMWAY CORP.         MI                  81432               
+A-16195-32032       AMNEAL PHARMACEUTICALS OF NY, LLCNY                  72030               
+A-16188-29678       AGREEYA SOLUTIONS, INC.CA                  88275               
+A-16176-25839       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16200-33533       BLUE SHIELD OF CALIFORNIACA                  134389              
+A-16179-26497       AIG EMPLOYEE SERVICES, INC.NY                  120224              
+A-16200-33679       3I INFOTECH INC.    NJ                  124925              
+A-16146-14718       ACTIVISION PUBLISHING INC.CA                  85010               
+A-16259-52938       FIS MANAGEMENT SERVICES LLCFL                  96866               
+A-16258-52442       COMPUNNEL SOFTWARE GROUP, INC.NJ                  90813               
+A-16181-27650       LANCESOFT INC.      VA                  108139              
+A-16214-37913       APPLE INC.          CA                  117605              
+A-16245-48842       Macy's Systems and Technology, Inc.GA                  111384              
+A-12292-08475       INFOSYS LTD.        TX                  68162               
+A-13073-48066       INFOSYS LTD.        TX                  68162               
+A-13144-66331       INFOSYS LTD.        TX                  68162               
+A-13142-65770       INFOSYS LTD.        TX                  68162               
+A-13143-65943       INFOSYS LTD.        TX                  68162               
+A-13129-62573       INFOSYS LTD.        TX                  68162               
+A-13129-62578       INFOSYS LTD.        TX                  68162               
+A-13129-62621       INFOSYS LTD.        TX                  68162               
+A-13129-62649       INFOSYS LTD.        TX                  68162               
+A-13129-62656       INFOSYS LTD.        TX                  68162               
+A-13129-62662       INFOSYS LTD.        TX                  68162               
+A-13129-62676       INFOSYS LTD.        TX                  68162               
+A-13129-62695       INFOSYS LTD.        TX                  68162               
+A-13129-62751       INFOSYS LTD.        TX                  68162               
+A-13092-52320       INFOSYS LTD.        TX                  68162               
+A-13126-61513       INFOSYS LTD.        TX                  68162               
+A-13126-61530       INFOSYS LTD.        TX                  68162               
+A-13126-61562       INFOSYS LTD.        TX                  68162               
+A-13119-59869       INFOSYS LTD.        TX                  68162               
+A-13113-58573       INFOSYS LTD.        TX                  68162               
+A-13113-58599       INFOSYS LTD.        TX                  68162               
+A-13114-58804       INFOSYS LTD.        TX                  68162               
+A-13121-60560       INFOSYS LTD.        TX                  68162               
+A-13121-60691       INFOSYS LTD.        TX                  68162               
+A-13161-70186       INFOSYS LTD.        TX                  68162               
+A-13077-48865       INFOSYS LTD.        TX                  68162               
+A-13066-46142       INFOSYS LTD.        TX                  68162               
+A-13156-68906       INFOSYS LTD.        TX                  68162               
+A-13128-62185       INFOSYS LTD.        TX                  68162               
+A-13128-62194       INFOSYS LTD.        TX                  68162               
+A-13128-62231       INFOSYS LTD.        TX                  68162               
+A-13128-62232       INFOSYS LTD.        TX                  68162               
+A-13128-62234       INFOSYS LTD.        TX                  68162               
+A-13128-62235       INFOSYS LTD.        TX                  68162               
+A-13128-62249       INFOSYS LTD.        TX                  68162               
+A-13128-62270       INFOSYS LTD.        TX                  68162               
+A-13128-62296       INFOSYS LTD.        TX                  68162               
+A-13128-62351       INFOSYS LTD.        TX                  68162               
+A-13128-62363       INFOSYS LTD.        TX                  68162               
+A-13129-62509       INFOSYS LTD.        TX                  68162               
+A-13129-62511       INFOSYS LTD.        TX                  68162               
+A-13129-62571       INFOSYS LTD.        TX                  68162               
+A-13165-72009       INFOSYS LTD.        TX                  68162               
+A-13088-51579       INFOSYS LTD.        TX                  68162               
+A-13148-66595       INFOSYS LTD.        TX                  68162               
+A-13148-66639       INFOSYS LTD.        TX                  68162               
+A-13148-66667       INFOSYS LTD.        TX                  68162               
+A-13148-66789       INFOSYS LTD.        TX                  68162               
+A-13151-67780       INFOSYS LTD.        TX                  68162               
+A-13151-67880       INFOSYS LTD.        TX                  68162               
+A-13130-62878       INFOSYS LTD.        TX                  68162               
+A-13133-63159       INFOSYS LTD.        TX                  68162               
+A-13127-61877       INFOSYS LTD.        TX                  68162               
+A-13127-61879       INFOSYS LTD.        TX                  68162               
+A-13127-61889       INFOSYS LTD.        TX                  68162               
+A-13127-61931       INFOSYS LTD.        TX                  68162               
+A-13127-61975       INFOSYS LTD.        TX                  68162               
+A-13127-62017       INFOSYS LTD.        TX                  68162               
+A-13127-62019       INFOSYS LTD.        TX                  68162               
+A-13127-62050       INFOSYS LTD.        TX                  68162               
+A-13128-62114       INFOSYS LTD.        TX                  68162               
+A-13128-62122       INFOSYS LTD.        TX                  68162               
+A-13128-62158       INFOSYS LTD.        TX                  68162               
+A-13128-62172       INFOSYS LTD.        TX                  68162               
+A-13071-47345       INFOSYS LTD.        TX                  68162               
+A-13071-47404       INFOSYS LTD.        TX                  68162               
+A-13134-63559       INFOSYS LTD.        TX                  68162               
+A-13134-63560       INFOSYS LTD.        TX                  68162               
+A-13134-63585       INFOSYS LTD.        TX                  68162               
+A-13141-65305       INFOSYS LTD.        TX                  68162               
+A-13073-48036       INFOSYS LTD.        TX                  68162               
+A-13123-61096       INFOSYS LTD.        TX                  68162               
+A-13123-61141       INFOSYS LTD.        TX                  68162               
+A-13136-64284       INFOSYS LTD.        TX                  68162               
+A-13116-59555       INFOSYS LTD.        TX                  68162               
+A-13101-54686       INFOSYS LTD.        TX                  68162               
+A-13112-58051       INFOSYS LTD.        TX                  68162               
+A-13102-55118       INFOSYS LTD.        TX                  68162               
+A-13102-55236       INFOSYS LTD.        TX                  68162               
+A-13102-55265       INFOSYS LTD.        TX                  68162               
+A-13059-44174       INFOSYS LTD.        TX                  68162               
+A-13045-40481       INFOSYS LTD.        TX                  68162               
+A-13045-40497       INFOSYS LTD.        TX                  68162               
+A-13035-37239       INFOSYS LTD.        TX                  68162               
+A-13035-37298       INFOSYS LTD.        TX                  68162               
+A-13035-37466       INFOSYS LTD.        TX                  68162               
+A-13035-37493       INFOSYS LTD.        TX                  68162               
+A-13035-37598       INFOSYS LTD.        TX                  68162               
+A-13036-37713       INFOSYS LTD.        TX                  68162               
+A-13030-35861       INFOSYS LTD.        TX                  68162               
+A-13031-36242       INFOSYS LTD.        TX                  68162               
+A-13057-43384       INFOSYS LTD.        TX                  68162               
+A-13057-43447       INFOSYS LTD.        TX                  68162               
+A-13029-35378       INFOSYS LTD.        TX                  68162               
+A-13029-35501       INFOSYS LTD.        TX                  85000               
+A-13029-35635       INFOSYS LTD.        TX                  68162               
+A-13030-35710       INFOSYS LTD.        TX                  68162               
+A-13030-35799       INFOSYS LTD.        TX                  68162               
+A-13226-88460       INFOSYS LTD.        TX                  68162               
+A-13226-88487       INFOSYS LTD.        TX                  68162               
+A-13292-02630       INFOSYS LTD.        TX                  68162               
+A-13292-02653       INFOSYS LTD.        TX                  68162               
+A-13292-02659       INFOSYS LTD.        TX                  68162               
+A-13228-89127       INFOSYS LTD.        TX                  68162               
+A-13191-78743       INFOSYS LTD.        TX                  68162               
+A-13191-79049       INFOSYS LTD.        TX                  68162               
+A-13178-75659       INFOSYS LTD.        TX                  68162               

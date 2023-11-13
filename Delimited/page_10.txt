@@ -1,0 +1,500 @@
+A$-$1$3$0$1$7$-$3$2$0$8$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$3$0$5$-$0$9$9$1$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$0$0$9$-$2$8$8$6$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$1$4$-$3$0$4$4$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$0$7$-$2$8$0$5$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$0$8$-$2$8$6$7$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$1$5$-$3$0$7$6$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$0$9$-$2$8$7$7$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$0$7$-$2$7$9$6$1$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$7$7$1$4$
+A$-$1$3$0$1$8$-$3$2$2$3$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$2$2$7$1$-$0$3$0$4$8$B$I$O$M$E$T$E$R$I$C$S$4$A$L$L$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$5$7$0$9$6$
+A$-$1$3$0$1$7$-$3$1$7$9$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$1$8$-$3$2$3$8$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$2$1$-$3$2$9$5$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$1$0$-$2$9$6$4$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$1$6$-$3$1$5$1$1$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$2$1$-$3$2$8$3$0$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$2$1$-$3$2$8$4$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$2$2$7$1$-$0$2$7$1$2$U$N$I$V$E$R$S$I$T$Y$ $O$F$ $N$E$W$ $M$E$X$I$C$O$N$E$W$ $M$E$X$I$C$O$1$4$7$5$2$0$
+A$-$1$3$0$1$8$-$3$2$1$6$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$2$2$7$6$-$0$3$9$3$9$V$E$R$I$Z$O$N$ $C$O$M$M$U$N$I$C$A$T$I$O$N$S$ $I$N$C$.$,$ $&$ $A$L$L$ $I$T$S$ $S$U$B$S$I$D$I$A$R$I$E$S$ $&$ $A$F$F$I$L$I$A$T$E$S$N$E$W$ $Y$O$R$K$8$1$0$1$6$
+A$-$1$3$1$6$3$-$7$1$1$9$4$B$Y$T$E$W$A$R$E$,$ $I$N$C$.$G$E$O$R$G$I$A$6$6$8$7$2$
+A$-$1$3$1$2$1$-$6$0$6$8$3$A$T$&$T$,$ $I$N$C$.$,$ $A$N$D$ $A$L$L$ $O$F$ $I$T$S$ $S$U$B$S$I$D$I$A$R$I$E$S$ $A$N$D$ $A$F$F$I$L$I$A$T$E$S$T$E$X$A$S$6$9$1$8$1$
+A$-$1$3$1$6$4$-$7$1$5$8$8$J$U$N$I$P$E$R$ $N$E$T$W$O$R$K$S$C$A$L$I$F$O$R$N$I$A$9$3$6$3$0$
+A$-$1$3$1$6$4$-$7$1$5$8$9$E$Q$U$I$F$A$X$G$E$O$R$G$I$A$8$6$8$6$1$
+A$-$1$3$1$1$9$-$5$9$7$8$1$I$N$T$E$R$N$A$T$I$O$N$A$L$ $S$O$F$T$W$A$R$E$ $S$Y$S$T$E$M$S$ $I$N$C$M$A$R$Y$L$A$N$D$1$1$3$4$6$4$
+A$-$1$3$1$2$2$-$6$0$9$4$7$C$E$N$T$R$A$L$ $C$O$N$S$T$R$U$C$T$I$O$N$ $M$A$N$A$G$E$M$E$N$T$ $L$L$C$N$E$W$ $Y$O$R$K$2$8$6$4$2$
+A$-$1$3$1$2$3$-$6$1$3$9$2$O$R$I$E$N$T$A$L$ $H$O$U$S$E$K$E$N$T$U$C$K$Y$2$1$6$7$4$
+A$-$1$3$1$3$3$-$6$3$2$7$8$S$A$P$ $L$A$B$S$,$ $L$L$C$C$A$L$I$F$O$R$N$I$A$9$4$7$0$0$
+A$-$1$3$1$3$0$-$6$2$8$7$7$B$L$O$O$M$B$E$R$G$ $L$.$P$.$N$E$W$ $Y$O$R$K$8$7$7$1$4$
+A$-$1$3$1$5$7$-$6$9$4$8$5$E$A$S$T$ $G$A$T$E$ $K$O$R$E$A$N$ $P$R$E$S$B$Y$T$E$R$I$A$N$ $C$H$U$R$C$H$C$A$L$I$F$O$R$N$I$A$4$4$0$3$4$
+A$-$1$3$1$5$8$-$6$9$6$4$0$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$6$2$7$8$
+A$-$1$3$1$1$4$-$5$8$9$6$6$H$U$G$H$E$S$ $N$E$T$W$O$R$K$ $S$Y$S$T$E$M$S$,$ $L$L$C$M$A$R$Y$L$A$N$D$6$9$7$0$1$
+A$-$1$3$1$6$5$-$7$1$9$2$6$Z$S$ $A$S$S$O$C$I$A$T$E$S$,$ $I$N$C$.$I$L$L$I$N$O$I$S$1$3$6$2$8$2$
+A$-$1$3$1$6$5$-$7$1$9$3$4$L$E$A$D$ $I$T$ $C$O$R$P$O$R$A$T$I$O$N$I$L$L$I$N$O$I$S$7$1$4$2$7$
+A$-$1$3$1$2$1$-$6$0$6$2$7$U$N$I$T$E$D$ $T$A$L$E$N$T$ $A$G$E$N$C$Y$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$7$8$5$2$6$
+A$-$1$3$1$2$1$-$6$0$6$4$7$Z$E$N$S$A$R$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$.$I$L$L$I$N$O$I$S$5$9$2$5$9$
+A$-$1$3$1$3$5$-$6$3$9$0$3$T$H$E$ $C$H$I$L$D$R$E$N$'$S$ $P$L$A$C$E$ $S$E$R$V$I$C$E$S$ $C$O$M$P$A$N$Y$,$ $L$L$C$N$E$W$ $J$E$R$S$E$Y$1$7$0$8$9$3$
+A$-$1$3$1$6$2$-$7$0$6$8$5$C$G$G$V$E$R$I$T$A$S$ $S$E$R$V$I$C$E$S$ $($U$S$)$ $I$N$C$.$T$E$X$A$S$4$3$8$2$6$
+A$-$1$3$1$2$0$-$6$0$2$3$4$S$A$N$A$&$S$A$Q$I$B$,$L$L$C$ $T$/$A$ $F$A$I$R$ $P$R$I$C$E$ $I$N$T$L$ $S$U$P$E$R$M$A$R$K$E$T$V$I$R$G$I$N$I$A$3$4$9$8$6$
+A$-$1$3$1$3$5$-$6$4$0$1$0$F$I$L$C$O$ $C$A$R$T$I$N$G$ $C$O$R$P$N$E$W$ $Y$O$R$K$6$7$3$5$0$
+A$-$1$3$1$3$0$-$6$2$9$9$1$S$U$N$M$E$R$G$E$ $S$Y$S$T$E$M$S$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$7$3$5$2$8$
+A$-$1$3$1$0$5$-$5$6$0$5$3$K$O$C$H$ $F$O$O$D$S$ $O$F$ $A$L$A$B$A$M$A$,$ $L$L$C$A$L$A$B$A$M$A$1$9$8$4$3$
+A$-$1$3$1$0$5$-$5$6$0$9$3$P$R$O$-$T$E$K$ $C$O$N$S$U$L$T$I$N$G$C$A$L$I$F$O$R$N$I$A$9$4$1$8$2$
+A$-$1$3$1$1$5$-$5$9$3$2$2$S$E$L$E$C$T$ $E$N$E$R$G$Y$ $S$E$R$V$I$C$E$S$,$ $L$L$C$T$E$X$A$S$6$7$4$3$4$
+A$-$1$3$1$2$3$-$6$1$3$9$1$H$P$ $E$N$T$E$R$P$R$I$S$E$ $S$E$R$V$I$C$E$S$,$ $L$L$C$C$A$L$I$F$O$R$N$I$A$8$6$0$0$8$
+A$-$1$3$1$3$6$-$6$4$3$5$8$J$A$E$ $D$E$N$T$A$L$ $S$T$U$D$I$O$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$2$7$1$2$3$
+A$-$1$3$1$4$0$-$6$5$0$1$5$T$B$R$E$,$ $I$N$C$.$G$E$O$R$G$I$A$7$3$8$1$9$
+A$-$1$3$0$5$1$-$4$1$7$2$3$R$I$T$E$ $A$I$D$ $C$O$R$P$O$R$A$T$I$O$N$P$E$N$N$S$Y$L$V$A$N$I$A$1$3$7$5$0$9$
+A$-$1$3$0$6$0$-$4$4$6$8$0$P$R$O$S$O$F$T$ $I$T$ $S$E$R$V$I$C$E$S$,$ $I$N$C$N$E$W$ $Y$O$R$K$6$5$5$2$0$
+A$-$1$3$0$5$8$-$4$4$1$4$2$S$V$A$M$ $I$N$T$E$R$N$A$T$I$O$N$A$L$ $I$N$C$N$E$W$ $Y$O$R$K$5$8$1$9$8$
+A$-$1$3$0$3$0$-$3$5$6$9$8$I$N$F$O$S$Y$S$ $L$T$D$.$T$E$X$A$S$6$8$1$6$2$
+A$-$1$2$3$3$4$-$1$8$1$7$6$T$O$P$ $S$H$E$L$F$ $E$N$T$E$R$T$A$I$N$M$E$N$T$,$ $I$N$C$.$W$A$S$H$I$N$G$T$O$N$1$5$2$1$7$3$
+A$-$1$3$0$6$4$-$4$5$3$4$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$9$2$2$4$8$
+A$-$1$2$3$4$1$-$2$0$5$0$2$M$I$C$R$O$S$O$F$T$ $C$O$R$P$O$R$A$T$I$O$N$W$A$S$H$I$N$G$T$O$N$7$3$1$1$2$
+A$-$1$2$3$3$8$-$1$9$3$0$0$A$T$&$T$,$ $I$N$C$.$,$ $A$N$D$ $A$L$L$ $O$F$ $I$T$S$ $S$U$B$S$I$D$I$A$R$I$E$S$ $A$N$D$ $A$F$F$I$L$I$A$T$E$S$T$E$X$A$S$8$6$2$5$8$
+A$-$1$3$0$6$3$-$4$5$1$7$5$H$O$R$I$Z$O$N$ $S$C$I$E$N$C$E$ $A$C$A$D$E$M$Y$,$ $I$N$C$.$O$H$I$O$8$1$2$5$0$
+A$-$1$3$0$9$4$-$5$2$8$8$2$A$C$C$E$N$T$U$R$E$ $L$L$P$I$L$L$I$N$O$I$S$8$7$5$8$9$
+A$-$1$3$0$8$1$-$5$0$2$9$2$T$H$E$ $B$O$S$T$O$N$ $C$O$N$S$U$L$T$I$N$G$ $G$R$O$U$P$M$A$S$S$A$C$H$U$S$E$T$T$S$1$1$6$8$7$5$
+A$-$1$3$1$7$6$-$7$5$0$4$7$A$V$C$O$ $C$O$N$S$U$L$T$I$N$G$ $I$N$C$M$A$S$S$A$C$H$U$S$E$T$T$S$8$8$0$8$8$
+A$-$1$3$1$9$0$-$7$8$6$3$3$A$S$U$R$I$O$N$T$E$N$N$E$S$S$E$E$7$6$6$9$0$
+A$-$1$3$1$0$1$-$5$4$8$9$1$O$M$ $F$O$O$D$ $I$N$C$ $ $($S$U$B$W$A$Y$ $)$K$E$N$T$U$C$K$Y$3$2$2$4$0$
+A$-$1$3$1$0$8$-$5$7$3$9$1$K$R$O$N$O$S$ $I$N$C$O$R$P$O$R$A$T$E$M$A$S$S$A$C$H$U$S$E$T$T$S$1$1$9$4$5$4$
+A$-$1$3$0$7$0$-$4$6$8$2$8$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$5$6$2$0$2$
+A$-$1$3$0$8$4$-$5$0$6$3$8$L$A$B$I$N$A$L$,$ $I$N$C$T$E$X$A$S$9$4$9$5$1$
+A$-$1$3$0$8$4$-$5$0$4$5$7$S$A$P$V$I$X$ $I$N$C$P$E$N$N$S$Y$L$V$A$N$I$A$8$2$4$5$1$
+A$-$1$3$0$8$7$-$5$1$4$0$6$O$R$A$C$L$E$ $A$M$E$R$I$C$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$2$7$8$9$
+A$-$1$3$0$8$8$-$5$1$5$7$2$M$I$N$D$T$R$E$E$ $L$I$M$I$T$E$D$N$E$W$ $J$E$R$S$E$Y$1$0$2$4$6$1$
+A$-$1$3$0$7$9$-$4$9$4$9$3$A$M$E$R$I$C$A$N$ $S$A$F$E$T$Y$ $A$D$M$I$N$I$S$T$R$A$T$I$V$E$ $S$E$R$V$I$C$E$S$,$ $I$N$C$.$G$E$O$R$G$I$A$1$0$0$2$9$8$
+A$-$1$3$0$8$8$-$5$1$7$2$4$H$E$W$L$E$T$T$-$P$A$C$K$A$R$D$ $C$O$M$P$A$N$Y$C$A$L$I$F$O$R$N$I$A$5$0$.$8$4$
+A$-$1$3$0$9$9$-$5$4$1$9$4$C$O$N$C$E$P$T$ $S$C$H$O$O$L$S$ $N$F$P$I$L$L$I$N$O$I$S$6$6$7$8$9$
+A$-$1$3$0$8$5$-$5$0$7$3$8$J$.$J$.$ $T$A$P$P$E$R$ $&$ $C$O$.$ $I$N$C$.$ $D$B$A$ $T$H$E$ $G$A$R$D$E$N$ $F$O$O$D$ $M$A$R$K$E$T$N$E$W$ $Y$O$R$K$3$4$5$7$0$
+A$-$1$3$0$7$2$-$4$7$8$3$2$Z$E$N$S$A$R$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$.$I$L$L$I$N$O$I$S$7$1$2$8$2$
+A$-$1$3$0$8$1$-$5$0$3$0$7$P$E$L$C$O$C$A$L$I$F$O$R$N$I$A$6$6$8$9$3$
+A$-$1$3$0$3$5$-$3$7$2$2$4$I$N$F$O$S$Y$S$ $L$T$D$.$T$E$X$A$S$6$8$1$6$2$
+A$-$1$3$1$1$2$-$5$8$1$7$9$N$I$I$T$ $T$E$C$H$N$O$L$O$G$I$E$S$ $L$I$M$I$T$E$D$G$E$O$R$G$I$A$9$6$2$0$0$
+A$-$1$3$0$8$2$-$5$0$3$6$7$S$A$R$K$ $W$I$R$E$ $C$O$R$P$O$R$A$T$I$O$N$N$E$W$ $Y$O$R$K$5$4$0$5$9$
+A$-$1$3$1$0$9$-$5$7$7$7$0$M$A$N$H$A$T$T$A$N$ $A$S$S$O$C$I$A$T$E$S$,$ $I$N$C$.$G$E$O$R$G$I$A$5$8$1$7$8$
+A$-$1$3$2$9$9$-$0$5$9$5$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$9$4$-$0$3$2$0$1$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$0$9$5$-$5$3$3$9$5$C$U$M$M$I$N$S$ $I$N$C$.$I$N$D$I$A$N$A$5$9$7$5$8$
+A$-$1$3$0$9$8$-$5$3$5$3$1$B$L$O$O$M$B$E$R$G$ $L$.$P$.$N$E$W$ $Y$O$R$K$8$7$7$1$4$
+A$-$1$3$0$6$6$-$4$5$9$4$8$M$A$R$K$E$T$W$E$L$L$ $I$N$C$N$E$W$ $Y$O$R$K$1$1$4$3$3$8$
+A$-$1$3$0$8$0$-$5$0$0$0$4$N$A$T$I$O$N$A$L$ $O$I$L$W$E$L$L$ $V$A$R$C$O$,$ $L$.$P$.$T$E$X$A$S$7$8$1$0$0$
+A$-$1$3$0$9$8$-$5$3$6$8$6$S$U$N$ $K$I$M$,$ $L$L$C$G$E$O$R$G$I$A$3$3$7$1$7$
+A$-$1$3$0$7$2$-$4$7$7$1$5$A$R$D$A$ $Y$E$M$E$N$I$D$J$I$A$N$C$A$L$I$F$O$R$N$I$A$2$2$6$5$1$
+A$-$1$3$0$6$7$-$4$6$5$0$8$S$Y$S$T$E$M$ $S$O$F$T$ $T$E$C$H$N$O$L$O$G$I$E$S$ $L$L$C$F$L$O$R$I$D$A$8$3$7$2$0$
+A$-$1$3$0$9$4$-$5$2$7$0$8$F$O$C$U$S$ $O$M$R$,$ $L$L$C$F$L$O$R$I$D$A$6$0$7$7$8$
+A$-$1$3$0$8$6$-$5$1$1$0$9$R$E$S$P$A$W$N$ $E$N$T$E$R$T$A$I$N$M$E$N$T$C$A$L$I$F$O$R$N$I$A$6$8$8$4$8$
+A$-$1$3$1$0$5$-$5$5$8$5$2$F$I$N$S$O$F$T$ $C$O$N$S$U$L$T$A$N$T$S$ $I$N$C$.$N$E$W$ $Y$O$R$K$6$8$0$9$9$
+A$-$1$3$0$9$2$-$5$2$2$2$7$Z$U$N$A$ $1$0$ $C$O$R$P$N$E$W$ $Y$O$R$K$5$9$3$0$1$
+A$-$1$3$0$6$9$-$4$6$7$4$4$G$O$L$D$M$A$N$ $S$A$C$H$S$ $&$ $C$O$.$N$E$W$ $Y$O$R$K$7$3$3$6$2$
+A$-$1$3$1$0$0$-$5$4$5$6$1$E$M$C$ $C$O$R$P$O$R$A$T$I$O$N$M$A$S$S$A$C$H$U$S$E$T$T$S$1$0$3$1$2$6$
+A$-$1$3$1$1$3$-$5$8$4$8$8$M$O$N$T$A$U$K$ $M$A$N$O$R$N$E$W$ $Y$O$R$K$2$8$4$9$6$
+A$-$1$3$0$6$7$-$4$6$4$8$1$H$C$L$ $G$L$O$B$A$L$ $S$Y$S$T$E$M$S$ $I$N$C$M$I$C$H$I$G$A$N$7$7$3$7$6$
+A$-$1$3$0$8$6$-$5$1$2$0$9$S$O$N$Y$ $M$O$B$I$L$E$ $C$O$M$M$U$N$I$C$A$T$I$O$N$S$ $($U$S$A$)$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$7$8$6$8$6$
+A$-$1$3$1$0$2$-$5$5$4$1$2$C$A$P$G$E$M$I$N$I$ $F$I$N$A$N$C$I$A$L$ $S$E$R$V$I$C$E$S$ $U$S$A$ $I$N$C$.$I$L$L$I$N$O$I$S$9$3$9$9$5$
+A$-$1$3$1$0$1$-$5$4$6$6$9$A$S$S$U$R$E$ $E$S$E$R$V$I$C$E$S$ $I$N$C$M$A$S$S$A$C$H$U$S$E$T$T$S$1$1$2$1$7$4$
+A$-$1$3$0$9$8$-$5$3$7$2$7$A$A$A$N$O$R$T$H$E$R$N$C$A$L$I$F$O$R$N$I$A$,$N$E$V$A$D$A$&$U$T$A$H$I$N$S$U$R$A$N$C$E$E$X$C$H$A$N$G$E$C$A$L$I$F$O$R$N$I$A$1$0$3$5$2$2$
+A$-$1$3$0$9$2$-$5$2$1$5$3$S$O$F$T$W$A$R$E$ $A$G$ $U$S$A$ $I$N$C$V$I$R$G$I$N$I$A$4$6$.$4$9$
+A$-$1$3$0$6$7$-$4$6$3$4$2$D$O$N$G$ $B$A$N$G$ $C$O$R$P$O$R$A$T$I$O$N$N$E$W$ $J$E$R$S$E$Y$1$8$0$3$4$
+A$-$1$3$0$7$7$-$4$8$9$2$8$C$R$E$D$I$T$ $S$U$I$S$S$E$ $S$E$C$U$R$I$T$I$E$S$ $($U$S$A$)$ $L$L$C$N$E$W$ $Y$O$R$K$6$0$4$4$5$
+A$-$1$3$0$9$3$-$5$2$4$7$2$G$O$L$D$M$A$N$ $S$A$C$H$S$ $&$ $C$O$.$N$E$W$ $Y$O$R$K$9$9$0$0$0$
+A$-$1$3$1$1$3$-$5$8$4$4$9$M$E$D$I$C$A$L$ $C$E$N$T$E$R$ $H$O$S$P$I$T$A$L$T$E$X$A$S$4$0$4$3$5$
+A$-$1$3$0$8$0$-$5$0$0$1$4$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$9$8$5$9$2$
+A$-$1$3$0$8$6$-$5$1$0$8$8$N$A$C$O$G$D$O$C$H$E$S$ $C$O$U$N$T$Y$ $H$O$S$P$I$T$A$L$ $D$I$S$T$R$I$C$T$T$E$X$A$S$4$1$7$2$5$
+A$-$1$3$0$5$1$-$4$1$7$7$6$U$R$L$ $S$Y$S$T$E$M$S$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$1$2$0$3$2$8$
+A$-$1$3$1$1$2$-$5$8$1$8$2$S$G$ $A$M$E$R$I$C$A$S$ $S$E$C$U$R$I$T$I$E$S$,$ $L$L$C$N$E$W$ $Y$O$R$K$2$1$4$0$3$2$
+A$-$1$3$0$3$6$-$3$7$9$8$6$I$N$F$O$S$Y$S$ $L$T$D$.$T$E$X$A$S$6$8$1$6$2$
+A$-$1$3$0$9$8$-$5$3$7$8$7$N$O$R$S$A$N$ $M$E$A$T$S$,$ $I$N$C$.$ $($D$/$B$/$A$ $P$R$I$M$E$ $M$E$A$T$S$)$G$E$O$R$G$I$A$8$6$2$5$8$
+A$-$1$3$0$2$9$-$3$5$3$9$1$S$P$A$R$T$A$ $C$O$N$S$U$L$T$I$N$G$C$A$L$I$F$O$R$N$I$A$8$7$0$9$0$
+A$-$1$3$0$4$4$-$4$0$1$2$0$I$N$F$O$S$Y$S$ $L$T$D$.$T$E$X$A$S$6$8$1$6$2$
+A$-$1$3$0$5$2$-$4$2$5$2$5$R$I$T$E$ $A$I$D$ $C$O$R$P$O$R$A$T$I$O$N$P$E$N$N$S$Y$L$V$A$N$I$A$1$0$5$6$4$3$
+A$-$1$3$0$3$5$-$3$7$3$3$4$D$R$.$ $H$Y$U$N$ $C$H$U$L$ $K$I$M$,$ $C$H$I$R$O$P$R$A$C$T$I$C$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$3$5$2$1$4$
+A$-$1$3$0$3$7$-$3$8$2$3$9$I$C$F$ $R$E$S$O$U$R$C$E$S$,$ $L$.$L$.$C$.$V$I$R$G$I$N$I$A$1$2$0$0$1$6$
+A$-$1$3$0$4$3$-$3$9$7$7$4$F$A$I$R$P$O$R$T$ $I$N$C$F$L$O$R$I$D$A$1$4$2$0$2$2$
+A$-$1$3$1$0$2$-$5$5$2$0$0$G$Q$C$ $A$C$U$P$U$N$C$T$U$R$E$ $C$L$I$N$I$C$C$A$L$I$F$O$R$N$I$A$3$5$2$1$4$
+A$-$1$3$0$9$5$-$5$3$2$9$7$O$P$E$N$ $S$Y$S$T$E$M$S$ $I$N$T$E$R$N$A$T$I$O$N$A$L$,$ $I$N$C$.$M$I$N$N$E$S$O$T$A$7$5$3$3$8$
+A$-$1$3$1$0$9$-$5$7$6$4$1$N$I$N$O$'$S$ $I$R$O$N$ $W$O$R$K$S$M$A$S$S$A$C$H$U$S$E$T$T$S$8$2$2$4$7$
+A$-$1$3$1$0$5$-$5$6$2$5$2$R$I$C$H$A$R$D$ $H$ $H$O$C$H$M$A$N$N$E$W$ $Y$O$R$K$3$9$9$7$8$
+A$-$1$3$1$0$8$-$5$7$2$3$4$C$Y$B$E$R$B$E$S$T$ $T$E$C$H$N$O$L$O$G$Y$,$ $I$N$C$F$L$O$R$I$D$A$6$0$7$7$8$
+A$-$1$3$0$3$2$-$3$7$0$0$2$P$A$N$A$L$P$I$N$A$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$8$9$1$0$7$
+A$-$1$3$0$4$6$-$4$0$8$5$7$I$N$F$O$S$Y$S$ $L$T$D$.$T$E$X$A$S$6$8$1$6$2$
+A$-$1$3$2$9$8$-$0$5$7$2$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$1$-$0$2$3$9$2$N$I$X$S$O$L$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$9$0$4$5$9$
+A$-$1$3$2$6$6$-$9$9$2$6$5$O$R$A$C$L$E$ $A$M$E$R$I$C$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$6$6$6$8$5$
+A$-$1$3$2$9$5$-$0$3$6$2$2$J$A$E$W$O$O$N$ $L$E$E$ $A$N$D$ $A$S$S$O$C$I$A$T$E$S$,$ $L$L$C$V$I$R$G$I$N$I$A$3$5$9$4$2$
+A$-$1$3$2$9$4$-$0$3$2$1$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$9$-$0$5$9$4$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$1$-$0$2$0$7$0$I$S$Y$N$C$ $S$O$L$U$T$I$O$N$S$ $I$N$C$P$E$N$N$S$Y$L$V$A$N$I$A$7$0$5$3$3$
+A$-$1$3$2$9$1$-$0$2$1$2$5$G$E$L$L$&$G$E$L$L$N$E$W$ $Y$O$R$K$1$6$5$6$5$1$
+A$-$1$3$1$3$7$-$6$4$4$9$3$A$N$A$ $R$E$T$A$I$L$E$R$S$ $I$N$C$T$E$X$A$S$5$2$2$2$9$
+A$-$1$3$1$4$9$-$6$7$2$7$1$R$E$V$E$N$U$E$ $A$N$A$L$Y$T$I$C$S$G$E$O$R$G$I$A$5$9$2$1$8$
+A$-$1$3$1$9$2$-$7$9$1$5$4$I$S$H$I$ $S$Y$S$T$E$M$S$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$1$2$1$2$0$2$
+A$-$1$3$1$4$4$-$6$6$4$7$1$S$A$G$A$R$S$O$F$T$,$ $I$N$C$C$O$N$N$E$C$T$I$C$U$T$7$7$3$5$5$
+A$-$1$3$1$6$5$-$7$2$0$8$7$Z$E$F$F$I$R$E$L$L$I$ $R$I$S$T$O$R$A$N$T$E$ $I$T$A$L$I$A$N$O$V$I$R$G$I$N$I$A$4$3$8$4$6$
+A$-$1$3$1$4$1$-$6$5$2$2$3$T$R$I$ $S$T$A$R$ $P$E$T$R$O$L$E$U$M$ $I$N$C$T$E$X$A$S$4$6$8$8$3$
+A$-$1$3$2$9$1$-$0$1$9$8$2$S$C$H$U$L$T$Z$ $F$I$N$A$N$C$I$A$L$ $G$R$O$U$P$ $I$N$C$N$E$V$A$D$A$7$1$7$6$0$
+A$-$1$3$2$9$6$-$0$4$6$2$3$S$A$N$D$E$R$S$ $N$E$W$ $M$E$D$I$A$I$L$L$I$N$O$I$S$7$6$3$5$7$
+A$-$1$3$2$5$4$-$9$5$7$8$8$S$I$E$M$E$N$S$ $H$E$A$L$T$H$C$A$R$E$ $D$I$A$G$N$O$S$T$I$C$S$ $I$N$C$.$N$E$W$ $Y$O$R$K$7$5$9$8$2$
+A$-$1$3$2$6$9$-$0$0$6$3$4$H$I$G$H$P$O$I$N$T$-$S$O$L$U$T$I$O$N$S$P$E$N$N$S$Y$L$V$A$N$I$A$1$0$9$9$0$7$
+A$-$1$3$2$9$7$-$0$4$9$3$0$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$5$6$-$9$6$4$6$8$K$E$N$ $S$Y$S$T$E$M$S$,$ $I$N$C$V$I$R$G$I$N$I$A$8$7$0$0$6$
+A$-$1$3$2$6$3$-$9$8$6$9$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$1$-$0$2$0$6$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$8$-$0$0$1$9$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$5$-$0$3$8$0$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$4$6$-$9$3$4$9$1$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$7$3$0$0$0$
+A$-$1$3$2$7$0$-$0$1$1$7$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$8$-$0$5$8$3$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$1$8$2$-$7$6$8$9$5$F$A$C$T$S$E$T$ $R$E$S$E$A$R$C$H$ $S$Y$S$T$E$M$S$ $I$N$C$.$C$O$N$N$E$C$T$I$C$U$T$1$0$3$1$2$6$
+A$-$1$3$1$8$2$-$7$6$8$9$9$C$U$M$M$I$N$S$ $I$N$C$.$I$N$D$I$A$N$A$9$1$8$9$4$
+A$-$1$3$2$9$5$-$0$3$8$4$2$S$T$R$E$A$M$L$I$N$E$ $T$E$C$H$N$O$L$O$G$I$E$S$,$ $I$N$C$D$E$L$A$W$A$R$E$1$0$0$5$8$9$
+A$-$1$3$2$9$5$-$0$3$6$7$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$4$-$0$2$9$5$3$S$C$H$N$E$I$D$E$R$ $E$L$E$C$T$R$I$C$ $U$S$A$,$ $I$N$C$.$M$A$S$S$A$C$H$U$S$E$T$T$S$7$8$0$2$1$
+A$-$1$3$2$6$8$-$0$0$2$6$8$P$I$N$E$ $T$R$E$E$ $H$O$U$S$E$ $I$N$C$.$N$E$W$ $Y$O$R$K$3$4$5$7$0$
+A$-$1$3$2$9$7$-$0$4$9$0$9$Q$U$A$N$T$U$M$ $R$E$S$E$R$V$O$I$R$ $I$M$P$A$C$T$T$E$X$A$S$9$1$7$2$8$
+A$-$1$3$3$0$2$-$0$6$9$1$9$Q$U$A$L$C$O$M$M$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$2$3$5$2$
+A$-$1$3$2$7$2$-$0$1$3$3$0$A$D$O$B$E$ $S$Y$S$T$E$M$S$ $I$N$C$O$R$P$O$R$A$T$E$D$C$A$L$I$F$O$R$N$I$A$1$2$4$9$8$7$
+A$-$1$3$2$6$9$-$0$0$9$0$6$A$M$E$R$I$C$A$N$ $E$X$P$R$E$S$S$ $T$R$A$V$E$L$ $R$E$L$A$T$E$D$ $S$E$R$V$I$C$E$S$N$E$W$ $Y$O$R$K$1$0$7$3$2$8$
+A$-$1$3$2$9$5$-$0$4$1$1$0$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$5$-$0$4$1$3$5$C$I$N$O$ $I$N$T$E$R$N$A$T$I$O$N$A$L$ $I$N$C$F$L$O$R$I$D$A$5$1$6$4$6$
+A$-$1$3$2$9$5$-$0$4$1$7$9$O$R$A$C$L$E$ $A$M$E$R$I$C$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$6$6$4$2$
+A$-$1$3$2$9$6$-$0$4$7$8$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$9$5$-$0$4$0$1$5$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$5$9$-$9$7$1$2$3$N$O$B$L$E$ $A$M$E$R$I$C$A$S$ $R$E$S$O$U$R$C$E$S$ $C$O$R$P$C$O$N$N$E$C$T$I$C$U$T$2$0$1$2$8$2$
+A$-$1$3$2$4$7$-$9$3$6$4$1$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$8$6$7$5$
+A$-$1$3$2$9$8$-$0$5$6$5$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$1$-$9$7$9$2$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$5$-$0$4$0$2$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$1$-$0$6$2$5$1$A$K$S$H$A$Y$A$ $I$N$C$C$A$L$I$F$O$R$N$I$A$8$9$5$0$2$
+A$-$1$3$3$0$2$-$0$6$9$0$5$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$2$-$9$8$2$3$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$6$2$-$9$8$2$4$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$6$-$9$9$3$5$4$M$C$G$L$A$D$R$E$Y$ $L$L$P$I$L$L$I$N$O$I$S$9$9$7$3$6$
+A$-$1$3$2$9$7$-$0$5$1$6$3$A$D$S$ $A$L$L$I$A$N$C$E$ $D$A$T$A$ $S$Y$S$T$E$M$S$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$4$6$6$9$6$
+A$-$1$3$2$9$7$-$0$5$2$7$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$1$-$0$6$4$7$5$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$8$-$0$0$2$1$5$K$A$B$U$K$I$ $R$E$S$T$A$U$R$A$N$T$S$,$I$N$C$.$C$A$L$I$F$O$R$N$I$A$4$4$4$5$0$
+A$-$1$3$3$0$3$-$0$8$1$5$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$9$8$-$0$5$6$1$4$C$A$P$I$T$A$L$ $O$N$E$ $S$E$R$V$I$C$E$S$,$ $L$L$C$V$I$R$G$I$N$I$A$3$7$5$0$2$
+A$-$1$3$2$9$8$-$0$5$7$1$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$6$9$-$0$0$7$3$2$K$O$C$H$ $F$O$O$D$S$ $O$F$ $A$L$A$B$A$M$A$,$ $L$L$C$A$L$A$B$A$M$A$1$9$8$4$3$
+A$-$1$3$3$0$3$-$0$7$1$6$1$S$U$S$Q$U$E$H$A$N$N$A$ $I$N$T$E$R$N$A$T$I$O$N$A$L$ $G$R$O$U$P$,$ $L$L$P$P$E$N$N$S$Y$L$V$A$N$I$A$1$0$6$2$8$8$
+A$-$1$3$2$9$8$-$0$5$6$4$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$8$-$0$5$8$2$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$5$-$0$3$9$5$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$6$8$-$0$0$4$7$3$P$A$C$I$F$I$C$ $I$N$T$E$R$N$A$T$I$O$N$A$L$ $C$O$L$L$E$G$E$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$4$0$5$8$
+A$-$1$3$2$6$7$-$9$9$7$7$2$Z$E$N$S$A$R$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$.$I$L$L$I$N$O$I$S$8$8$2$5$4$
+A$-$1$3$2$6$6$-$9$9$4$7$1$E$P$I$C$ $S$Y$S$T$E$M$S$ $C$O$R$P$O$R$A$T$I$O$N$W$I$S$C$O$N$S$I$N$6$7$3$5$0$
+A$-$1$3$2$7$3$-$0$1$4$6$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$6$3$-$9$8$6$4$5$K$L$A$-$T$E$N$C$O$R$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$1$0$7$8$5$1$
+A$-$1$3$2$5$9$-$9$7$1$7$3$J$O$H$N$S$O$N$ $C$O$N$T$R$O$L$S$,$ $I$N$C$W$I$S$C$O$N$S$I$N$9$2$4$1$4$
+A$-$1$3$2$7$1$-$0$1$2$5$1$A$X$O$N$ $E$P$,$ $I$N$C$.$T$E$X$A$S$7$7$7$9$2$
+A$-$1$3$2$7$1$-$0$1$2$6$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$7$0$-$0$1$1$0$8$R$I$D$G$E$ $T$O$O$L$ $C$O$M$P$A$N$Y$O$H$I$O$6$3$3$5$7$
+A$-$1$3$2$9$6$-$0$4$3$6$9$K$O$H$L$E$R$ $C$O$.$W$I$S$C$O$N$S$I$N$7$1$0$1$1$
+A$-$1$3$2$9$6$-$0$4$4$1$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$3$0$4$-$0$9$2$8$5$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$9$7$-$0$5$1$5$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$9$2$-$0$2$6$2$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$8$-$0$0$3$4$7$B$L$O$O$M$B$E$R$G$ $L$.$P$.$N$E$W$ $Y$O$R$K$9$0$0$8$5$
+A$-$1$3$2$6$8$-$0$0$4$6$4$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$9$6$-$0$4$6$9$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$2$-$0$6$8$6$7$A$M$E$R$E$N$ $S$E$R$V$I$C$E$S$M$I$S$S$O$U$R$I$7$1$8$4$3$
+A$-$1$3$2$9$1$-$0$2$4$4$2$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$8$6$7$5$
+A$-$1$3$2$3$1$-$8$9$4$6$8$C$A$S$E$ $F$A$R$M$S$ $P$R$O$C$E$S$S$I$N$G$ $I$N$C$.$N$O$R$T$H$ $C$A$R$O$L$I$N$A$8$.$4$4$
+A$-$1$3$2$5$6$-$9$6$5$1$3$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$9$3$7$8$
+A$-$1$3$2$9$8$-$0$5$6$1$7$P$A$R$A$M$O$U$N$T$ $F$A$R$M$S$ $I$N$T$E$R$N$A$T$I$O$N$A$L$,$ $L$L$C$C$A$L$I$F$O$R$N$I$A$1$1$4$7$1$2$
+A$-$1$3$2$9$8$-$0$5$6$6$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$1$-$0$6$4$5$6$I$T$S$,$ $I$N$C$.$I$O$W$A$7$9$5$3$9$
+A$-$1$3$2$9$6$-$0$4$5$4$6$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$6$0$7$3$6$
+A$-$1$3$1$7$5$-$7$4$4$4$1$I$B$M$ $C$O$R$P$O$R$A$T$I$O$N$N$O$R$T$H$ $C$A$R$O$L$I$N$A$1$2$7$3$5$8$
+A$-$1$3$1$6$5$-$7$2$0$4$1$P$E$A$R$L$ $G$A$R$D$E$N$ $I$N$C$.$A$L$A$B$A$M$A$2$2$7$3$4$
+A$-$1$3$1$8$4$-$7$7$4$6$1$C$U$M$M$I$N$S$ $I$N$C$.$I$N$D$I$A$N$A$6$4$4$3$8$
+A$-$1$3$1$7$8$-$7$5$7$6$7$M$A$R$V$E$L$L$ $S$E$M$I$C$O$N$D$U$C$T$O$R$ $I$N$C$C$A$L$I$F$O$R$N$I$A$8$8$3$9$4$
+A$-$1$3$1$7$2$-$7$4$1$3$3$C$O$N$T$I$N$E$N$T$A$L$ $A$U$T$O$M$O$T$I$V$E$ $S$Y$S$T$E$M$S$,$ $I$N$C$.$M$I$C$H$I$G$A$N$7$3$8$6$1$
+A$-$1$3$1$3$4$-$6$3$4$5$4$A$S$T$O$R$ $P$L$A$C$E$ $H$A$I$R$S$T$Y$L$I$S$T$ $I$N$C$,$ $D$/$B$/$A$ $A$S$T$O$R$ $P$L$A$C$E$ $H$A$I$R$ $D$E$S$I$G$N$E$R$S$N$E$W$ $Y$O$R$K$3$2$3$8$6$
+A$-$1$3$1$4$0$-$6$4$8$9$8$S$T$A$N$A$D$Y$N$E$C$O$N$N$E$C$T$I$C$U$T$1$1$7$1$0$4$
+A$-$1$3$1$5$8$-$6$9$9$1$2$A$P$O$L$L$O$ $G$R$O$U$P$,$ $I$N$C$A$R$I$Z$O$N$A$7$5$4$6$2$
+A$-$1$3$2$4$7$-$9$3$8$6$5$D$I$C$K$'$S$ $S$P$O$R$T$I$N$G$ $G$O$O$D$S$,$ $I$N$C$.$P$E$N$N$S$Y$L$V$A$N$I$A$8$3$7$8$2$
+A$-$1$3$2$3$1$-$8$9$4$4$0$C$A$S$E$ $F$A$R$M$S$ $P$R$O$C$E$S$S$I$N$G$ $I$N$C$.$N$O$R$T$H$ $C$A$R$O$L$I$N$A$8$.$4$4$
+A$-$1$3$2$2$5$-$8$7$8$2$3$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$3$6$3$7$
+A$-$1$3$2$3$4$-$9$0$6$9$5$E$M$T$E$C$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$9$0$8$1$3$
+A$-$1$3$1$7$6$-$7$4$8$5$1$T$R$A$V$I$S$W$O$L$F$F$T$E$X$A$S$8$8$0$4$6$
+A$-$1$3$2$1$9$-$8$6$2$9$1$P$U$B$L$I$C$ $S$E$R$V$I$C$E$ $E$L$E$C$T$R$I$C$ $&$ $G$A$S$ $C$O$M$P$A$N$Y$N$E$W$ $J$E$R$S$E$Y$9$2$5$3$9$
+A$-$1$3$2$1$4$-$8$5$2$0$2$F$U$J$I$T$S$U$ $A$M$E$R$I$C$A$,$ $I$N$C$.$T$E$X$A$S$9$3$8$9$1$
+A$-$1$3$1$6$9$-$7$2$6$8$8$K$O$C$H$ $F$O$O$D$S$ $O$F$ $A$L$A$B$A$M$A$,$ $L$L$C$A$L$A$B$A$M$A$1$9$8$4$3$
+A$-$1$3$1$8$9$-$7$8$2$7$8$U$M$B$R$A$ $I$N$C$.$F$L$O$R$I$D$A$3$2$6$7$7$
+A$-$1$3$1$7$1$-$7$3$7$1$1$C$O$M$C$A$S$T$ $C$A$B$L$E$ $C$O$M$M$U$N$I$C$A$T$I$O$N$S$,$ $L$L$C$P$E$N$N$S$Y$L$V$A$N$I$A$1$0$6$2$8$8$
+A$-$1$3$1$5$0$-$6$7$4$4$6$R$O$O$S$E$V$E$L$T$ $S$C$H$O$O$L$ $D$I$S$T$R$I$C$T$ $#$6$6$A$R$I$Z$O$N$A$3$2$4$3$0$
+A$-$1$3$1$5$0$-$6$7$4$9$7$C$E$N$T$R$I$C$ $C$O$N$S$U$L$T$I$N$G$,$ $L$L$C$O$H$I$O$6$6$7$9$7$.$3$8$
+A$-$1$3$2$1$6$-$8$5$5$0$4$T$E$C$H$N$O$T$E$C$ $I$N$C$V$I$R$G$I$N$I$A$6$9$6$8$0$
+A$-$1$3$1$7$0$-$7$3$4$7$0$P$A$R$A$L$L$E$L$S$ $I$N$C$.$W$A$S$H$I$N$G$T$O$N$1$1$2$5$9$0$
+A$-$1$3$2$4$2$-$9$2$7$4$3$V$-$S$O$F$T$ $C$O$N$S$U$L$T$I$N$G$ $G$R$O$U$P$,$ $I$N$C$.$K$E$N$T$U$C$K$Y$7$5$9$2$0$
+A$-$1$3$2$2$5$-$8$7$8$9$3$C$U$M$M$I$N$S$ $I$N$C$.$I$N$D$I$A$N$A$7$7$4$1$8$
+A$-$1$3$2$4$0$-$9$1$9$6$5$Q$U$A$K$E$R$ $C$H$E$M$I$C$A$L$ $C$O$R$P$O$R$A$T$I$O$N$P$E$N$N$S$Y$L$V$A$N$I$A$7$1$5$1$0$
+A$-$1$3$2$4$2$-$9$3$0$3$1$Q$U$A$L$C$O$M$M$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$2$2$2$4$
+A$-$1$3$2$1$9$-$8$6$6$1$3$C$G$I$ $T$E$C$H$N$O$L$O$G$I$E$S$ $A$N$D$ $S$O$L$U$T$I$O$N$S$ $I$N$C$.$V$I$R$G$I$N$I$A$1$2$0$0$1$6$
+A$-$1$3$2$6$4$-$9$9$0$1$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$1$9$6$-$8$0$0$8$0$C$R$A$Z$Y$ $S$U$S$H$I$ $F$E$V$E$R$C$A$L$I$F$O$R$N$I$A$4$8$5$6$8$
+A$-$1$3$1$7$7$-$7$5$1$1$8$K$O$C$H$ $F$O$O$D$S$ $O$F$ $A$L$A$B$A$M$A$,$ $L$L$C$A$L$A$B$A$M$A$1$9$8$4$3$
+A$-$1$3$1$9$7$-$8$0$5$6$6$S$O$N$Y$ $C$O$M$P$U$T$E$R$ $E$N$T$E$R$T$A$I$N$M$E$N$T$ $A$M$E$R$I$C$A$ $L$L$C$C$A$L$I$F$O$R$N$I$A$1$4$0$9$8$2$
+A$-$1$3$1$4$9$-$6$7$0$0$7$O$B$J$E$C$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$K$A$N$S$A$S$7$2$6$5$4$
+A$-$1$3$1$6$3$-$7$1$2$8$4$E$D$M$I$N$S$T$E$R$ $H$I$N$S$H$A$W$ $R$U$S$S$ $&$ $A$S$S$O$C$I$A$T$E$S$ $I$N$C$.$T$E$X$A$S$5$7$9$7$0$
+A$-$1$3$2$1$3$-$8$4$7$6$9$R$I$V$E$R$ $C$I$T$Y$ $E$D$U$C$A$T$I$O$N$ $S$E$R$V$I$C$E$S$,$ $I$N$C$F$L$O$R$I$D$A$5$9$8$2$1$
+A$-$1$3$1$7$0$-$7$3$1$3$8$D$E$N$Y$O$ $M$A$N$U$F$A$C$T$U$R$I$N$G$ $C$O$R$P$O$R$A$T$I$O$N$K$E$N$T$U$C$K$Y$7$3$8$4$0$
+A$-$1$3$1$3$6$-$6$4$2$2$7$S$H$A$W$ $P$R$O$J$E$C$T$ $S$E$R$V$I$C$E$S$ $G$R$O$U$P$,$ $L$L$C$S$O$U$T$H$ $C$A$R$O$L$I$N$A$1$1$0$5$9$4$
+A$-$1$3$1$4$3$-$6$6$2$2$4$H$C$P$ $I$N$C$.$G$U$A$M$8$2$6$3$8$
+A$-$1$3$1$7$0$-$7$3$1$4$2$I$N$T$E$C$S$E$A$,$ $I$N$C$.$T$E$X$A$S$8$1$8$0$6$
+A$-$1$3$2$2$6$-$8$8$2$1$6$G$L$O$B$A$L$ $S$P$E$C$T$R$U$M$ $F$O$U$N$D$A$T$I$O$N$G$E$O$R$G$I$A$7$1$5$9$4$
+A$-$1$3$2$4$6$-$9$3$4$5$0$C$&$S$ $W$H$O$L$E$S$A$L$E$ $G$R$O$C$E$R$S$,$ $I$N$C$N$E$W$ $H$A$M$P$S$H$I$R$E$1$1$5$7$9$4$
+A$-$1$3$2$3$1$-$8$9$6$9$2$A$L$C$A$T$E$L$ $L$U$C$E$N$T$ $U$S$A$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$9$2$5$3$9$
+A$-$1$3$2$5$3$-$9$5$4$6$7$D$E$N$K$E$N$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$0$7$7$6$
+A$-$1$3$2$5$4$-$9$5$7$7$0$L$U$C$I$A$N$O$ $P$O$R$C$H$E$T$T$A$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$3$0$5$1$4$
+A$-$1$3$1$9$7$-$8$0$3$2$2$I$N$F$O$L$O$G$I$T$E$C$H$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$6$0$6$1$1$
+A$-$1$3$1$9$1$-$7$8$7$5$5$M$I$C$H$I$G$A$N$ $S$T$A$T$E$ $U$N$I$V$E$R$S$I$T$Y$M$I$C$H$I$G$A$N$6$1$4$2$2$
+A$-$1$3$1$6$9$-$7$3$0$7$6$G$U$I$D$A$N$C$E$ $S$O$F$T$W$A$R$E$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$7$8$3$7$4$
+A$-$1$3$1$7$6$-$7$5$0$2$7$W$A$L$-$M$A$R$T$ $A$S$S$O$C$I$A$T$E$S$,$ $I$N$C$.$A$R$K$A$N$S$A$S$1$2$4$9$8$7$
+A$-$1$3$1$4$8$-$6$6$6$7$6$M$I$A$M$I$ $U$N$I$V$E$R$S$I$T$Y$O$H$I$O$4$4$1$1$0$
+A$-$1$3$1$5$6$-$6$9$0$9$3$E$N$V$E$S$T$N$E$T$ $A$S$S$E$T$ $M$A$N$A$G$E$M$E$N$T$,$ $I$N$C$.$I$L$L$I$N$O$I$S$9$3$8$0$0$
+A$-$1$3$1$9$9$-$8$1$2$3$3$P$H$O$T$O$N$I$C$S$ $I$N$D$U$S$T$R$I$E$S$ $I$N$T$E$R$N$A$T$I$O$N$A$L$N$E$W$ $Y$O$R$K$7$3$4$8$6$
+A$-$1$3$2$1$3$-$8$4$8$0$2$T$A$R$G$E$T$ $S$E$C$U$R$I$T$Y$ $S$Y$S$T$E$M$S$ $L$L$C$N$E$W$ $Y$O$R$K$6$5$3$5$4$
+A$-$1$3$1$8$4$-$7$7$4$7$9$A$N$A$-$D$A$T$A$ $C$O$N$S$U$L$T$I$N$G$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$8$7$7$1$4$
+A$-$1$3$1$4$3$-$6$5$9$7$6$S$B$M$ $G$R$O$U$P$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$7$5$1$7$1$
+A$-$1$3$1$5$4$-$6$8$0$2$7$N$I$C$ $I$N$F$O$ $T$E$K$ $I$N$C$F$L$O$R$I$D$A$7$0$0$3$4$
+A$-$1$3$1$4$3$-$6$6$0$4$6$B$ $H$ $W$H$A$N$G$ $&$ $A$S$S$O$C$I$A$T$E$S$ $L$T$D$I$L$L$I$N$O$I$S$7$4$7$5$5$
+A$-$1$3$1$4$9$-$6$6$9$8$4$D$I$G$I$T$A$L$ $I$N$T$E$L$L$I$G$E$N$C$E$ $S$Y$S$T$E$M$S$,$ $L$L$C$V$I$R$G$I$N$I$A$9$6$2$0$0$
+A$-$1$3$1$5$8$-$6$9$7$0$4$M$E$S$S$A$G$E$ $S$Y$S$T$E$M$S$,$ $I$N$C$.$M$A$R$Y$L$A$N$D$8$1$3$9$0$
+A$-$1$3$2$1$0$-$8$3$6$5$1$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$6$0$5$0$
+A$-$1$3$1$9$6$-$7$9$9$7$8$C$O$N$T$I$N$E$N$T$A$L$ $A$U$T$O$M$O$T$I$V$E$ $S$Y$S$T$E$M$S$,$ $I$N$C$.$M$I$C$H$I$G$A$N$8$9$0$6$6$
+A$-$1$3$2$1$4$-$8$5$2$6$8$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$5$0$1$9$0$
+A$-$1$3$2$0$4$-$8$2$3$9$3$N$-$T$I$E$R$ $S$O$L$U$T$I$O$N$S$ $I$N$C$.$N$O$R$T$H$ $C$A$R$O$L$I$N$A$8$6$0$0$8$
+A$-$1$3$1$3$6$-$6$4$2$7$1$E$X$U$S$I$A$,$ $I$N$C$.$N$E$W$ $Y$O$R$K$1$2$1$2$0$2$
+A$-$1$3$1$5$6$-$6$9$0$2$5$S$A$G$A$R$S$O$F$T$,$ $I$N$C$C$O$N$N$E$C$T$I$C$U$T$7$7$3$5$5$
+A$-$1$3$2$1$0$-$8$3$8$1$2$D$O$R$E$-$ $A$R$T$ $C$O$R$P$O$R$A$T$I$O$N$ $D$B$A$ $A$R$T$H$U$R$'$S$ $T$A$V$E$R$N$N$E$W$ $J$E$R$S$E$Y$3$1$7$6$2$
+A$-$1$3$1$8$0$-$7$6$5$6$6$D$A$L$L$A$S$ $I$N$D$E$P$E$N$D$E$N$T$ $S$C$H$O$O$L$ $D$I$S$T$R$I$C$T$T$E$X$A$S$4$4$4$3$0$
+A$-$1$3$1$6$5$-$7$2$0$5$1$R$E$J$O$I$C$I$N$G$ $P$R$E$S$B$Y$T$E$R$I$A$N$ $C$H$U$R$C$H$ $O$F$ $S$O$U$T$H$E$R$N$ $C$A$L$I$F$O$R$N$C$A$L$I$F$O$R$N$I$A$5$2$4$1$6$
+A$-$1$3$1$7$8$-$7$5$9$3$4$W$E$L$L$P$O$I$N$T$,$ $I$N$C$.$I$N$D$I$A$N$A$8$6$1$1$2$
+A$-$1$3$1$5$0$-$6$7$5$7$2$K$H$ $W$I$T$H$E$R$S$ $L$L$C$ $($D$.$B$.$A$.$ $C$R$E$S$S$W$I$N$D$ $M$Y$R$T$L$E$ $B$E$A$C$H$)$S$O$U$T$H$ $C$A$R$O$L$I$N$A$1$4$7$4$7$2$
+A$-$1$3$1$3$7$-$6$4$6$8$6$B$E$S$ $I$N$C$F$L$O$R$I$D$A$8$3$1$5$8$
+A$-$1$3$1$5$6$-$6$8$9$7$0$T$R$O$N$D$E$N$T$ $D$E$V$E$L$O$P$M$E$N$T$ $C$O$R$P$I$L$L$I$N$O$I$S$9$5$1$1$8$
+A$-$1$3$1$5$1$-$6$7$7$4$2$B$E$L$C$A$N$ $E$N$G$I$N$E$E$R$I$N$G$ $G$R$O$U$P$,$ $I$N$C$.$I$L$L$I$N$O$I$S$4$9$4$2$1$
+A$-$1$3$2$0$5$-$8$2$6$0$4$N$E$W$ $Y$O$R$K$ $C$I$T$Y$ $D$E$P$A$R$T$M$E$N$T$ $O$F$ $E$D$U$C$A$T$I$O$N$N$E$W$ $Y$O$R$K$4$5$5$3$0$
+A$-$1$3$1$4$3$-$6$6$1$7$1$O$I$L$ $W$E$L$L$ $S$E$R$V$I$C$E$C$A$L$I$F$O$R$N$I$A$6$2$3$5$8$
+A$-$1$3$1$4$4$-$6$6$2$7$9$N$A$K$A$ $I$N$C$ $T$/$A$ $T$E$M$A$R$I$ $C$A$F$E$M$A$R$Y$L$A$N$D$4$9$3$3$8$
+A$-$1$3$1$4$2$-$6$5$5$6$4$M$A$R$S$H$A$L$L$ $C$O$U$N$T$Y$ $H$O$S$P$I$T$A$L$K$E$N$T$U$C$K$Y$4$5$7$1$8$
+A$-$1$3$1$4$8$-$6$6$8$0$3$T$H$A$I$ $S$H$O$K$U$N$ $R$E$S$T$A$U$R$A$N$T$F$L$O$R$I$D$A$3$5$7$3$4$
+A$-$1$3$2$3$1$-$8$9$5$1$3$M$A$N$H$A$T$T$A$N$ $A$S$S$O$C$I$A$T$E$S$,$ $I$N$C$.$G$E$O$R$G$I$A$8$6$6$2$1$
+A$-$1$3$2$3$9$-$9$1$6$3$5$D$V$R$ $S$O$F$T$E$K$ $I$N$C$.$,$N$E$W$ $J$E$R$S$E$Y$1$0$2$4$6$1$
+A$-$1$3$2$4$1$-$9$2$3$6$5$T$E$C$H$N$I$P$ $U$S$A$,$ $I$N$C$.$T$E$X$A$S$9$6$9$7$0$
+A$-$1$3$2$3$5$-$9$1$0$0$0$J$I$R$E$H$ $S$O$L$U$T$I$O$N$S$,$ $L$L$C$G$E$O$R$G$I$A$8$6$2$5$8$
+A$-$1$3$2$4$1$-$9$2$4$5$3$A$T$&$T$ $S$E$R$V$I$C$E$S$,$ $I$N$C$.$T$E$X$A$S$1$6$4$8$1$9$
+A$-$1$3$2$1$8$-$8$6$1$1$1$P$A$C$I$F$I$C$ $A$G$ $R$E$S$E$A$R$C$H$ $C$O$R$P$ $D$B$A$ $P$A$C$I$F$I$C$ $A$G$ $G$R$O$U$P$C$A$L$I$F$O$R$N$I$A$6$6$1$0$2$
+A$-$1$3$2$3$9$-$9$1$6$4$2$N$A$T$S$O$F$T$ $C$O$R$P$O$R$A$T$I$O$N$N$E$W$ $J$E$R$S$E$Y$7$5$1$7$1$
+A$-$1$3$2$2$8$-$8$9$0$3$8$J$A$E$ $D$E$N$T$A$L$ $S$T$U$D$I$O$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$2$7$1$2$3$
+A$-$1$3$2$4$2$-$9$2$8$0$7$P$R$E$C$I$S$I$O$N$ $D$R$I$L$L$I$N$G$ $C$O$M$P$A$N$Y$,$ $L$P$T$E$X$A$S$1$4$2$1$0$6$
+A$-$1$3$2$2$5$-$8$7$6$8$4$M$O$H$A$M$E$D$ $K$H$E$I$R$Y$,$ $L$L$C$M$A$R$Y$L$A$N$D$1$7$4$2$6$2$
+A$-$1$3$2$4$6$-$9$3$2$7$5$E$D$I$F$E$C$S$,$ $I$N$C$.$W$A$S$H$I$N$G$T$O$N$1$1$5$3$1$5$
+A$-$1$3$2$6$1$-$9$7$9$6$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$4$9$-$9$4$4$1$8$D$V$R$ $S$O$F$T$E$K$ $I$N$C$.$,$N$E$W$ $J$E$R$S$E$Y$1$0$2$4$6$1$
+A$-$1$3$2$4$7$-$9$3$7$4$4$G$A$U$G$E$ $C$O$N$S$U$L$T$I$N$G$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$6$5$2$5$0$
+A$-$1$3$2$3$4$-$9$0$6$3$0$R$A$V$E$L$L$O$ $S$O$L$U$T$I$O$N$S$,$ $L$L$C$G$E$O$R$G$I$A$8$6$2$5$8$
+A$-$1$3$2$2$4$-$8$7$4$9$5$A$C$Q$U$I$T$Y$ $G$R$O$U$P$ $L$L$C$I$L$L$I$N$O$I$S$1$0$6$7$4$6$
+A$-$1$3$2$4$0$-$9$2$0$7$8$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$1$4$0$4$0$0$
+A$-$1$3$2$3$3$-$9$0$2$2$4$S$G$I$C$ $C$L$O$U$D$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$C$A$L$I$F$O$R$N$I$A$1$0$3$5$2$2$
+A$-$1$3$2$3$4$-$9$0$7$4$1$W$E$L$S$P$U$N$ $P$I$P$E$S$ $I$N$C$A$R$K$A$N$S$A$S$8$9$9$6$0$
+A$-$1$3$2$6$0$-$9$7$5$9$5$T$R$A$C$K$I$N$G$P$O$I$N$T$,$ $I$N$C$.$T$E$X$A$S$9$1$1$2$5$
+A$-$1$3$2$3$3$-$9$0$1$3$8$A$P$P$N$E$X$U$S$ $I$N$C$N$E$W$ $Y$O$R$K$1$2$1$2$0$2$
+A$-$1$3$2$4$4$-$9$3$1$0$4$S$B$P$ $C$O$N$S$U$L$T$I$N$G$ $I$N$C$I$L$L$I$N$O$I$S$7$1$2$1$9$
+A$-$1$3$2$1$9$-$8$6$6$5$0$P$A$L$O$ $A$L$T$O$ $N$E$T$W$O$R$K$S$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$3$6$3$7$
+A$-$1$3$2$2$1$-$8$7$2$4$7$I$N$V$E$S$T$E$C$ $S$E$C$U$R$I$T$I$E$S$ $($U$S$)$ $L$L$C$N$E$W$ $Y$O$R$K$1$4$2$4$3$8$
+A$-$1$3$2$6$2$-$9$8$1$4$0$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$1$2$9$8$5$4$
+A$-$1$3$2$5$3$-$9$5$4$8$8$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$1$0$3$9$7$9$
+A$-$1$3$2$3$1$-$8$9$5$1$6$O$R$A$C$L$E$ $A$M$E$R$I$C$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$2$4$9$2$5$
+A$-$1$3$3$1$7$-$1$4$6$7$0$A$P$R$I$S$O$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$7$7$0$2$2$
+A$-$1$3$3$1$6$-$1$3$9$4$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$1$7$2$-$7$4$0$9$8$G$L$O$B$A$L$ $I$N$F$O$T$E$C$H$ $I$N$C$I$L$L$I$N$O$I$S$9$6$0$1$3$
+A$-$1$3$1$8$3$-$7$7$4$1$0$C$A$P$I$T$A$L$ $O$N$E$ $S$E$R$V$I$C$E$S$,$ $L$L$C$V$I$R$G$I$N$I$A$5$8$5$3$1$
+A$-$1$3$2$1$2$-$8$4$5$6$3$A$S$T$O$R$ $C$O$N$S$T$R$U$C$T$I$O$N$,$ $L$L$C$F$L$O$R$I$D$A$1$0$8$4$9$3$
+A$-$1$3$2$0$3$-$8$1$8$9$6$D$C$G$ $S$Y$S$T$E$M$S$C$A$L$I$F$O$R$N$I$A$1$6$0$3$8$9$
+A$-$1$3$2$6$2$-$9$8$3$3$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$0$3$-$8$1$8$8$0$B$L$A$C$K$ $B$E$L$T$ $C$O$L$L$E$G$E$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$4$9$6$9$1$
+A$-$1$3$2$6$2$-$9$8$3$9$5$A$G$R$E$E$Y$A$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$5$2$9$0$
+A$-$1$3$2$6$0$-$9$7$4$2$1$E$N$A$B$L$E$I$T$ $L$L$C$.$N$E$W$ $Y$O$R$K$8$9$3$7$8$
+A$-$1$3$1$9$6$-$7$9$8$6$0$C$O$L$L$A$B$O$R$A$T$E$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$M$A$S$S$A$C$H$U$S$E$T$T$S$7$6$4$1$9$
+A$-$1$3$1$9$8$-$8$0$8$2$5$D$B$C$O$M$ $C$O$N$S$U$L$T$I$N$G$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$1$1$0$9$6$8$
+A$-$1$3$1$7$8$-$7$5$6$9$0$N$E$O$ $T$E$C$H$ $W$I$R$E$L$E$S$S$ $I$N$C$T$E$X$A$S$7$7$9$3$8$
+A$-$1$3$3$0$4$-$0$9$3$4$1$C$I$T$R$I$X$ $S$Y$S$T$E$M$S$,$ $I$N$C$.$F$L$O$R$I$D$A$1$1$4$4$2$1$
+A$-$1$3$3$0$4$-$0$9$4$4$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$6$-$0$4$5$5$6$S$P$E$C$T$R$A$ $C$O$L$O$R$A$N$T$S$ $I$N$C$.$S$O$U$T$H$ $C$A$R$O$L$I$N$A$5$7$5$3$3$
+A$-$1$3$1$0$1$-$5$5$0$2$2$A$P$P$L$I$E$D$ $M$I$C$R$O$ $C$I$R$C$U$I$T$S$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$1$0$2$7$7$0$
+A$-$1$3$3$2$9$-$1$8$8$3$3$T$H$E$ $S$E$A$P$O$R$T$ $G$R$O$U$P$N$E$W$ $Y$O$R$K$7$2$9$8$7$
+A$-$1$3$3$2$9$-$1$8$8$5$0$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$1$5$-$1$3$5$3$5$C$O$M$C$A$S$T$ $C$A$B$L$E$ $C$O$M$M$U$N$I$C$A$T$I$O$N$S$,$ $L$L$C$P$E$N$N$S$Y$L$V$A$N$I$A$8$2$9$7$1$
+A$-$1$3$3$2$2$-$1$5$9$8$4$T$H$O$M$A$S$ $J$E$F$F$E$R$S$O$N$ $U$N$I$V$E$R$S$I$T$Y$ $H$O$S$P$I$T$A$L$P$E$N$N$S$Y$L$V$A$N$I$A$3$4$7$9$8$
+A$-$1$3$0$9$1$-$5$1$8$1$4$I$T$E$C$H$ $U$S$ $I$N$C$.$V$E$R$M$O$N$T$8$2$7$4$2$
+A$-$1$3$3$2$4$-$1$7$0$1$4$I$T$ $S$P$I$N$ $I$N$C$T$E$X$A$S$1$0$6$7$4$6$
+A$-$1$3$2$4$4$-$9$3$0$9$7$N$A$T$S$O$F$T$ $C$O$R$P$O$R$A$T$I$O$N$N$E$W$ $J$E$R$S$E$Y$7$5$1$7$1$
+A$-$1$3$2$1$7$-$8$5$5$9$3$S$Y$S$T$E$M$S$ $T$E$C$H$N$O$L$O$G$Y$ $G$R$O$U$P$,$ $I$N$C$.$ $($S$T$G$)$M$I$C$H$I$G$A$N$7$3$3$4$1$
+A$-$1$3$2$4$8$-$9$4$0$3$1$R$O$C$K$W$E$L$L$ $A$U$T$O$M$A$T$I$O$N$,$ $I$N$C$.$W$I$S$C$O$N$S$I$N$8$7$6$9$3$
+A$-$1$3$2$2$0$-$8$6$8$0$2$N$O$R$T$H$ $S$U$F$F$O$L$K$ $M$E$N$T$A$L$ $H$E$A$L$T$H$ $A$S$S$O$C$I$A$T$I$O$N$M$A$S$S$A$C$H$U$S$E$T$T$S$4$4$3$0$8$.$7$8$
+A$-$1$3$2$2$6$-$8$8$3$2$2$G$O$L$D$E$N$ $C$H$I$C$K$E$N$ $&$ $J$A$P$A$N$E$S$E$ $ $G$R$I$L$L$M$A$R$Y$L$A$N$D$2$9$0$9$9$
+A$-$1$3$2$3$5$-$9$0$8$8$0$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$0$9$8$4$
+A$-$1$3$2$2$4$-$8$7$5$4$8$S$H$A$W$ $S$E$R$V$I$C$E$S$,$ $L$L$C$L$O$U$I$S$I$A$N$A$6$4$2$1$0$
+A$-$1$3$2$4$6$-$9$3$5$0$6$T$I$G$E$R$T$E$C$H$ $M$E$D$I$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$7$3$2$7$8$
+A$-$1$3$2$4$6$-$9$3$5$0$8$I$N$T$E$L$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$7$3$8$7$2$
+A$-$1$3$2$2$8$-$8$8$9$9$1$P$R$I$M$A$S$O$F$T$ $I$N$C$T$E$X$A$S$7$6$5$8$6$
+A$-$1$3$2$2$5$-$8$7$8$1$5$T$R$I$Z$E$T$T$O$ $C$O$R$P$O$R$A$T$I$O$N$C$O$L$O$R$A$D$O$7$2$5$9$2$
+A$-$1$3$2$2$5$-$8$7$8$0$3$A$N$T$E$N$N$A$ $P$A$Y$ $T$V$ $U$S$A$ $I$N$C$.$N$E$W$ $Y$O$R$K$5$5$3$7$0$
+A$-$1$3$2$3$4$-$9$0$6$4$3$A$M$N$E$A$L$ $P$H$A$R$M$A$C$E$U$T$I$C$A$L$S$ $L$L$C$N$E$W$ $J$E$R$S$E$Y$7$2$0$7$2$
+A$-$1$3$2$5$5$-$9$6$1$4$3$M$O$U$N$T$ $A$U$B$U$R$N$ $P$R$O$F$E$S$S$I$O$N$A$L$ $S$E$R$V$I$C$E$S$M$A$S$S$A$C$H$U$S$E$T$T$S$1$5$7$2$2$7$
+A$-$1$3$2$4$9$-$9$4$4$3$1$N$E$O$@$O$G$I$L$V$Y$N$E$W$ $Y$O$R$K$1$0$1$1$3$0$
+A$-$1$3$2$2$6$-$8$8$4$8$5$J$E$S$S$E$ $&$ $F$R$I$C$H$T$E$L$,$ $I$N$C$P$E$N$N$S$Y$L$V$A$N$I$A$6$8$9$7$3$
+A$-$1$3$2$2$4$-$8$7$6$3$8$W$E$L$L$N$E$S$S$ $&$ $C$A$R$E$ $G$R$O$U$P$ $O$F$ $T$E$X$A$S$ $I$N$C$T$E$X$A$S$6$1$9$8$4$
+A$-$1$3$2$1$3$-$8$5$0$1$6$J$O$N$A$T$H$O$N$S$ $C$O$A$S$T$A$L$ $L$I$V$I$N$G$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$8$7$6$2$
+A$-$1$3$2$6$1$-$9$7$9$4$4$U$N$I$T$E$D$ $A$I$R$L$I$N$E$S$,$ $I$N$C$.$I$L$L$I$N$O$I$S$5$9$2$5$9$
+A$-$1$3$2$6$1$-$9$7$9$6$1$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$1$7$8$-$7$6$0$8$1$D$A$L$L$A$S$ $I$N$D$E$P$E$N$D$E$N$T$ $S$C$H$O$O$L$ $D$I$S$T$R$I$C$T$T$E$X$A$S$4$4$4$3$0$
+A$-$1$3$1$8$3$-$7$7$2$7$6$A$L$A$N$ $S$C$H$O$N$F$E$L$D$ $P$R$O$P$E$R$T$Y$ $M$A$N$A$G$E$M$E$N$T$ $C$O$R$P$N$E$W$ $Y$O$R$K$8$3$8$6$6$
+A$-$1$3$1$9$8$-$8$0$7$1$2$B$E$N$E$F$I$C$E$N$T$ $T$E$C$H$N$O$L$O$G$Y$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$0$9$8$4$
+A$-$1$3$1$9$0$-$7$8$5$4$3$N$A$T$I$O$N$A$L$ $O$I$L$W$E$L$L$ $V$A$R$C$O$,$ $L$.$P$.$T$E$X$A$S$9$5$1$0$0$
+A$-$1$3$1$9$9$-$8$1$2$1$3$I$N$F$O$S$Y$T$E$C$H$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$.$L$O$U$I$S$I$A$N$A$5$9$0$9$3$
+A$-$1$3$1$7$6$-$7$4$8$7$7$E$X$P$R$O$ $A$M$E$R$I$C$A$S$,$ $L$L$C$T$E$X$A$S$7$8$7$4$9$
+A$-$1$3$1$9$3$-$7$9$6$5$6$S$D$G$ $P$O$S$T$ $O$A$K$ $L$P$ $D$B$A$ $R$D$G$ $B$A$R$ $A$N$N$I$E$T$E$X$A$S$1$8$0$9$6$
+A$-$1$3$2$0$7$-$8$3$3$3$3$S$M$A$R$T$ $A$P$P$A$R$E$L$ $($U$.$S$.$)$,$ $I$N$C$.$N$E$W$ $Y$O$R$K$7$3$8$8$2$
+A$-$1$3$2$6$2$-$9$8$1$6$3$C$O$R$B$U$S$O$H$I$O$9$3$0$3$8$
+A$-$1$3$2$6$2$-$9$8$1$7$9$S$Y$S$T$E$M$ $S$O$F$T$ $T$E$C$H$N$O$L$O$G$I$E$S$ $L$L$C$F$L$O$R$I$D$A$9$7$3$0$2$
+A$-$1$3$1$9$9$-$8$1$1$9$2$A$R$B$O$R$ $R$E$S$E$A$R$C$H$ $C$O$L$L$A$B$O$R$A$T$I$V$E$ $F$O$R$ $H$E$A$L$T$H$M$I$C$H$I$G$A$N$5$1$2$9$3$
+A$-$1$3$2$5$9$-$9$7$3$0$4$N$E$W$F$I$E$L$D$ $E$X$P$L$O$R$A$T$I$O$N$T$E$X$A$S$1$1$6$1$8$9$
+A$-$1$3$2$6$0$-$9$7$5$8$2$B$A$R$C$L$A$Y$S$ $B$A$N$K$ $D$E$L$A$W$A$R$E$D$E$L$A$W$A$R$E$1$1$1$7$1$7$
+A$-$1$3$1$8$9$-$7$8$1$9$0$E$X$T$E$N$S$I$O$N$E$N$G$I$N$E$ $L$L$C$M$A$S$S$A$C$H$U$S$E$T$T$S$1$4$0$5$0$4$
+A$-$1$3$1$7$7$-$7$5$3$6$1$E$M$C$ $C$O$R$P$O$R$A$T$I$O$N$M$A$S$S$A$C$H$U$S$E$T$T$S$9$6$9$2$8$
+A$-$1$3$1$7$5$-$7$4$4$0$8$N$I$C$ $I$N$F$O$ $T$E$K$ $I$N$C$F$L$O$R$I$D$A$7$0$0$3$4$
+A$-$1$3$2$0$5$-$8$2$5$9$2$N$E$W$ $Y$O$R$K$ $C$I$T$Y$ $D$E$P$A$R$T$M$E$N$T$ $O$F$ $E$D$U$C$A$T$I$O$N$N$E$W$ $Y$O$R$K$4$5$5$3$0$
+A$-$1$3$2$1$3$-$8$4$7$7$3$F$U$J$I$T$S$U$ $A$M$E$R$I$C$A$,$ $I$N$C$.$T$E$X$A$S$1$0$6$7$4$6$
+A$-$1$3$1$9$7$-$8$0$4$2$8$S$W$I$F$T$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$N$O$R$T$H$ $C$A$R$O$L$I$N$A$9$9$6$5$3$
+A$-$1$3$2$6$1$-$9$8$0$6$1$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$1$8$6$-$7$7$9$0$1$E$P$A$M$ $S$Y$S$T$E$M$S$,$ $I$N$C$P$E$N$N$S$Y$L$V$A$N$I$A$8$2$4$5$1$
+A$-$1$3$2$0$5$-$8$2$4$6$1$X$P$E$D$I$T$E$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$9$9$6$7$4$
+A$-$1$3$2$0$6$-$8$3$0$7$3$O$B$E$R$O$N$ $I$T$ $I$N$C$T$E$X$A$S$8$1$0$1$6$
+A$-$1$3$2$1$3$-$8$4$8$6$2$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$9$2$6$8$5$
+A$-$1$3$2$5$6$-$9$6$7$0$1$Q$S$I$ $M$A$N$A$G$E$M$E$N$T$ $L$L$C$C$A$L$I$F$O$R$N$I$A$1$0$6$2$8$8$
+A$-$1$3$1$8$4$-$7$7$6$3$5$S$Y$S$T$E$M$ $S$O$F$T$ $T$E$C$H$N$O$L$O$G$I$E$S$ $L$L$C$F$L$O$R$I$D$A$8$3$3$6$6$
+A$-$1$3$1$7$2$-$7$3$9$7$6$C$A$B$E$L$A$'$S$,$ $I$N$C$.$N$E$B$R$A$S$K$A$8$0$7$0$4$
+A$-$1$3$2$0$5$-$8$2$6$0$3$O$R$A$C$L$E$ $A$M$E$R$I$C$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$0$7$5$5$
+A$-$1$3$2$4$2$-$9$2$9$3$9$Y$A$H$O$O$!$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$1$6$1$9$
+A$-$1$3$1$6$9$-$7$2$7$8$2$S$A$V$A$G$E$ $S$E$R$V$I$C$E$S$ $C$O$R$P$O$R$A$T$I$O$N$U$T$A$H$6$9$9$7$1$
+A$-$1$3$3$2$3$-$1$6$8$3$7$Q$U$A$L$C$O$M$M$ $I$N$N$O$V$A$T$I$O$N$ $C$E$N$T$E$R$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$8$8$2$7$5$
+A$-$1$3$3$0$8$-$1$0$7$2$3$C$A$P$G$E$M$I$N$I$ $F$I$N$A$N$C$I$A$L$ $S$E$R$V$I$C$E$S$ $U$S$A$ $I$N$C$.$I$L$L$I$N$O$I$S$9$3$9$9$5$
+A$-$1$3$3$2$6$-$1$8$2$4$3$E$.$T$.$ $M$O$O$R$E$ $M$F$G$.$ $I$N$C$.$V$I$R$G$I$N$I$A$1$7$6$1$8$
+A$-$1$3$1$4$9$-$6$7$0$9$0$I$T$E$C$H$ $U$S$ $I$N$C$.$V$E$R$M$O$N$T$1$0$6$4$9$6$
+A$-$1$3$3$0$8$-$1$0$6$7$1$W$E$L$L$S$ $F$A$R$G$O$ $B$A$N$K$,$ $N$.$A$.$S$O$U$T$H$ $D$A$K$O$T$A$1$0$0$4$0$2$
+A$-$1$3$0$5$6$-$4$3$1$4$7$Q$U$A$L$C$O$M$M$ $T$E$C$H$N$O$L$O$G$I$E$S$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$9$1$3$8$
+A$-$1$3$0$4$4$-$4$0$4$1$9$R$I$T$E$ $A$I$D$ $C$O$R$P$O$R$A$T$I$O$N$P$E$N$N$S$Y$L$V$A$N$I$A$1$2$2$0$1$3$
+A$-$1$3$2$0$3$-$8$1$8$0$3$S$B$P$ $C$O$N$S$U$L$T$I$N$G$ $I$N$C$I$L$L$I$N$O$I$S$7$1$2$1$9$
+A$-$1$3$0$7$9$-$4$9$6$6$3$S$T$A$P$L$E$S$,$ $I$N$C$.$M$A$S$S$A$C$H$U$S$E$T$T$S$8$2$6$8$0$
+A$-$1$3$3$2$2$-$1$5$9$8$2$N$A$L$C$O$ $C$O$M$P$A$N$Y$M$I$N$N$E$S$O$T$A$6$2$7$1$2$
+A$-$1$3$2$9$4$-$0$2$8$3$6$A$R$R$O$W$ $E$L$E$C$T$R$O$N$I$C$S$C$O$L$O$R$A$D$O$1$0$7$6$1$9$
+A$-$1$3$3$0$2$-$0$6$7$8$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$6$8$-$0$0$3$5$5$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$8$-$0$0$3$8$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$3$1$1$-$1$2$0$7$2$A$X$O$N$ $S$O$L$U$T$I$O$N$S$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$1$1$2$1$5$4$
+A$-$1$3$3$2$0$-$1$5$8$8$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$5$-$1$0$1$4$0$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$1$0$8$5$3$4$
+A$-$1$3$1$6$8$-$7$2$4$0$3$N$I$T$T$O$ $D$E$N$K$O$ $A$U$T$O$M$O$T$I$V$E$,$ $M$I$S$S$O$U$R$I$,$ $I$N$C$.$M$I$S$S$O$U$R$I$6$6$4$5$6$
+A$-$1$3$1$7$9$-$7$6$3$2$7$M$I$C$H$A$E$L$ $B$A$K$E$R$ $J$R$.$,$ $I$N$C$.$P$E$N$N$S$Y$L$V$A$N$I$A$9$6$3$2$5$
+A$-$1$3$1$9$1$-$7$8$7$8$1$A$D$V$A$N$C$E$D$ $M$I$C$R$O$ $D$E$V$I$C$E$S$,$ $I$N$C$.$ $($A$M$D$)$C$A$L$I$F$O$R$N$I$A$7$6$1$4$9$
+A$-$1$3$1$9$9$-$8$0$9$7$3$N$E$T$S$C$O$U$T$ $S$Y$S$T$E$M$S$ $I$N$C$.$M$A$S$S$A$C$H$U$S$E$T$T$S$9$9$7$2$0$
+A$-$1$3$2$0$6$-$8$2$8$4$1$H$A$P$A$G$-$L$L$O$Y$D$ $($A$M$E$R$I$C$A$)$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$4$1$8$5$0$
+A$-$1$3$2$1$3$-$8$4$9$6$8$O$B$E$R$O$N$ $I$T$ $I$N$C$T$E$X$A$S$8$1$0$1$6$
+A$-$1$3$1$7$5$-$7$4$4$9$7$S$A$N$D$I$S$K$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$1$0$9$1$3$8$
+A$-$1$3$1$7$5$-$7$4$6$1$1$I$N$G$E$N$I$C$O$ $I$N$C$.$G$E$O$R$G$I$A$1$0$0$2$9$8$
+A$-$1$3$2$1$0$-$8$3$6$0$3$L$E$G$A$L$ $D$I$S$C$O$V$E$R$Y$,$ $L$L$C$ $D$B$A$ $@$L$E$G$A$L$ $D$I$S$C$O$V$E$R$Y$ $L$L$C$V$I$R$G$I$N$I$A$7$3$1$7$4$
+A$-$1$3$2$6$3$-$9$8$7$3$6$E$N$D$O$C$R$I$N$E$ $A$S$S$O$C$I$A$T$E$S$ $O$F$ $T$H$E$ $Q$U$A$D$ $C$I$T$I$E$S$,$ $S$.$C$.$I$L$L$I$N$O$I$S$1$6$8$8$9$6$
+A$-$1$3$2$6$1$-$9$7$7$8$1$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$6$1$-$9$7$7$8$4$H$C$L$ $G$L$O$B$A$L$ $S$Y$S$T$E$M$S$ $I$N$C$M$I$C$H$I$G$A$N$8$7$2$7$7$
+A$-$1$3$2$6$1$-$9$7$7$8$0$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$1$7$3$-$7$4$2$6$7$K$O$C$H$ $F$O$O$D$S$ $O$F$ $A$L$A$B$A$M$A$,$ $L$L$C$A$L$A$B$A$M$A$1$9$8$4$3$
+A$-$1$3$1$7$3$-$7$4$2$7$0$S$I$F$T$E$O$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$1$4$5$8$
+A$-$1$3$1$7$9$-$7$6$1$6$4$M$E$R$R$I$F$I$E$L$D$ $G$A$R$D$E$N$ $C$E$N$T$E$R$V$I$R$G$I$N$I$A$2$1$4$4$5$
+A$-$1$3$1$7$9$-$7$6$2$5$2$S$Y$S$T$E$M$ $S$O$F$T$ $T$E$C$H$N$O$L$O$G$I$E$S$ $L$L$C$F$L$O$R$I$D$A$9$4$5$9$8$
+A$-$1$3$2$0$8$-$8$3$4$7$5$K$O$C$H$ $F$O$O$D$S$ $O$F$ $A$L$A$B$A$M$A$,$ $L$L$C$A$L$A$B$A$M$A$1$9$8$4$3$
+A$-$1$3$2$6$1$-$9$7$8$4$5$O$R$B$I$M$E$D$ $A$D$V$I$S$O$R$S$ $L$L$C$N$E$W$ $Y$O$R$K$9$5$0$1$4$
+A$-$1$3$2$6$0$-$9$7$3$9$3$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$1$1$1$0$7$2$
+A$-$1$3$1$6$9$-$7$3$0$9$4$K$O$R$A$N$D$O$ $C$O$R$P$O$R$A$T$I$O$N$G$U$A$M$2$9$4$1$1$
+A$-$1$3$1$7$5$-$7$4$5$9$5$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$9$1$3$8$
+A$-$1$3$1$8$3$-$7$7$2$9$5$S$F$T$B$D$,$ $I$N$C$C$A$L$I$F$O$R$N$I$A$8$3$7$6$2$
+A$-$1$3$1$9$7$-$8$0$4$2$1$H$C$L$ $G$L$O$B$A$L$ $S$Y$S$T$E$M$S$ $I$N$C$M$I$C$H$I$G$A$N$8$7$2$7$7$
+A$-$1$3$2$4$9$-$9$4$6$2$3$C$O$M$P$U$N$N$E$L$ $S$O$F$T$W$A$R$E$ $G$R$O$U$P$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$5$6$4$3$0$
+A$-$1$3$1$7$2$-$7$4$0$8$4$L$O$A$D$M$A$S$T$E$R$ $D$E$R$R$I$C$K$ $&$ $E$Q$U$I$P$M$E$N$T$,$ $I$N$C$.$L$O$U$I$S$I$A$N$A$7$9$9$5$5$
+A$-$1$3$1$8$4$-$7$7$6$3$6$T$E$C$H$N$I$P$ $U$S$A$,$ $I$N$C$.$T$E$X$A$S$9$6$9$7$0$
+A$-$1$3$1$8$4$-$7$7$6$9$2$R$E$L$I$A$B$L$E$ $S$O$F$T$W$A$R$E$ $R$E$S$O$U$R$C$E$S$ $I$N$C$M$I$C$H$I$G$A$N$9$5$3$0$6$
+A$-$1$3$1$9$0$-$7$8$3$2$7$G$E$O$R$G$I$A$ $I$N$S$T$I$T$U$T$E$ $O$F$ $T$E$C$H$N$O$L$O$G$Y$G$E$O$R$G$I$A$4$8$0$8$0$
+A$-$1$3$1$9$0$-$7$8$5$4$9$W$E$I$S$S$ $A$S$S$E$T$ $M$A$N$A$G$E$M$E$N$T$ $L$P$M$A$S$S$A$C$H$U$S$E$T$T$S$9$7$1$7$8$
+A$-$1$3$1$9$6$-$7$9$8$6$8$C$R$E$D$I$T$ $S$U$I$S$S$E$ $A$S$S$E$T$ $M$A$N$A$G$E$M$E$N$T$,$ $L$L$C$N$E$W$ $Y$O$R$K$9$5$0$1$4$
+A$-$1$3$1$9$6$-$7$9$9$2$4$I$D$H$A$S$O$F$T$,$ $I$N$C$.$G$E$O$R$G$I$A$1$0$0$2$9$8$
+A$-$1$3$2$5$3$-$9$5$5$3$9$S$K$Y$ $F$O$U$N$D$A$T$I$O$N$O$K$L$A$H$O$M$A$3$4$1$1$2$
+A$-$1$3$2$5$4$-$9$5$7$2$3$H$A$L$L$I$B$U$R$T$O$N$ $E$N$E$R$G$Y$ $S$E$R$V$I$C$E$S$,$ $I$N$C$.$T$E$X$A$S$9$0$5$0$1$
+A$-$1$3$1$8$2$-$7$7$0$3$8$R$O$H$M$ $A$N$D$ $H$A$A$S$ $C$O$M$P$A$N$Y$P$E$N$N$S$Y$L$V$A$N$I$A$8$2$4$5$1$
+A$-$1$3$1$7$0$-$7$3$5$0$3$V$A$L$L$E$Y$C$R$E$S$T$ $L$A$N$D$S$C$A$P$E$ $M$A$I$N$T$E$N$A$N$C$E$C$A$L$I$F$O$R$N$I$A$1$1$8$6$4$3$
+A$-$1$3$1$9$3$-$7$9$5$7$6$Z$Y$L$O$G$ $S$Y$S$T$E$M$S$ $L$I$M$I$T$E$D$ $D$B$A$ $Z$S$L$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$7$5$1$7$1$
+A$-$1$3$1$9$6$-$8$0$0$0$8$T$R$A$N$S$E$N$D$ $I$N$T$E$G$R$A$T$E$D$ $T$E$C$H$N$O$L$O$G$I$E$S$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$8$7$2$5$6$
+A$-$1$3$2$5$5$-$9$6$4$6$0$A$C$T$I$V$I$S$I$O$N$ $P$U$B$L$I$S$H$I$N$G$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$7$8$6$6$6$
+A$-$1$3$2$6$0$-$9$7$4$3$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$1$8$3$-$7$7$3$4$7$A$N$A$D$A$R$K$O$ $P$E$T$R$O$L$E$U$M$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$1$4$5$5$7$9$
+A$-$1$3$1$8$4$-$7$7$5$0$1$L$A$ $D$E$P$A$R$T$M$E$N$T$ $O$F$ $H$E$A$L$T$H$ $A$N$D$ $H$O$S$P$I$T$A$L$S$L$O$U$I$S$I$A$N$A$4$1$4$5$4$
+A$-$1$3$2$9$1$-$0$2$0$1$2$I$N$T$R$A$E$D$G$E$,$ $I$N$C$A$R$I$Z$O$N$A$7$3$4$0$3$
+A$-$1$3$2$9$5$-$0$3$8$1$9$A$M$Z$U$R$ $T$E$C$H$N$O$L$O$G$I$E$S$,$ $I$N$C$.$F$L$O$R$I$D$A$8$3$7$2$0$
+A$-$1$3$2$6$9$-$0$0$7$1$9$H$I$M$A$L$A$Y$A$N$ $R$E$S$T$A$U$R$A$N$T$M$I$N$N$E$S$O$T$A$5$2$1$6$6$
+A$-$0$9$2$5$9$-$6$4$5$9$6$W$O$M$E$N$ $M$E$D$I$C$A$L$ $C$A$R$E$,$ $L$L$C$.$M$A$R$Y$L$A$N$D$1$4$0$9$6$2$
+A$-$1$3$2$9$7$-$0$5$4$5$4$M$A$N$A$G$I$N$G$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $I$N$T$'$L$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$1$0$8$8$5$
+A$-$1$3$3$0$4$-$0$9$5$4$2$C$O$N$O$C$O$P$H$I$L$L$I$P$S$ $C$O$M$P$A$N$Y$T$E$X$A$S$7$8$8$7$4$
+A$-$1$3$2$9$6$-$0$4$4$3$8$I$N$D$R$A$ $U$S$A$,$ $I$N$C$F$L$O$R$I$D$A$5$2$1$8$7$
+A$-$1$3$3$0$4$-$0$8$5$0$9$A$.$T$.$ $K$E$A$R$N$E$Y$,$ $I$N$C$.$I$L$L$I$N$O$I$S$1$1$6$8$7$5$
+A$-$1$3$2$9$5$-$0$3$5$2$1$A$C$T$I$M$I$Z$E$ $I$N$C$N$E$W$ $Y$O$R$K$9$0$3$1$4$
+A$-$1$3$3$0$1$-$0$6$5$4$3$K$A$B$U$K$I$ $R$E$S$T$A$U$R$A$N$T$S$,$I$N$C$.$C$A$L$I$F$O$R$N$I$A$4$4$4$5$0$
+A$-$1$3$2$9$7$-$0$5$0$8$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$2$-$0$6$7$1$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$0$8$3$3$8$-$1$0$9$2$8$M$I$C$R$O$S$O$F$T$ $C$O$R$P$O$R$A$T$I$O$N$W$A$S$H$I$N$G$T$O$N$4$5$5$9$4$
+A$-$1$3$2$6$8$-$0$0$4$0$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$7$3$-$0$1$7$4$5$M$A$I$N$T$E$N$A$N$C$E$N$E$T$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$5$5$8$4$8$
+A$-$1$3$3$0$1$-$0$6$1$4$9$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$0$1$-$0$6$1$7$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$3$0$4$-$0$9$2$8$0$S$O$U$R$C$E$ $H$E$A$L$T$H$C$A$R$E$ $A$N$A$L$Y$T$I$C$S$ $L$L$C$A$R$I$Z$O$N$A$9$2$7$0$0$
+A$-$1$3$2$9$6$-$0$4$6$8$2$E$X$I$L$A$N$T$ $T$E$C$H$N$O$L$O$G$I$E$S$ $P$R$I$V$A$T$E$ $L$I$M$I$T$E$D$C$A$L$I$F$O$R$N$I$A$1$3$4$5$3$4$
+A$-$1$3$3$0$1$-$0$6$3$1$9$J$P$ $M$O$R$G$A$N$ $C$H$A$S$E$ $&$ $C$O$I$L$L$I$N$O$I$S$1$2$1$2$0$2$
+A$-$1$3$2$6$7$-$9$9$7$6$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$2$6$6$-$9$9$4$3$9$S$A$N$Z$A$R$U$ $G$A$M$E$S$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$9$2$7$8$9$
+A$-$1$3$2$9$5$-$0$3$6$6$2$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$2$9$6$-$0$4$7$6$9$P$A$T$I$E$N$T$ $C$O$N$V$E$R$S$A$T$I$O$N$ $M$E$D$I$A$ $I$N$C$.$T$E$X$A$S$8$2$4$3$0$
+A$-$1$3$2$6$6$-$9$9$3$3$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$0$1$9$-$3$2$7$3$3$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$4$4$2$2$
+A$-$1$3$0$3$7$-$3$8$2$1$8$G$O$L$D$M$A$N$ $S$A$C$H$S$ $&$ $C$O$.$N$E$W$ $Y$O$R$K$8$3$0$0$0$
+A$-$1$3$0$5$9$-$4$4$3$6$0$N$A$T$I$O$N$A$L$ $O$I$L$W$E$L$L$ $V$A$R$C$O$,$ $L$.$P$.$T$E$X$A$S$7$7$0$0$0$
+A$-$1$3$0$3$0$-$3$6$0$0$1$I$N$F$O$S$Y$S$ $L$T$D$.$T$E$X$A$S$6$8$1$6$2$
+A$-$1$3$0$0$7$-$2$8$2$0$9$M$I$L$L$E$R$,$ $C$O$O$P$E$R$ $&$ $C$O$.$,$ $L$T$D$.$I$L$L$I$N$O$I$S$7$7$1$4$7$
+A$-$1$3$0$3$0$-$3$5$6$8$6$H$E$A$L$T$H$ $C$A$R$O$U$S$E$L$,$ $L$L$C$O$H$I$O$7$2$8$4$2$
+A$-$1$3$0$2$8$-$3$4$8$1$9$G$O$O$G$L$E$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$0$0$9$8$4$
+A$-$1$3$0$5$9$-$4$4$2$6$1$B$A$R$R$E$T$T$ $T$R$E$E$ $S$E$R$V$I$C$E$,$ $I$N$C$.$M$A$S$S$A$C$H$U$S$E$T$T$S$4$7$2$1$6$
+A$-$1$3$3$2$4$-$1$7$0$3$8$C$I$T$I$G$R$O$U$P$ $T$E$C$H$N$O$L$O$G$Y$,$ $I$N$C$.$N$E$W$ $Y$O$R$K$1$3$1$9$7$6$
+A$-$1$3$1$3$5$-$6$3$8$9$1$N$O$W$C$O$M$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$1$0$9$9$7$0$
+A$-$1$3$2$3$2$-$9$0$0$4$9$A$L$T$E$R$A$ $C$O$R$P$O$R$A$T$I$O$N$C$A$L$I$F$O$R$N$I$A$9$4$3$2$3$
+A$-$1$3$3$0$6$-$1$0$2$2$8$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$1$7$-$1$4$3$8$1$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$1$7$-$1$4$3$8$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$3$0$9$-$1$0$8$8$5$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$3$0$-$1$9$4$7$9$B$R$A$N$C$H$O$U$T$C$A$L$I$F$O$R$N$I$A$9$3$2$6$7$
+A$-$1$3$3$2$5$-$1$7$9$9$0$J$U$N$ $&$ $M$I$N$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$5$2$9$7$8$
+A$-$1$3$0$5$2$-$4$2$4$2$2$A$U$T$O$M$A$T$I$C$ $D$A$T$A$ $P$R$O$C$E$S$S$I$N$G$,$ $I$N$C$.$N$E$W$ $J$E$R$S$E$Y$9$2$7$8$9$
+A$-$1$2$3$4$6$-$2$1$8$7$1$L$A$N$C$E$S$O$F$T$ $I$N$C$.$V$E$R$M$O$N$T$1$0$3$5$0$1$
+A$-$1$3$1$6$4$-$7$1$4$2$3$E$R$I$C$S$S$O$N$ $I$N$C$.$T$E$X$A$S$7$2$5$7$1$
+A$-$1$3$1$6$4$-$7$1$7$1$3$O$R$A$C$L$E$ $A$M$E$R$I$C$A$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$1$1$3$4$9$9$
+A$-$1$3$3$1$6$-$1$4$1$0$2$M$I$C$R$O$S$O$F$T$ $C$O$R$P$O$R$A$T$I$O$N$W$A$S$H$I$N$G$T$O$N$8$7$5$4$7$
+A$-$1$3$1$6$1$-$7$0$0$2$5$I$N$T$O$N$E$ $N$E$T$W$O$R$K$S$ $I$N$C$N$E$W$ $J$E$R$S$E$Y$8$8$5$4$6$
+A$-$1$3$1$6$2$-$7$0$7$6$7$E$R$P$ $S$O$F$T$W$A$R$E$ $S$O$L$U$T$I$O$N$S$,$ $I$N$C$.$F$L$O$R$I$D$A$5$6$7$4$2$
+A$-$1$3$3$2$9$-$1$8$6$9$6$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$7$2$4$6$7$
+A$-$1$3$3$2$9$-$1$8$7$0$7$C$O$G$N$I$Z$A$N$T$ $T$E$C$H$N$O$L$O$G$Y$ $S$O$L$U$T$I$O$N$S$ $U$S$ $C$O$R$P$O$R$A$T$I$O$N$T$E$X$A$S$5$4$0$5$9$
+A$-$1$3$3$1$0$-$1$1$6$2$9$I$H$ $&$ $J$,$ $I$N$C$.$ $($D$B$A$ $S$A$K$E$ $S$U$S$H$I$)$C$A$L$I$F$O$R$N$I$A$6$3$1$0$7$
+A$-$1$3$3$0$9$-$1$1$2$8$5$T$U$R$B$O$ $A$I$R$,$ $I$N$C$.$C$A$L$I$F$O$R$N$I$A$5$9$9$6$6$

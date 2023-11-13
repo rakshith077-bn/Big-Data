@@ -1,0 +1,500 @@
+A-18100-61480       FUJITSU AMERICA, INC.TX                  124,946.00          
+A-18100-61646       Gamma2 Inc.         CA                  61,443.00           
+A-18063-49264       HEARTLAND PAYMENT SYSTEMS, LLCTX                  109,013.00          
+A-18051-45367       HAWAII PACIFIC HEALTHHI                  186,784.00          
+A-18052-45661       GOOGLE LLC          CA                  86,653.00           
+A-18096-60340       Harman Connected Services IncCA                  101,816.00          
+A-18092-58222       GENERAC POWER SYSTEMSWI                  98,322.00           
+A-18101-62058       FOUNDATION CONSTRUCTORS, INC.CA                  124,987.00          
+A-18057-47166       GOOGLE LLC          CA                  71,510.00           
+A-18099-60914       Smoke-N-Chill NoveltiesTX                  55,765.00           
+A-18068-51013       GOOGLE LLC          CA                  82,930.00           
+A-18067-50892       GOOGLE LLC          CA                  106,001.00          
+A-18067-50583       GOOGLE LLC          CA                  106,001.00          
+A-18068-51028       GOOGLE LLC          CA                  106,001.00          
+A-18073-52588       GOOGLE LLC          CA                  106,001.00          
+A-18073-52365       GOOGLE LLC          CA                  106,001.00          
+A-18073-52385       GOOGLE LLC          CA                  106,001.00          
+A-18074-52837       GOOGLE LLC          CA                  106,001.00          
+A-18088-57556       ZENITH REHABILITATION SERVICES, INC.CA                  85,030.00           
+A-18065-49914       WELLS FARGO BANK, N.A.SD                  119,704.00          
+A-18065-49697       GOOGLE LLC          CA                  119,246.00          
+A-18074-52821       GOOGLE LLC          CA                  88,733.00           
+A-18094-59309       XILINX, INC.        CA                  123,694.00          
+A-18072-52153       GOOGLE LLC          CA                  106,001.00          
+A-18069-51411       WELLS FARGO BANK, N.A.SD                  137,696.00          
+A-18069-51418       WELLINGTON MANAGEMENT COMPANY LLPMA                  109,075.00          
+A-18069-51402       WELLS FARGO BANK, N.A.SD                  78,021.00           
+A-18069-51431       WORKFRONT, INC.     UT                  99,715.00           
+A-18068-51314       GOOGLE LLC          CA                  86,523.00           
+A-18069-51446       WELLS FARGO BANK, N.A.SD                  117,333.00          
+A-18054-46764       GOOGLE LLC          CA                  106,001.00          
+A-18054-46765       GOOGLE LLC          CA                  86,523.00           
+A-18054-46574       GOOGLE LLC          CA                  92,401.00           
+A-18093-58661       YSJ, Inc            CO                  28,954.00           
+A-18058-47719       GOOGLE LLC          CA                  82,930.00           
+A-18058-47777       GOOGLE LLC          CA                  88,733.00           
+A-18075-53423       VITECH SYSTEMS GROUPNY                  92,768.00           
+A-18059-48281       GOOGLE LLC          CA                  106,001.00          
+A-18064-49402       GOOGLE LLC          CA                  106,001.00          
+A-18061-49015       GOOGLE LLC          CA                  106,001.00          
+A-18061-49077       GOOGLE LLC          CA                  106,001.00          
+A-18061-49062       GOOGLE LLC          CA                  106,001.00          
+A-18024-34807       ZIONS BANK / ZMSC   UT                  62,587.00           
+A-18057-47212       GOOGLE LLC          CA                  106,001.00          
+A-18057-47099       GOOGLE LLC          CA                  82,930.00           
+A-18066-50157       GOOGLE LLC          CA                  106,001.00          
+A-18083-55962       Vision Technology Solutions, LLCCA                  125,549.00          
+A-17342-19254       WEST VIRGINIA UNIVERSITYWV                  47,493.00           
+A-18079-54240       REPUBLIC SERVICES, INCAZ                  94,494.00           
+A-18064-49588       ORIGINATE           CA                  92,768.00           
+A-18079-54314       SCURA PALEY SECURITIES LLCNY                  92,768.00           
+A-18079-54520       ORACLE AMERICA, INC.CA                  110,757.00          
+A-18074-53145       STRIPE, INC.        CA                  195,187.00          
+A-18075-53265       PricewaterhouseCoopers Advisory Services LLCFL                  138,507.00          
+A-18075-53232       PHYSICIAN AFFILIATE GROUP OF NEW YORKNY                  144,200.00          
+A-18086-56628       ROBERT BOSCH LLC    MI                  115,482.00          
+A-18086-56753       RACKWARE INC.       CA                  112,195.00          
+A-18088-57376       Sol Pharmacy        NJ                  83,346.00           
+A-18092-58482       Polmax Truck and Trailer Repair Center, LLCIL                  49,400.00           
+A-18092-58471       Polmax Truck and Trailer Repair Center, LLCIL                  49,400.00           
+A-18061-49061       Rosewood Regency Co.,IncDC                  49,774.00           
+A-18092-58246       NOMURA SECURITIES INTERNATIONAL, INC.NY                  210,163.00          
+A-18092-58313       NOMURA SECURITIES INTERNATIONAL, INC.NY                  159,370.00          
+A-18066-50252       SUNRISE ENTERPRISES INC OF PALM BEACH COUNTYFL                  68,390.00           
+A-18083-55969       SAP AMERICA, INC.   PA                  102,684.00          
+A-18088-57294       LUXOFT USA INC.     NY                  82,202.00           
+A-18005-28258       PAYPAL, INC.        CA                  107,026.00          
+A-18089-57900       Beltservice CorporationMO                  105,893.00          
+A-18086-56448       L&B UNIVERSAL, INC. VA                  40,186.00           
+A-18069-51429       FCTI, Inc.          CA                  37,232.00           
+A-18086-56724       TEXAS INSTRUMENTS INCORPORATEDTX                  128,997.00          
+A-18087-57244       BRIDGESTONE AMERICAS, INC.TN                  85,405.00           
+A-18089-57938       POPULUS GROUP, LLC  MI                  99,424.00           
+A-18089-57972       INTEGRATED SUPPORT SOLUTIONS, INC.CA                  21,715.00           
+A-18089-57968       INTEGRATED SUPPORT SOLUTIONS, INC.CA                  21,674.00           
+A-18084-56076       Accurate Products, Inc.IL                  87,880.00           
+A-18085-56395       MILLERS RIVER EDUCATIONAL COOPERATIVE, INC.MA                  63,477.00           
+A-18067-50948       AKSHAYA INC         CA                  152,984.00          
+A-18080-54697       UNIVERSITY AT ALBANY, SUNYNY                  44,530.00           
+A-18079-54555       TOKYO ELECTRON U.S. HOLDINGS, INC.TX                  100,922.00          
+A-18037-40506       AKSHAYA INC         CA                  114,400.00          
+A-18036-39946       SNW INFOTECH, INC.  CA                  114,400.00          
+A-18037-40294       AKSHAYA INC         CA                  131,165.00          
+A-17353-23536       INFOGAIN CORPORATIONCA                  110,864.00          
+A-18050-45005       INTERPORT LOGISTICS LLCFL                  35,859.00           
+A-17268-90815       OL Matthews MD PC (dba)Annapolis Medical SpecialtyMI                  59,114.00           
+A-18064-49550       INFOLOB SOLUTIONS INCTX                  74,776.00           
+A-18064-49558       OHL USA             NY                  105,893.00          
+A-09350-77989       INDIANA UNIVERSITY  IN                  91,790.00           
+A-18047-44230       I DREAM SYSTEMS INC TX                  124,842.00          
+A-17349-22235       ICON CLINICAL RESEARCHPA                  152,360.00          
+A-17349-22079       NEMOURS/ALFRED I. DUPONT HOSPITAL FOR CHILDRENDE                  42,328.00           
+A-18059-48312       Hospitalist Medicine Physicians of Ohio PCTN                  89,731.00           
+A-18026-36132       SNW INFOTECH, INC.  CA                  98,010.00           
+A-18057-47240       NEPA WHOLESALE INC  FL                  38,750.00           
+A-18033-39210       VISA USA            CA                  89,336.00           
+A-18076-53664       Provenant Tire & Rubber CompanyMD                  70,429.00           
+A-17255-85839       DIESTE, INC.        TX                  61,901.00           
+A-18073-52708       Institute of Global Exchange, Inc.CA                  27,602.00           
+A-18053-46414       JP MORGAN CHASE & COIL                  138,258.00          
+A-18072-52200       PEOPLE TECH GROUP INC.WA                  112,549.00          
+A-18034-39364       DAVIDSON COLLEGE    NC                  53,740.00           
+A-18052-45686       APPLE INC.          CA                  112,396.00          
+A-18031-37739       BARAL, INC          FL                  48,547.00           
+A-18051-45506       Catalyst Multimedia MarketingCA                  42,848.00           
+A-18033-39261       COLUMBIA UNIVERSITY NY                  75,810.00           
+A-18067-50899       PEOPLE TECH GROUP INC.WA                  112,549.00          
+A-18015-31406       DigitalOcean LLC    NY                  73,403.00           
+A-18054-46809       Consultadd IncorporationTX                  79,414.00           
+A-17300-04180       APPLE INC.          CA                  125,050.00          
+A-18047-44562       TOPSPIN CREATIVE CORPORATIONNY                  55,973.00           
+A-18046-43962       Cooperatieve Rabobank U.A.NY                  210,163.00          
+A-18057-47427       INTUIT              CA                  110,864.00          
+A-18064-49548       QUADRANT RESOURCE LLCWA                  112,549.00          
+A-18064-49557       QUADRANT RESOURCE LLCWA                  112,549.00          
+A-18064-49553       QUADRANT RESOURCE LLCWA                  112,549.00          
+A-18054-46600       TITAN TECHNOLOGIES INCPA                  89,074.00           
+A-18054-46708       TITAN TECHNOLOGIES INCPA                  89,074.00           
+A-18054-46709       TITAN TECHNOLOGIES INCPA                  89,074.00           
+A-18064-49429       Hyannis Air Service, Inc.MA                  17.16               
+A-18064-49360       Hyannis Air Service, Inc.MA                  17.16               
+A-18060-48610       TITAN TECHNOLOGIES INCPA                  89,074.00           
+A-18057-47387       PETROLEUM LOGISTICS SERVICE USAFL                  138,258.00          
+A-18060-48829       THE GANG SUNG PRESBYTERIAN CHURCH OF NEW YORKNY                  27,560.00           
+A-18025-35572       VS SOLUTIONS INC    TX                  90,646.00           
+A-17291-00325       AIR SUPPLY INTERNATIONAL, INC.CA                  54,662.00           
+A-17317-09859       AA & SA ENTERPRISES INC.TX                  43,139.00           
+A-17353-23211       ACTIFIO, INC        MA                  106,538.00          
+A-17333-15324       ALCATEL LUCENT USA, INC.NJ                  94,203.00           
+A-17352-22887       8 NET, INC.         CA                  37,232.00           
+A-17360-25074       Supermercado Los 3 Hermanos INCGA                  16,994.00           
+A-17356-24894       Beauty Plus Trading Co., Inc.NJ                  109,242.00          
+A-17333-15340       ADIENT US LLC       MI                  98,322.00           
+A-17353-23069       ESOTERIX GENETIC LABORATORIES, LLCNC                  55,765.00           
+A-17339-17883       ADIENT US LLC       MI                  106,558.00          
+A-17349-22032       GENERAL MOTORS COMPANYMI                  51,272.00           
+A-17348-21710       AKVELON INC.        WA                  112,549.00          
+A-17348-21893       AKT Trading, Inc.   CA                  37,232.00           
+A-17349-22061       GENERAL MOTORS COMPANYMI                  92,019.00           
+A-17347-21237       KMK CONSULTING, INC.NJ                  82,805.00           
+A-17347-20999       KMK CONSULTING, INC.NJ                  71,635.00           
+A-17346-20878       KMK CONSULTING, INC.NJ                  71,635.00           
+A-17353-23053       JOY IMPORT AND WHOLESALE INC.NJ                  30.45               
+A-17333-15362       OPTUM SERVICES, INC.MN                  108,638.00          
+A-17321-11944       ACADEMY 4 KIDS      IL                  38,813.00           
+A-17319-11088       ALCATEL LUCENT USA, INC.NJ                  125,050.00          
+A-17310-07136       Mematt Investments (FL) IncFL                  41,787.00           
+A-17341-18665       LUMESIS, INC.       CT                  79,123.00           
+A-17341-19071       MEMBER'S BUILDING MAINTENANCE,LLCTX                  29,848.00           
+A-17340-18339       RENEE SYSTEMS INC   OH                  81,266.00           
+A-17340-18470       CGIL Inc            CA                  31,970.00           
+A-17335-16782       Solomons Escrow Company, IncCA                  55,806.00           
+A-17300-04173       Springfield Public SchoolsIL                  49,470.00           
+A-17325-13072       SHINE STAR HARDWOOD FLOORINGNJ                  80,538.00           
+A-17321-12030       UNIVERSITY OF UTAH  UT                  38,810.00           
+A-17314-09299       SPERIDIAN TECHNOLOGIES A.K.A KARMA CONSULTING SVCNM                  90,667.00           
+A-17332-14552       AWK Investments Inc.TX                  49,754.00           
+A-17130-36612       ALMOD DIAMONDS LTD. NY                  62,275.00           
+A-17314-09267       COLLABORATE SOLUTIONS, INCMA                  84,427.00           
+A-17307-06840       MICROSOFT CORPORATIONWA                  112,549.00          
+A-17338-17398       CARL PEPPER         TX                  25,834.00           
+A-17338-17458       FONG KO AND ASSOCIATES, LLPCA                  90,896.00           
+A-17338-17283       AMERICAN EXCHANGE TIME LLCNY                  39,936.00           
+A-17326-13299       COLLABORATE SOLUTIONS, INCMA                  77,834.00           
+A-17335-16219       ATSC LLC            NJ                  27.23               
+A-17334-16213       ATSC LLC            NJ                  27.23               
+A-17333-15557       ATSC LLC            NJ                  27.23               
+A-17335-16727       Borst Landscape & Design, Inc.NJ                  22,755.00           
+A-17319-11133       FORT HAYS STATE UNIVERSITYKS                  29,494.00           
+A-17332-14574       DKCR LLC dba Express Mart # 106TX                  48,027.00           
+A-17332-14713       Bahar Restaurant Inc.CA                  68,723.00           
+A-17335-16753       Borst Landscape & Design, Inc.NJ                  22,755.00           
+A-17335-16748       Borst Landscape & Design, Inc.NJ                  22,755.00           
+A-17335-16689       Borst Landscape & Design, Inc.NJ                  42,994.00           
+A-17335-16681       Borst Landscape & Design, Inc.NJ                  42,994.00           
+A-17335-16691       Borst Landscape & Design, Inc.NJ                  42,994.00           
+A-17335-16696       Borst Landscape & Design, Inc.NJ                  42,994.00           
+A-17321-11823       HITACHI AMERICA, LTD.NY                  100,048.00          
+A-17278-95332       ARISTA NETWORKS, INC.CA                  110,802.00          
+A-17331-14185       NETAPP, INC.        CA                  92,123.00           
+A-17256-86336       NEMO IT SOLUTIONS, INCTX                  107,806.00          
+A-17304-05090       DIMENSIONAL FUND ADVISORS LPTX                  125,549.00          
+A-17325-13005       SPANISH ENGLISH AND FOREIGN LANGUAGES FOR AMERICATX                  76,211.00           
+A-17326-13392       CVENT INC.          VA                  108,181.00          
+A-17326-13474       CLOUDPOINT SYSTEMS INC.TX                  97,323.00           
+A-17333-15136       NEMO IT SOLUTIONS, INCTX                  91,229.00           
+A-17331-14176       America Science Team New York IncNY                  47,674.00           
+A-17326-13355       ISILON SYSTEMS LLC  TX                  106,101.00          
+A-17325-13179       SAIFUL BOUQUEST STRUCTURAL ENGINEERSCA                  84,302.00           
+A-17305-05617       Ned Davis Research, Inc.FL                  67,808.00           
+A-17296-01720       PREDICA INC         MI                  86,715.00           
+A-17324-12643       SAIFUL BOUQUEST STRUCTURAL ENGINEERSCA                  84,302.00           
+A-17322-12158       SAIFUL BOUQUEST STRUCTURAL ENGINEERSCA                  84,302.00           
+A-17305-05775       S4S Inc             CA                  35,942.00           
+A-17319-10880       Supermercado Los 3 Hermanos INCGA                  16,994.00           
+A-17269-91600       TECH MAHINDRA (AMERICAS) INC., (FORMERLY MBT INTERNATIONAL, INC.)TX                  79,414.00           
+A-17321-12012       SAIFUL BOUQUEST STRUCTURAL ENGINEERSCA                  84,302.00           
+A-17249-83931       ONESOURCE VIRTUAL HR, INC.TX                  79,414.00           
+A-17279-95694       INDIA OVEN LLC      CO                  45,448.00           
+A-17310-07221       INTONE NETWORKS INC NJ                  81,037.00           
+A-17300-03977       CITIGROUP GLOBAL MARKETS OPERATIONS AND TECHNOLOGYNY                  131,997.00          
+A-17318-10382       TECHDATA SERVICE COMPANY, LLC.PA                  68,037.00           
+A-17307-06802       Saturn Project Development, LLCTX                  155,938.00          
+A-17300-03765       SCEPTER TECHNOLOGIES INCMD                  77,979.00           
+A-17285-98023       SAMSUNG PAY INC.    MA                  88,067.00           
+A-17317-10078       Silicontwo USA, LLC.CA                  37,232.00           
+A-17317-10094       Symphony Beauty Box, CorpNY                  40,622.00           
+A-17319-10794       NIAZ FARHAT         TX                  19,802.00           
+A-17314-09599       POSEIDON SEAFOOD CORP.CA                  37,232.00           
+A-17286-98330       JEFFERSON PARISH PUBLIC SCHOOL SYSTEMLA                  43,320.00           
+A-17317-10147       SPIGIT, INC.        CA                  113,006.00          
+A-17286-98288       INTERFYSIO, LLC     NY                  50,211.00           
+A-17313-09065       PATRICK ENGINEERING INCIL                  79,144.00           
+A-17300-04130       New Global System for Intelligent TransportationKY                  69,098.00           
+A-17279-95956       CHARISMA REMODELING AND SERVICES INCMA                  37,565.00           
+A-17305-05494       SUMPTUOUS INC.      NC                  17,264.00           
+A-17305-05497       SUMPTUOUS INC.      NC                  17,264.00           
+A-17305-05595       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17305-05691       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17305-05743       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17305-05696       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17306-05964       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17304-05247       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17303-04620       GRT TRANSPORTATION LLCTX                  37,274.00           
+A-17310-07172       PUBLIC HOSPITAL DISTRICT #1 OF PEND OREILLE COUNTYWA                  30,014.00           
+A-17307-06794       NUANCE COMMUNICATIONS, INC.MA                  127,421.00          
+A-17298-02741       Pattaya Restaurant Inc.PA                  26,083.00           
+A-17311-07828       LAW OFFICE OF MIN HWAN AHNPA                  23,088.00           
+A-17276-94429       ENCON SOLUTIONS, INC.CA                  48,256.00           
+A-17307-06775       Patricia Bilden     RI                  25,480.00           
+A-17317-09867       KJV YORI LLC D/B/A TOFU VILLAGETX                  43,826.00           
+A-17212-70163       PROFESSIONAL CONSULTING, INC.MN                  104,291.00          
+A-17303-04415       Steven A. Beim, M.D., P.A.TX                  15.50               
+A-17300-03822       UNIVERSITY OF CONNECTICUTCT                  60,578.00           
+A-17300-03974       LANTERN RV          TX                  17,035.00           
+A-17296-01639       HEXAWARE TECHNOLOGIES, INC.NJ                  104,936.00          
+A-17297-02606       GOOGLE LLC          CA                  105,010.00          
+A-17293-01210       GOOGLE LLC          CA                  104,222.00          
+A-17293-01128       GOOGLE LLC          CA                  100,526.00          
+A-17293-01295       GOOGLE LLC          CA                  104,222.00          
+A-17293-01107       GOOGLE LLC          CA                  105,010.00          
+A-17283-96940       Sukito LLC          WA                  32,282.00           
+A-17270-91969       MODERN SPORTSWEAR CORPNJ                  34,590.00           
+A-17292-00678       next natural resourcesTX                  188,427.00          
+A-17286-98437       MERIT INTEGRATED LOGISTICSCA                  9.45                
+A-17156-46649       Margot Lee and Ari SchmorakCA                  23,275.00           
+A-17269-91803       PFS REALTY, LLC     FL                  62,525.00           
+A-17251-85009       T&L HOSPITALITY  INCDC                  57,512.00           
+A-17221-74197       YAHOO HOLDINGS, INC.CA                  105,010.00          
+A-17221-74112       Pan American Tae Kwon Do Assn IncGA                  21,986.00           
+A-17101-23418       INTEL CORPORATION   CA                  79,082.00           
+A-17082-16860       WAYNE FARMS LLC     GA                  19,219.00           
+A-17082-16886       WAYNE FARMS LLC     GA                  19,219.00           
+A-17088-18696       WAYNE FARMS LLC     GA                  19,219.00           
+A-17088-18697       WAYNE FARMS LLC     GA                  19,219.00           
+A-17095-21148       WAYNE FARMS LLC     GA                  19,219.00           
+A-17093-20119       WAYNE FARMS LLC     GA                  19,219.00           
+A-17088-18695       WAYNE FARMS LLC     GA                  19,219.00           
+A-17087-18305       WAYNE FARMS LLC     GA                  19,219.00           
+A-17086-17831       WAYNE FARMS LLC     GA                  19,219.00           
+A-16334-75346       PURE BEAUTY FARMS, INCFL                  18,034.00           
+A-16334-75270       PURE BEAUTY FARMS, INCFL                  18,034.00           
+A-16334-75214       PURE BEAUTY FARMS, INCFL                  18,034.00           
+A-15022-44453       METROPOLITAN CONSTRUCTION COMPANY, LLCMD                  46,987.00           
+A-18207-01492       IH Services, Inc    SC                  19,552.00           
+A-18089-57882       Varex Imaging CorporationUT                  68,141.00           
+A-18201-99707       NETGEAR, INC.       CA                  199,056.00          
+A-18204-00320       SAMSUNG RESEARCH AMERICA, INC.CA                  155,147.00          
+A-18164-85960       AMAZON.COM SERVICES, INC.WA                  99,382.00           
+A-18191-95726       Return Energy International IncTX                  75,525.00           
+A-18151-81215       INTEL FEDERAL, INC. CA                  86,195.00           
+A-18143-78531       AMAZON.COM SERVICES, INC.WA                  99,382.00           
+A-18095-59790       THOUGHTWORKS, INC.  IL                  99,424.00           
+A-18128-72756       THE ATLANTIC COMPANY OF AMERICA, INC.VA                  18.52               
+A-18110-65998       GE HEALTHCARE IITS USA CORP.VT                  103,813.00          
+A-18110-66388       Israeli-American CouncilCA                  63,003.00           
+A-18110-66067       Griffin Faculty Physicians, Inc.CT                  151,091.00          
+A-18113-66865       hCentive.Inc        VA                  123,115.00          
+A-18113-66745       ICONSOFT INC.       MA                  127,920.00          
+A-18116-68305       ITC INFOTECH USA INCNJ                  114,026.00          
+A-18116-68304       ITC INFOTECH USA INCNJ                  114,026.00          
+A-18116-68279       IBM CORPORATION     NC                  96,928.00           
+A-18102-62396       INGENICO INC.       GA                  87,859.00           
+A-18102-62222       INCEDO INC          CA                  155,147.00          
+A-18079-54448       GOOGLE LLC          CA                  79,498.00           
+A-18065-49850       GUIDEWIRE SOFTWARE, INCCA                  64,230.00           
+A-18115-67894       GRAMEEN AMERICA, INC.NY                  41,704.00           
+A-18099-61038       GROUP HEALTH PLAN, INC.MN                  91,707.00           
+A-18086-56782       INFORMATICA LLC     CA                  102,669.00          
+A-18086-56419       HEWLETT PACKARD ENTERPRISE COMPANYCA                  133,205.00          
+A-18114-67380       IBM CORPORATION     NC                  125,050.00          
+A-18114-67371       I & I WHOLESALE CORP.CA                  47,965.00           
+A-18114-67304       IBM CORPORATION     NC                  125,050.00          
+A-18037-40346       GATES CORPORATION   CO                  83,574.00           
+A-18114-67180       HYT AMERICAS INC.   FL                  121,638.00          
+A-18107-63993       INCEDO INC          CA                  155,147.00          
+A-18108-64942       Hanwha Azdel, Inc.  VA                  56,098.00           
+A-18064-49491       INFOLOB SOLUTIONS INCTX                  90,646.00           
+A-18031-38088       GOLDMAN SACHS BANK USANJ                  75,289.00           
+A-18095-59819       HIGHPOINT-SOLUTIONS PA                  114,941.00          
+A-18095-59664       INTELLISWIFT SOFTWARE, INC.CA                  112,195.00          
+A-18097-60524       IHC HEALTH SERVICES INCUT                  114,358.00          
+A-18092-58195       IBM CORPORATION     NC                  92,768.00           
+A-18092-58237       HP INC.             CA                  98,363.00           
+A-18085-56242       GROUP VME INTERNATIONAL CORPFL                  129,438.00          
+A-18117-68716       Ilitch Holdings     MI                  152,069.00          
+A-18117-69015       Ismael Leyva Architects, P.CNY                  73,590.00           
+A-18117-68872       HOME BOX OFFICE, INC.NY                  149,614.00          
+A-18032-38257       GOLDMAN SACHS & CO. NJ                  165,006.00          
+A-18057-47312       GOOGLE LLC          CA                  68,682.00           
+A-18048-44737       HARTFORD FIRE INSURANCE COMPANYCT                  117,333.00          
+A-18110-66071       Infineon Technologies Americas Corp.CA                  108,601.00          
+A-18110-66176       INNIVE INC          FL                  89,669.00           
+A-18113-66691       MAGNA POWERTRAIN OF AMERICA INC.MI                  60,986.00           
+A-18113-66673       MB Dynamics, Inc    OH                  60,798.00           
+A-18107-64536       LEIA Inc.           CA                  153,774.00          
+A-18116-68595       Lychen Inc DBA East Moon Asian Bistro & SushiCO                  28,954.00           
+A-18116-68367       Humac, Inc.         AZ                  94,494.00           
+A-18116-68494       KIS INTERIOR DESIGN INCFL                  184,018.00          
+A-18116-68515       I5TECH, INC         NJ                  92,768.00           
+A-18054-46812       JPI Technology, LLC VA                  91,146.00           
+A-18094-59203       National Staffing Solutions,IncFL                  50,669.00           
+A-18094-59254       Guayaki Sustainable Rainforest Products, Inc.CA                  74,131.00           
+A-18094-59014       HEWLETT PACKARD ENTERPRISE COMPANYCA                  59,925.00           
+A-18094-59112       National Staffing Solutions,IncFL                  50,669.00           
+A-18094-59385       MEDIAMATH INC.      NY                  135,283.00          
+A-18071-51759       JANE STREET GROUP, LLCNY                  81,037.00           
+A-18087-57159       IDEAL OIL AND GAS CONNECTIONS, INC.TX                  53,976.00           
+A-18081-55210       INFOSHARE SYSTEMS, INCCA                  98,384.00           
+A-18081-55188       KSH Chicken Restaurants FL-1, LLCFL                  36,379.00           
+A-18106-63649       MAGNETIC MEDIA ONLINE INCNY                  115,565.00          
+A-18110-65891       IBM CORPORATION     NC                  125,050.00          
+A-18058-47682       Involgixs Inc       TX                  83,970.00           
+A-18033-39163       LENDINGCLUB CORPORATIONCA                  135,990.00          
+A-18103-63239       MAPLEBEAR DBA INSTACARTCA                  74,880.00           
+A-18103-63346       HILMAR CHEESE COMPANYCA                  82,597.00           
+A-18106-63600       London Stock Exchange Group Holdings, Inc.NY                  73,258.00           
+A-18109-65416       MAQ LLC             WA                  132,080.00          
+A-18096-60066       HP INC.             CA                  80,978.00           
+A-18095-59704       ITUTORGROUP, INC.   CA                  161,845.00          
+A-18095-59597       National Staffing Solutions,IncFL                  50,669.00           
+A-18101-62105       HEAT COLLISION INC  FL                  22,214.00           
+A-18113-66549       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18039-41727       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18113-66901       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53212       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59217       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59363       AMAZON FULFILLMENT SERVICES, INC.WA                  130,603.00          
+A-18094-59231       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18036-39832       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18065-49983       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18094-59109       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59032       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59027       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18043-42819       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18103-62874       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18076-53553       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53243       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18114-67088       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18103-62889       AMAZON FULFILLMENT SERVICES, INC.WA                  69,722.00           
+A-18103-62946       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18100-61153       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18100-61132       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18108-65086       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18109-65248       AMAZON FULFILLMENT SERVICES, INC.WA                  69,722.00           
+A-18109-65318       AMERICAN AIRLINES   TX                  103,022.00          
+A-18109-65275       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18035-39465       AMAZON WEB SERVICES, INC.WA                  79,414.00           
+A-18096-60185       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18101-61685       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18101-61891       AMAZON FULFILLMENT SERVICES, INC.WA                  64,314.00           
+A-18101-61778       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18093-58473       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18024-34402       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18079-54228       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18078-53764       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52807       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59081       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59011       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59043       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18094-59034       AMAZON FULFILLMENT SERVICES, INC.WA                  130,603.00          
+A-18110-65865       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18110-65837       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53471       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18103-62899       AMAZON FULFILLMENT SERVICES, INC.WA                  69,722.00           
+A-18103-62892       AMAZON WEB SERVICES, INC.WA                  84,718.00           
+A-18103-62858       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18103-62923       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18095-59559       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18096-60028       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18065-50054       AMAZON WEB SERVICES, INC.WA                  99,382.00           
+A-18079-54223       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53201       AMAZON FULFILLMENT SERVICES, INC.WA                  89,669.00           
+A-18075-53218       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18079-54204       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-53149       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18079-54221       AMAZON FULFILLMENT SERVICES, INC.WA                  95,555.00           
+A-18075-53439       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18076-53550       AMAZON FULFILLMENT SERVICES, INC.WA                  86,174.00           
+A-18075-53412       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52769       AMAZON FULFILLMENT SERVICES, INC.WA                  64,314.00           
+A-18074-52764       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18076-53549       AMAZON FULFILLMENT SERVICES, INC.WA                  64,314.00           
+A-18047-44677       MICROSOFT CORPORATIONWA                  132,080.00          
+A-18068-50954       MICROSOFT CORPORATIONWA                  112,715.00          
+A-18082-55703       MENTOR GRAPHICS CORPORATIONOR                  113,984.00          
+A-18080-54676       METLIFE GROUP, INC. NY                  64,771.00           
+A-18080-54634       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18079-54424       MICROSOFT CORPORATIONWA                  99,112.00           
+A-18047-44276       MICROSOFT CORPORATIONWA                  112,715.00          
+A-18058-47858       MICROSOFT CORPORATIONWA                  122,450.00          
+A-18075-53256       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18033-38777       MICROSOFT CORPORATIONWA                  93,038.00           
+A-18100-61202       MERIT INTEGRATED LOGISTICSCA                  9.45                
+A-18031-38156       MICROSOFT CORPORATIONWA                  93,038.00           
+A-18083-55914       MENTOR GRAPHICS CORPORATIONOR                  148,138.00          
+A-18106-63819       MEMORIAL SLOAN-KETTERING CANCER CENTERNY                  63,856.00           
+A-18075-53250       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18078-53997       AMAZON FULFILLMENT SERVICES, INC.WA                  134,618.00          
+A-18079-54208       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52778       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18076-53556       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53242       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18080-54740       INTUIT              CA                  90,646.00           
+A-18094-59523       JACOBS ENGINEERING GROUP, INC.TX                  100,443.00          
+A-18095-59804       INFINITE SOFTWARE SOLUTIONS, INC.NY                  86,653.00           
+A-18101-61794       I5TECH, INC         NJ                  92,768.00           
+A-18096-60107       ICONSOFT INC.       MA                  127,920.00          
+A-18089-57959       HTC GLOBAL SERVICES, INC.MI                  60,902.00           
+A-18074-52730       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18076-53557       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18079-54232       AMAZON FULFILLMENT SERVICES, INC.WA                  112,549.00          
+A-18078-54132       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18076-53558       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18079-54233       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18082-55534       GOOGLE LLC          CA                  88,733.00           
+A-18082-55657       GOOGLE LLC          CA                  68,099.00           
+A-18074-52788       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52916       GOOGLE LLC          CA                  106,001.00          
+A-18080-54658       GOOGLE LLC          CA                  88,733.00           
+A-18089-57859       GOOGLE LLC          CA                  88,733.00           
+A-18088-57595       GOOGLE LLC          CA                  106,001.00          
+A-18078-54037       GOOGLE LLC          CA                  71,510.00           
+A-18074-53162       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52991       GOOGLE LLC          CA                  88,733.00           
+A-18087-56969       GOOGLE LLC          CA                  88,733.00           
+A-18080-54820       GOOGLE LLC          CA                  106,001.00          
+A-18081-55098       GOOGLE LLC          CA                  106,001.00          
+A-18080-54831       GOOGLE LLC          CA                  76,918.00           
+A-18086-56504       GOOGLE LLC          CA                  96,720.00           
+A-18086-56784       GOOGLE LLC          CA                  76,918.00           
+A-18087-56876       GOOGLE LLC          CA                  106,001.00          
+A-18088-57311       GOOGLE LLC          CA                  88,733.00           
+A-18087-57079       GOOGLE LLC          CA                  106,001.00          
+A-18088-57356       GOOGLE LLC          CA                  106,001.00          
+A-18087-57147       GOOGLE LLC          CA                  71,510.00           
+A-18087-57155       GOOGLE LLC          CA                  106,001.00          
+A-18087-56956       GOOGLE LLC          CA                  96,720.00           
+A-18080-54792       GOOGLE LLC          CA                  106,001.00          
+A-18075-53332       GOOGLE LLC          CA                  106,001.00          
+A-18092-58242       GOOGLE LLC          CA                  106,001.00          
+A-18089-57961       GOOGLE LLC          CA                  88,733.00           
+A-18092-58386       GOOGLE LLC          CA                  93,038.00           
+A-18092-58189       GOOGLE LLC          CA                  106,001.00          
+A-18079-54198       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18078-54053       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18078-54115       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52768       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18080-54629       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53249       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53259       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-17341-18606       ERNST & YOUNG U.S. LLPNJ                  112,112.00          
+A-18080-54618       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18088-57548       CHICAGO MERCANTILE EXCHANGEIL                  89,419.00           
+A-18053-46001       CISCO SYSTEMS, INC. CA                  120,245.00          
+A-18078-53740       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18078-53750       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53214       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18074-52767       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-17345-20257       EQUINIX, INC.       CA                  146,619.00          
+A-18081-55080       ChunYun 1000 LimitedVA                  25,584.00           
+A-18038-40838       Chaintreuil, Jensen & Stark, LLPNY                  38,709.00           
+A-18076-53554       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18076-53555       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18075-53224       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           
+A-18043-42305       DELOITTE CONSULTING LLPPA                  136,323.00          
+A-18024-34562       COLUMBIA UNIVERSITY NY                  43,870.00           
+A-17188-61008       DISNEY WORLDWIDE SERVICES, INC.FL                  111,530.00          
+A-18068-51101       UBER TECHNOLOGIES INC.CA                  61,693.00           
+A-18078-53841       SAP AMERICA, INC.   PA                  81,900.00           
+A-18065-49689       SCADEA SOLUTIONS INC.NJ                  82,410.00           
+A-18039-41681       WORKDAY, INC.       CA                  109,325.00          
+A-18067-50762       VIRO MEDIA, INC     WA                  112,549.00          
+A-18067-50661       WORKDAY, INC.       CA                  109,325.00          
+A-18082-55613       WOOT SERVICES LLC   TX                  65,541.00           
+A-18081-55361       RAQUET WORLD, INC.  FL                  24,731.00           
+A-18080-54660       PVR TECHNOLOGIES INCPA                  160,909.00          
+A-18089-57738       WOODWARD GOVERNOR COMPANYCO                  119,080.00          
+A-18089-57878       UST GLOBAL INC      CA                  76,731.00           
+A-18074-52774       AMAZON FULFILLMENT SERVICES, INC.WA                  99,382.00           

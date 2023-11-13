@@ -1,0 +1,500 @@
+A-14248-04309       DAMERON PROPERTY MGTWASHINGTON          18533               
+A-14248-04347       CERNER CORPORATION  MISSOURI            60258               
+A-14303-21120       DUKE UNIVERSITY AND MEDICAL CENTERNORTH CAROLINA      53390               
+A-14267-09921       SIGMA CUBED INC.    TEXAS               110926              
+A-15089-62638       MUY PIZZA HOUSTON, LLCTEXAS               16682               
+A-15071-58017       CLOUDERA            CALIFORNIA          117229              
+A-14297-19058       MOTOROLA SOLUTIONS INC.ILLINOIS            80080               
+A-14297-19114       MOTOROLA SOLUTIONS INC.ILLINOIS            115569              
+A-14274-11948       ALCATEL LUCENT USA, INC.NEW JERSEY          108737              
+A-14274-11982       DUNNHUMBYUSA, LLC   OHIO                86174               
+A-14289-16574       County of Ventura   CALIFORNIA          78770.13            
+A-14293-17137       VINTECH SOLUTIONS INCMISSOURI            71094               
+A-14293-17281       ADOBE SYSTEMS INCORPORATEDCALIFORNIA          88733               
+A-14252-05418       QUALCOMM TECHNOLOGIES INC.CALIFORNIA          94432               
+A-14253-05497       BIOGEN IDEC         MASSACHUSETTS       67163               
+A-14253-05521       HARRISON POULTRY    GEORGIA             8                   
+A-14253-05570       SAIPSIT INC         TEXAS               77875               
+A-14253-05574       HEXAWARE TECHNOLOGIES, INC.NEW JERSEY          90459               
+A-14248-04522       NATIONAL OILWELL VARCO, L.P.TEXAS               124238              
+A-14250-04630       N. CHENG & CO., P.C.NEW YORK            75150               
+A-14280-13747       PRODEA SYSTEMS, INC.TEXAS               64418               
+A-14259-07333       APPLE INC.          CALIFORNIA          106517              
+A-14262-08702       FACEBOOK, INC.      CALIFORNIA          73861               
+A-14274-11800       ANVETA, INC         TEXAS               76773               
+A-14274-11888       THE OHIO STATE UNIVERSITYOHIO                91250               
+A-14274-11985       AECOM TECHNICAL SERVICES, INC.CALIFORNIA          69659               
+A-14261-08377       HUDSON RIVER TRADING LLCNEW YORK            129355              
+A-14290-16878       INTEL CORPORATION   CALIFORNIA          115253              
+A-14294-17641       IGATE TECHNOLOGIES, INC.NEW JERSEY          75442               
+A-14272-11192       ICF RESOURCES, L.L.C.VIRGINIA            91478               
+A-14272-11268       MASTECH, INC., A MASTECH HOLDINGS, INC. COMPANYPENNSYLVANIA        97989               
+A-14272-11276       TECHNOLOGY CONSULTANTS INC.CALIFORNIA          126630              
+A-14275-12619       HITACHI CONSULTING CORPORATIONTEXAS               98904               
+A-14253-05896       CISCO SYSTEMS, INC. CALIFORNIA          90792               
+A-14272-11018       SAIPSIT INC         TEXAS               77875               
+A-14300-19499       INTEL CORPORATION   CALIFORNIA          126110              
+A-14307-21949       WESTERN ILLINOIS UNIVERSITYILLINOIS            64998               
+A-14253-05682       CISCO SYSTEMS, INC. CALIFORNIA          98927               
+A-14268-10411       PANASAS, INC.       CALIFORNIA          97989               
+A-14289-16209       MINDSPARK INTERACTIVE NETWORK, INCNEW YORK            91104               
+A-14262-08439       BAYER BUSINESS AND TECHNOLOGY SERVICES, LLCPENNSYLVANIA        85384               
+A-14265-09120       UNIVERSITY OF TEXAS AT AUSTINTEXAS               39520               
+A-14273-11436       SIEMENS PLM SOFTWARE INC.OHIO                86200               
+A-14252-05191       HEAVENLY HOPE CHURCHCALIFORNIA          32302               
+A-14252-05237       VETS FOR ECONOMIC FREEDOM TRUSTVIRGINIA            68349               
+A-14252-05385       COLUMBIA SUSSEX MANAGEMENT, LLCKENTUCKY            45760               
+A-14279-13363       KPMG LLP            TEXAS               91250               
+A-14279-13391       GOLDMAN SACHS SERVICES LLCNEW YORK            129355              
+A-14279-13470       QUALCOMM TECHNOLOGIES INC.CALIFORNIA          81411               
+A-14262-08547       BAYSTATE MEDICAL PRACTICES, INC.MASSACHUSETTS       121555              
+A-14272-11358       KOCH FOODS OF ALABAMA, LLCALABAMA             20301               
+A-14279-13457       APPLE INC.          CALIFORNIA          115253              
+A-14280-13620       CAPGEMINI FINANCIAL SERVICES USA INC.ILLINOIS            84906               
+A-14280-13719       HCA MANAGEMENT SERVICES LPTENNESSEE           90314               
+A-14253-05891       INTEL CORPORATION   CALIFORNIA          80246               
+A-14261-08180       SJ PACIFIC, INC.    CALIFORNIA          86174               
+A-14294-17950       C.C.A.M. INC. DBA SPIRIT HOME HEALTHCARECALIFORNIA          91957               
+A-14295-18169       QUALCOMM TECHNOLOGIES INC.CALIFORNIA          94432               
+A-14295-18239       SANTANDER BANK, N.A.MASSACHUSETTS       220813              
+A-14295-18247       Payden & Rygel      CALIFORNIA          83595               
+A-14267-10065       ROHM AND HAAS ELECTRONIC MATERIALS LLCMASSACHUSETTS       84947               
+A-14281-13907       COLLABORATE SOLUTIONS, INCMASSACHUSETTS       81765               
+A-14281-14221       TWO SIGMA INVESTMENTS, LLCNEW YORK            73445               
+A-14289-16282       SUNERA TECHNOLOGIES, INCMICHIGAN            88296               
+A-14289-16285       E-GIANTS TECHNOLOGIES, LLC.IOWA                67309               
+A-14280-13818       F5 NETWORKS, INC.   WASHINGTON          116272              
+A-14266-09531       CITIGROUP GLOBAL MARKETS INC.NEW YORK            205130              
+A-14300-19560       SMART DW            NEW JERSEY          90958               
+A-14272-11337       F5 NETWORKS, INC.   WASHINGTON          79664               
+A-14268-10232       PAGERDUTY INC.      CALIFORNIA          134638              
+A-14314-24101       TECHASPECT SOLUTIONS INCCALIFORNIA          107765              
+A-14293-17288       SYNOPSYS, INC.      CALIFORNIA          110094              
+A-14280-13890       QUALCOMM TECHNOLOGIES INC.CALIFORNIA          95930               
+A-14287-15505       ESRI INC.           CALIFORNIA          83824               
+A-14287-15578       KFORCE INC.         FLORIDA             70054               
+A-14273-11458       United States Golf AssociationNEW JERSEY          202862              
+A-14289-16442       GALAXY I TECHNOLOGIES, INC.ARIZONA             88733               
+A-14286-15177       UNIVERSITY OF NORTH DAKOTANORTH DAKOTA        71420               
+A-14294-17735       U.S. Cosmetics CorporationCONNECTICUT         61339               
+A-14294-17769       EXPEDIA, INC.       WASHINGTON          124385              
+A-14294-17772       IMVU                CALIFORNIA          116605              
+A-14294-17819       EPIC SYSTEMS CORPORATIONWISCONSIN           69160               
+A-14294-17855       IGATE TECHNOLOGIES, INC.NEW JERSEY          75442               
+A-14285-15105       INTELLECT IT LLC    CALIFORNIA          88254               
+A-14295-18201       PUREPREDICTIVE      UTAH                101795              
+A-14287-15628       MCKINSEY & COMPANY, INC UNITED STATESNEW YORK            135824              
+A-14300-19695       TERRACON CONSULTANTS, INC.KANSAS              70034               
+A-14301-19924       SHIRE PHARMACEUTICALS LLCPENNSYLVANIA        107120              
+A-14301-19996       CROUSE MEDICAL PRACTICENEW YORK            187199              
+A-14268-10480       QUALITY THERAPY & CONSULTATION, INC.ILLINOIS            109304              
+A-14316-25167       NVIDIA CORPORATION  CALIFORNIA          87448               
+A-14321-25994       INFOSYS LTD.        TEXAS               98904               
+A-14276-12915       CAREMARK, L.L.C.    RHODE ISLAND        105560              
+A-14281-14123       DEUTSCHE BANK       NEW YORK            95014               
+A-14296-18890       INTEL CORPORATION   CALIFORNIA          99653               
+A-14303-20924       TECHNOLOGY CONSULTANTS INC.CALIFORNIA          126630              
+A-14314-24208       LINCOLN NATIONAL CORPORATIONPENNSYLVANIA        108763              
+A-15045-50878       TOWERS WATSON DELAWARE INC.VIRGINIA            69347               
+A-15049-51595       YAHOO! INC.         CALIFORNIA          73923               
+A-15083-61407       LG HAUSYS AMERICA, INC.GEORGIA             56867               
+A-15049-51733       V-SOFT CONSULTING GROUP, INC.KENTUCKY            72114               
+A-15047-50966       SBP CONSULTING INC  ILLINOIS            83138               
+A-15047-51092       FLSmidth USA Inc.   UTAH                94245               
+A-15054-52954       MUY PIZZA TEJAS LLC TEXAS               16723               
+A-15054-52967       FACEBOOK, INC.      CALIFORNIA          94162               
+A-15056-53800       SYMPHONY CORPORATIONWISCONSIN           96928               
+A-15076-59083       AMAZON CORPORATE LLCWASHINGTON          97219               
+A-14297-19000       IGATE TECHNOLOGIES, INC.NEW JERSEY          77210               
+A-14293-17310       ASSOCIATES SYSTEMS, LLCTEXAS               79747               
+A-14293-17445       ERICSSON INC.       TEXAS               95077               
+A-14293-17465       UBS SERVICES LLC    DELAWARE            129355              
+A-14294-17583       M & R CONSULTANTS CORP.MASSACHUSETTS       117250              
+A-14273-11498       VIRTUOSA GLOBAL SOLUTIONS LLCNEW JERSEY          77210               
+A-14309-22732       TECHNO-COMP INC     NEW JERSEY          107120              
+A-14309-22751       Celestica LLC       NEW HAMPSHIRE       86923               
+A-14286-15224       THE UNIVERSITY OF TENNESSEE, KNOXVILLETENNESSEE           57390               
+A-14288-15844       RANDSTAD TECHNOLOGIES, LPMASSACHUSETTS       121160              
+A-14295-18065       HUMANA              KENTUCKY            58074               
+A-15063-56123       Axcess Financial Services, Inc.OHIO                45261               
+A-14287-15720       MASTECH, INC., A MASTECH HOLDINGS, INC. COMPANYPENNSYLVANIA        97989               
+A-14288-15937       INTEL CORPORATION   CALIFORNIA          92151               
+A-14288-15965       CVE TECHNOLOGY GROUP, INC.TEXAS               55994               
+A-14288-16032       INTEL CORPORATION   CALIFORNIA          84240               
+A-14289-16338       Refrigeration Innovation, LLCCALIFORNIA          61901               
+A-14301-20003       GOOGLE INC.         CALIFORNIA          98675               
+A-14301-20044       RESONATE NETWORKS, INC.VIRGINIA            89669               
+A-14286-15174       QUALCOMM TECHNOLOGIES INC.CALIFORNIA          80829               
+A-14286-15323       RF MICRO DEVICES, INC.NORTH CAROLINA      48443               
+A-14272-11079       CAPITAL ONE, NATIONAL ASSOCIATIONVIRGINIA            47528               
+A-14318-25766       GENERAL MILLS, INC. MINNESOTA           104499              
+A-14318-25776       SOHO TIFFIN NY HOLDING I LLCNEW YORK            161669              
+A-14321-26280       CITIGROUP TECHNOLOGY, INC.NEW YORK            116646              
+A-14283-14687       COMCAST CABLE COMMUNICATIONS, LLCPENNSYLVANIA        69680               
+A-14300-19505       IGATE TECHNOLOGIES, INC.NEW JERSEY          123822              
+A-14300-19600       IGATE TECHNOLOGIES, INC.NEW JERSEY          75442               
+A-14301-20047       Beaucoup Swoozies LLCCALIFORNIA          98675               
+A-14287-15764       ILLUMINA            CALIFORNIA          96616               
+A-14294-17685       C3, INC. D/B/A C3 ENERGYCALIFORNIA          94182               
+A-14309-22963       VEEVA SYSTEMS INC.  CALIFORNIA          82971               
+A-14309-23042       OCEAN REEF INC.     CALIFORNIA          79872               
+A-14297-19121       VERISK HEALTH, INC. MASSACHUSETTS       71261               
+A-14307-21855       Galaxy Software Solutions, Inc.MICHIGAN            107099              
+A-14307-21871       INTEL CORPORATION   CALIFORNIA          74298               
+A-14295-18197       MASTEREX TECHNOLOGIES INC.NEW JERSEY          107120              
+A-14307-21749       COPPERWELD BIMETALLICS, LLCTENNESSEE           58323               
+A-14293-17184       SUNERA TECHNOLOGIES, INCMICHIGAN            83803               
+A-14295-18376       PRICEWATERHOUSECOOPERSNEW YORK            67226               
+A-14301-20138       IGATE TECHNOLOGIES, INC.NEW JERSEY          75837               
+A-14301-20193       IGATE TECHNOLOGIES, INC.NEW JERSEY          75442               
+A-14283-14892       TOPAZ RESEARCH INC. MARYLAND            117582              
+A-14286-15186       BIO-RAD LABORATORIES, INC.CALIFORNIA          76877               
+A-14286-15217       APPLE INC.          CALIFORNIA          122762              
+A-14318-25801       CPI Holdings, LLC d/b/a/ Fitiri, Inc.TEXAS               77875               
+A-14319-25908       EMBRY-RIDDLE AERONAUTICAL UNIVERSITYFLORIDA             69750               
+A-14319-25924       APOGEE MEDICAL GROUP, LOUISIANA, INC.ARIZONA             187199              
+A-14288-15839       HEXAWARE TECHNOLOGIES, INC.NEW JERSEY          108805              
+A-14288-16014       BUSINESS INTELLI SOLUTIONS, INC.TEXAS               79747               
+A-14300-19650       BROADRIDGE FINANCIAL SOLUTIONS, INC.NEW JERSEY          211994              
+A-14300-19665       IGATE TECHNOLOGIES, INC.NEW JERSEY          77210               
+A-14301-20272       THE SCOULAR COMPANY MINNESOTA           106912              
+A-14301-20284       AMAZON WEB SERVICES, INC.WASHINGTON          114462              
+A-14301-20310       INTEL CORPORATION   CALIFORNIA          91458               
+A-14308-22391       INTEL CORPORATION   CALIFORNIA          93579               
+A-14297-19120       HEARTECH PRECISION INC.ILLINOIS            55245               
+A-14297-19245       EPIC SYSTEMS CORPORATIONWISCONSIN           69160               
+A-14303-20917       WELLS FARGO BANK, N.A.SOUTH DAKOTA        101379              
+A-14300-19808       INTEL CORPORATION   CALIFORNIA          82846               
+A-14303-20923       PRICEWATERHOUSECOOPERSNEW YORK            73133               
+A-15064-56203       HOUSE OF RAEFORD FARMS, INC.NORTH CAROLINA      17077               
+A-15064-56213       EMC CORPORATION     MASSACHUSETTS       83346               
+A-15039-49045       Defender Services, Inc.SOUTH CAROLINA      16827               
+A-15077-59387       INTERUSH INC        CALIFORNIA          76232               
+A-15050-52096       ATC DRIVETRAIN, LLC OKLAHOMA            52562               
+A-15065-56459       AKSHAYA INC         CALIFORNIA          126630              
+A-15058-54686       MERRILL LYNCH       NORTH CAROLINA      154690              
+A-15060-54833       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15057-54370       CIBER, INC.         COLORADO            93974               
+A-15068-56934       ICAP CORPORATES LLC NEW JERSEY          64459               
+A-15068-57207       CB&I INC            TEXAS               89569               
+A-15068-57218       FACEBOOK, INC.      CALIFORNIA          91104               
+A-15071-58077       AUDIBLE, INC.       NEW JERSEY          112986              
+A-15050-52200       TINTRI, INC         CALIFORNIA          98488               
+A-15049-51493       MASTER SANG'S TNT 4 INC. D/B/A MASTER SANG'S TNTFLORIDA             41018               
+A-15050-52245       SABRE GLBL INC.     TEXAS               142272              
+A-15054-53013       HARRISON POULTRY    GEORGIA             8.2                 
+A-15042-49944       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15042-49948       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15042-49977       INTELLECT BUSINESS SOLUTIONSTEXAS               95077               
+A-15042-49978       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15042-50001       APPLEXUS TECHNOLOGIES LLCWASHINGTON          128773              
+A-15042-50002       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15042-50051       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               64438               
+A-15042-50111       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               64438               
+A-15057-54374       CLEAR THOUGHT SOLUTIONS LLCNORTH CAROLINA      97198               
+A-15071-58158       GRACE KOREAN CHURCH OF NORWALKCALIFORNIA          33093               
+A-15065-56618       Fonteva, Inc.       VIRGINIA            107702              
+A-15037-48750       EMERGENT BIOSOLUTIONS INC.MARYLAND            54933               
+A-15090-63005       TECHDATA SERVICE COMPANY, LLC.PENNSYLVANIA        52478               
+A-15054-53207       OBJECTNET TECHNOLOGIESGEORGIA             88941               
+A-15043-50401       MASTERBRAND CABINETS, INCINDIANA             87526               
+A-15063-55902       Audiology Distribution, LLC dba HearUSAFLORIDA             78541               
+A-15061-55201       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15077-59674       CALIENT TECHNOLOGIES, INC.CALIFORNIA          89502               
+A-15077-59773       GOOGLE INC.         CALIFORNIA          85322               
+A-15082-60975       SOGETI USA LLC      OHIO                95722               
+A-15090-63058       KOCH FOODS OF CINCINNATI LLCOHIO                20342               
+A-15043-50392       AMERICAN EDUCATION CENTER, INC.NEW YORK            44637               
+A-15071-57943       GLOBAL AMERICAN STAFFING, INC.MAINE               81765               
+A-15042-49995       GILEAD SCIENCES, INC.CALIFORNIA          52499               
+A-15052-52630       PACO Group Inc      NEW YORK            79248               
+A-15060-54848       ZEVA TECHNOLOGY LLC TEXAS               82534               
+A-15064-56245       CIRRUS LOGIC, INC.  TEXAS               69888               
+A-15049-51497       COX ENTERPRISES, INC.GEORGIA             90709               
+A-15042-50178       SATYA MARG SOLUTIONS INCNEW JERSEY          77210               
+A-15050-51900       GOKEN AMERICA, LLC  OHIO                91187               
+A-15043-50494       Einstok Brewing CompanyCALIFORNIA          106142              
+A-15043-50498       LOGIC SOLUTIONS GROUP LLC D/B/A VSSTEXAS               95056               
+A-15043-50499       APPDYNAMICS         CALIFORNIA          95077               
+A-15043-50503       PROFICIENT BUSINESS SYSTEMS, INC.GEORGIA             102669              
+A-15044-50800       LATTICE ENGINES, INC.CALIFORNIA          94162               
+A-15063-55913       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15054-52894       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15048-51437       INFORMATION CONTROL COMPANY, LLCOHIO                74194               
+A-15048-51438       RUCKUS WIRELESS INC CALIFORNIA          109762              
+A-15056-53747       RANDSTAD TECHNOLOGIES, LPMASSACHUSETTS       105560              
+A-15079-60516       INTERMARK INDUSTRIES INC.FLORIDA             71406               
+A-15063-56010       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               64438               
+A-15041-49579       ILYA KAMINSKY, D.C., A PROFESSIONAL CORPORATIONCALIFORNIA          91957               
+A-15041-49631       ERP ANALYSTS, INC   OHIO                97718               
+A-15041-49682       UGLY & BEAUTY, INC. NEW JERSEY          51272               
+A-15057-54286       APOGEE MEDICAL GROUP INCARIZONA             60133               
+A-15042-49907       L&T TECHNOLOGY SERVICES LIMITEDNEW JERSEY          55286               
+A-15040-49109       Nanshan America Advanced Aluminum Technologies, LLINDIANA             122574              
+A-15071-57854       DIVENSI INC.        WASHINGTON          97219               
+A-15061-55259       CINTEL SYSTEMS INC  CALIFORNIA          76877               
+A-15055-53503       FOLIOFN, INC.       VIRGINIA            94390               
+A-15075-58986       SILVACO INC.        CALIFORNIA          115253              
+A-15056-53731       ambaji ga llc       GEORGIA             67662               
+A-15065-56653       MUY PIZZA TEJAS LLC TEXAS               16806               
+A-15063-56098       GeoCenter           TEXAS               91520               
+A-15068-56929       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          77210               
+A-15077-59605       BLACKBERRY CORPORATIONCALIFORNIA          110448              
+A-15043-50495       MNCL INC            TEXAS               85571               
+A-15040-49287       Good Sense Inc.     CALIFORNIA          38355               
+A-15040-49311       ELLIE MAE, INC.     CALIFORNIA          95300               
+A-15040-49247       ORION SYSTEMS INTEGRATORS, LLCNEW JERSEY          93018               
+A-15049-51703       WESTERN DIGITAL TECHNOLOGIES, INC.CALIFORNIA          118082              
+A-15063-56144       EXPEDIA, INC.       WASHINGTON          112986              
+A-15053-52741       SALESFORCE.COM      CALIFORNIA          117229              
+A-15070-57873       TECHNOSOFT CORPORATIONMICHIGAN            76149               
+A-15077-59444       CAREMARK, L.L.C.    RHODE ISLAND        62795               
+A-15054-52981       MUY PIZZA TEJAS LLC TEXAS               16723               
+A-15054-53099       TEKWISSEN LLC       MICHIGAN            78624               
+A-15065-56522       Defender Services, Inc.SOUTH CAROLINA      16827               
+A-15065-56561       Defender Services, Inc.SOUTH CAROLINA      16827               
+A-15049-51726       NORMAN W. FRIES, INC. D/B/A CLAXTON POULTRY FARMSGEORGIA             19594               
+A-15049-51620       BLOOMBERG L.P.      NEW YORK            91104               
+A-15064-56324       ACR CAPITAL LLC.    NEW YORK            155834              
+A-15047-51032       INFOGROUP           NEBRASKA            122450              
+A-15049-51624       ASANTE              OREGON              26.61               
+A-15044-50703       Winverts, Inc.      CALIFORNIA          90                  
+A-15044-50744       STATOIL GULF SERVICES LLCTEXAS               160264              
+A-15068-57101       DATAGRAVITY INC     NEW HAMPSHIRE       108160              
+A-15071-58145       GROUPON, INC.       ILLINOIS            68286               
+A-15071-58157       RIOS MEDINA & ASSOCIATES/DBA CPC ACCOUNTING SVCSFLORIDA             61110               
+A-15062-55411       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15044-50733       INFOSMART SYSTEMS, INC.TEXAS               79747               
+A-14091-56971       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               42600               
+A-14071-52358       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               42600               
+A-13161-70034       DGN TECHNOLOGIES INC.CALIFORNIA          119662              
+A-13133-63365       PROTECH SOLUTIONS INCARKANSAS            53830               
+A-13350-25248       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          75442               
+A-15044-50816       BROKEN HILL PROPRIETARY (USA) INC.TEXAS               125445              
+A-15043-50147       SRIVEN TECHNOLOGIES, LLCVIRGINIA            106787              
+A-15055-53479       CITIBANK, N.A       NEW YORK            91104               
+A-15055-53513       Air Cost Control US LLCFLORIDA             44949               
+A-15062-55567       CAPITAL ONE SERVICES II LLCVIRGINIA            79747               
+A-15062-55616       COLUMBIA MANAGEMENT INVESTMENT ADVISERS, LLCMASSACHUSETTS       127317              
+A-15062-55683       MCAFEE, INC         CALIFORNIA          114193              
+A-15049-51680       POPULUS GROUP, LLC  MICHIGAN            104686              
+A-15049-51853       HITACHI DATA SYSTEMS CORPORATIONCALIFORNIA          150030              
+A-15048-51143       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15043-50384       INTEGRATED REGIONAL LABORATORIESFLORIDA             63731               
+A-15056-53756       SYMPHONY CORPORATIONWISCONSIN           96928               
+A-15053-52689       Nevco Contracting IncNEW YORK            54746               
+A-15043-50239       AMAZON CORPORATE LLCWASHINGTON          97219               
+A-15041-49698       PACIFIC INVESTMENT MANAGEMENT COMPANY, LLCCALIFORNIA          104062              
+A-15041-49744       LEADOFF SPORTS MARKETING LLCNEW YORK            44699               
+A-15053-52753       WISE MEN CONSULTANTS INCTEXAS               110926              
+A-15064-56157       D & J Cleaning Service Corp.NEW JERSEY          39915               
+A-15058-54597       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          77210               
+A-15063-55957       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15047-51009       SYMANTEC CORPORATIONCALIFORNIA          84781               
+A-15047-51073       Thinkwell Group, Inc.CALIFORNIA          65686               
+A-15049-51531       APPIRIO INC.        CALIFORNIA          89100               
+A-15049-51549       SUNRAY ENTERPRISE INC.GEORGIA             104437              
+A-15049-51577       Three Store Business Inc. (dba, Fuel Maxx # 3)TEXAS               38709               
+A-15050-52182       APPLE INC.          CALIFORNIA          75005               
+A-15063-55732       TIOGA VALLEY INC    NEW YORK            36462               
+A-15081-60691       CAPITAL ONE SERVICES II LLCVIRGINIA            114400              
+A-15043-50515       INFOSMART SYSTEMS, INC.TEXAS               79123               
+A-15044-50633       EXLSERVICE.COM LLC  NEW YORK            89565               
+A-15052-52663       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15053-52737       COOLEY LLP          CALIFORNIA          66726               
+A-15065-56588       PUBMATIC, INC.      CALIFORNIA          91104               
+A-15069-57228       BLUE CROSS AND BLUE SHIELD OF ALABAMAALABAMA             71968               
+A-15069-57234       MUKESH DESAI CPA    NEW YORK            74110               
+A-15048-51352       UNIVERSITY OF IOWA  IOWA                53893               
+A-15069-57500       Swingle, Inc.       COLORADO            9.84                
+A-15059-54806       SOFTWARE SOLUTIONS INCNEW JERSEY          126422              
+A-15063-55898       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               64438               
+A-15063-55950       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15042-49858       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               64438               
+A-15042-49955       TRINITY REGIONAL MEDICAL CENTERIOWA                120536              
+A-15056-53818       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15082-61048       GERMANTOWN LOTTE, LLCMARYLAND            67704               
+A-15058-54557       CGS ADMINISTRATORS LLCTENNESSEE           70533               
+A-15048-51426       GENESYS TELECOMMUNICATIONS LABORATORIES, INC.CALIFORNIA          134638              
+A-15061-54910       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15061-54957       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15050-52128       ARISTEIA CAPITAL    NEW YORK            108763              
+A-15055-53296       PROFICIENT BUSINESS SYSTEMS, INC.GEORGIA             102669              
+A-15059-54803       Covisint CorporationMICHIGAN            80163               
+A-15060-54862       ATNS USA, Inc.      ALABAMA             76877               
+A-15063-55756       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15084-61770       SMARTPLAY, INC.     CALIFORNIA          145392              
+A-15055-53271       R3 TECHNOLOGY INC., NEW JERSEY          107120              
+A-15056-53713       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15039-49039       Defender Services, Inc.SOUTH CAROLINA      16827               
+A-15072-58329       FACEBOOK, INC.      CALIFORNIA          134638              
+A-15068-57137       MIDLAND CREDIT MANAGEMENTCALIFORNIA          115149              
+A-15068-57091       IBM CORPORATION     NORTH CAROLINA      94162               
+A-15061-55222       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15061-55248       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15061-55310       CARIBBEAN FOOD DELIGHTS, INC.NEW YORK            42411               
+A-15072-58496       MARVELL SEMICONDUCTOR INCCALIFORNIA          107287              
+A-15063-56036       UNIVERSITY OF NORTH CAROLINA AT CHARLOTTENORTH CAROLINA      41990               
+A-15063-56102       FACEBOOK, INC.      CALIFORNIA          154980              
+A-15038-49018       Logic Information Systems, Inc.MINNESOTA           71531               
+A-15055-53552       PROFICIENT BUSINESS SYSTEMS, INC.GEORGIA             102669              
+A-15055-53616       TAULIA INC.         CALIFORNIA          117229              
+A-15055-53662       SAN JOSE ART ACADEMYCALIFORNIA          44699               
+A-15069-57394       JDC HEALTHCARE, PLLCTEXAS               187199              
+A-10301-28449       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10300-28130       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-10300-28162       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10132-98808       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-09272-66758       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-12170-73029       RESOURCE LOGISTICS, INC.NEW JERSEY          74235.2             
+A-12268-01785       ERICSSON INC.       TEXAS               68418               
+A-15047-50953       Advalent CorporationMASSACHUSETTS       100173              
+A-15048-51324       VASQUEZ & COMPANY LLPCALIFORNIA          63066               
+A-15048-51373       ITC INFOTECH USA INCNEW JERSEY          93101               
+A-15078-60140       SYMANTEC CORPORATIONCALIFORNIA          104042              
+A-15047-51072       DELL SOFTWARE INC   TEXAS               104771              
+A-15055-53409       APOLLO EDUCATION GROUP INC.ARIZONA             109762              
+A-15048-51345       AKSHAYA INC         CALIFORNIA          90418               
+A-15061-55176       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15037-48622       EMORY & HENRY COLLEGEVIRGINIA            25060               
+A-15058-54658       TRISYNC TECHNOLOGIES, INC.NEW JERSEY          108805              
+A-15061-55122       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15063-55822       AUDIMATION SERVICES, INCTEXAS               60091               
+A-15063-55941       LT FOOD MARKET, INC FLORIDA             50794               
+A-15069-57514       MEDLINE INDUSTRIES  ILLINOIS            135138              
+A-15072-58493       FACEBOOK, INC.      CALIFORNIA          134472              
+A-15050-52081       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               64438               
+A-15050-52087       NOVELIS INC.        GEORGIA             61298               
+A-15050-52112       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15069-57481       WASHINGTON STATE UNIVERSITYWASHINGTON          36110               
+A-15069-57518       Swingle, Inc.       COLORADO            9.84                
+A-15036-48599       Tanjore Inc.        NEW YORK            74672               
+A-15069-57489       ISTREAM SOLUTIONS INCVIRGINIA            125757              
+A-15044-50822       SAGE PUBLICATIONS   CALIFORNIA          86050               
+A-15058-54567       CUMMINS INC.        INDIANA             95638               
+A-15058-54569       CRR INTERNATIONAL, LLCGEORGIA             43618               
+A-15043-50264       LOWELL COMMUNITY HEALTH CENTER, INC.MASSACHUSETTS       90                  
+A-15043-50330       AMAZON CORPORATE LLCWASHINGTON          81432               
+A-15050-52121       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15061-55067       BLUWARE, INC.       TEXAS               82285               
+A-15061-55103       SYNERGY GLOBAL TECHNOLOGIES INC.NEW JERSEY          93018               
+A-15050-52083       KASTECH SOLUTIONS LLCTEXAS               79186               
+A-15061-55184       CUMMINS INC.        INDIANA             84386               
+A-15062-55513       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15054-52978       Ameriprise Financial, Inc.MINNESOTA           79602               
+A-15069-57597       BECHTEL OIL, GAS AND CHEMICALS, INC.TEXAS               67962               
+A-15064-56264       BIG B WORLD, INC.   NEW JERSEY          28850               
+A-15059-54807       BERKELEY RESEARCH GROUPILLINOIS            103480              
+A-15044-50692       A & B ENVIRONMENTAL SERVICES, INC.TEXAS               79186               
+A-15062-55389       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15069-57553       MOZIDO INC          TEXAS               97115               
+A-15083-61204       CITIZENS PROPERTY INSURANCE CORP.FLORIDA             84552               
+A-15069-57578       FMC TECHNOLOGIES    TEXAS               116396              
+A-15069-57584       DELL MARKETING LP   TEXAS               66435               
+A-15054-53050       HARRISON POULTRY    GEORGIA             8.2                 
+A-15070-57812       Creative Information Technology, IncVIRGINIA            67621               
+A-15055-53528       SALESFORCE.COM      CALIFORNIA          94162               
+A-15071-58127       CREDIT SUISSE SECURITIES (USA) LLCNEW YORK            107598              
+A-15076-59180       COMPREHENSIVE HEALTH MANAGEMENT INC.FLORIDA             68224               
+A-15076-59080       CIBER, INC.         COLORADO            108846              
+A-15076-59178       AUDIBLE, INC.       NEW JERSEY          125258              
+A-15049-51779       SANDISK CORPORATION CALIFORNIA          105394              
+A-15068-57052       TIMOTHY GASPAR INSURANCE SERVICESCALIFORNIA          48027               
+A-15049-51682       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15049-51759       NORMAN W. FRIES, INC. D/B/A CLAXTON POULTRY FARMSGEORGIA             19594               
+A-15062-55386       ROCK FLOW DYNAMICS INCTEXAS               40.91               
+A-15062-55566       DELOITTE & TOUCHE LLPPENNSYLVANIA        106392              
+A-15065-56492       HCL GLOBAL SYSTEMS INC.MICHIGAN            64979               
+A-15048-51208       CPSG PARTNERS LLC   TEXAS               110406              
+A-15055-53657       ATOS IT SOLUTIONS AND SERVICES, INC.NEW YORK            126984              
+A-15068-57169       MUY PIZZA TEJAS LLC TEXAS               16723               
+A-15076-59085       PETERSON TECHNOLOGY PARTNERS INC.ILLINOIS            102669              
+A-15054-53012       MUY PIZZA TEJAS LLC TEXAS               16723               
+A-15075-58866       FACEBOOK, INC.      CALIFORNIA          154980              
+A-15054-53020       DATAFORMIX TECHNOLOGIES INCNEW JERSEY          108805              
+A-15056-53878       AUTOLIV ASP, INC.   MICHIGAN            77293               
+A-15090-62955       UNIVERSITY OF MAINE MAINE               50000               
+A-15055-53259       LUXOFT USA INC.     NEW YORK            80995               
+A-15054-52965       TRUST COMPANY OF THE WESTCALIFORNIA          105830              
+A-15051-52550       DSM Services USA IncNEW JERSEY          98155               
+A-15051-52607       FUJITSU LABORATORIES OF AMERCIA INCCALIFORNIA          108597              
+A-15057-54152       ADVENT GLOBAL SOLUTIONS,INC.TEXAS               146162              
+A-15074-58650       PROLIM GLOBAL CORPORATIONMICHIGAN            84573               
+A-15044-50768       ADVENTIST HEALTH SYSTEM/SUNBELT INC D/B/A FLORIDAFLORIDA             60590               
+A-15048-51180       LEEWARD INTERNATIONAL INCNEW JERSEY          44637               
+A-15048-51317       GOLDMAN SACHS & CO. NEW YORK            91104               
+A-15044-50676       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15051-52568       Cyient, Inc.        CONNECTICUT         145392              
+A-15054-52810       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTEXAS               76378               
+A-15056-53991       IBM CORPORATION     NORTH CAROLINA      80995               
+A-15056-54008       ZEVA TECHNOLOGY LLC TEXAS               82534               
+A-15040-49140       DROPBOX, INC.       CALIFORNIA          114400              
+A-15040-49249       GENERAL NETWORKS CORPORATIONCALIFORNIA          84781               
+A-15050-52137       ITC INFOTECH USA INCNEW JERSEY          88130               
+A-15054-53040       TOYOTA INFOTECHNOLOGY CENTER USA, INC.CALIFORNIA          132038              
+A-15054-53199       PAGERDUTY INC.      CALIFORNIA          134472              
+A-15065-56697       INVENTIV HEALTH CLINICAL LLCNEW JERSEY          80517               
+A-15070-57837       ILINK SYSTEMS, INC. WASHINGTON          97219               
+A-15048-51376       GOODLUCK BUSINESS INCTEXAS               97178               
+A-15040-49354       HARRISON POULTRY    GEORGIA             8.2                 
+A-15075-58747       LOOP CAPITAL MARKETS, LLCILLINOIS            69742               
+A-15075-58865       CVS PHARMACY, INC.  RHODE ISLAND        75213               
+A-15051-52566       321COMMERCIAL REALTY HOLDING LLCNEW JERSEY          21986               
+A-15051-52606       KONAMI DIGITAL ENTERTAINMENT, INC.CALIFORNIA          92726               
+A-15050-51945       KPIT INFOSYSTEMS INC.NEW JERSEY          61422               
+A-15070-57829       Guard-All Building Solutions Mfg LLCTEXAS               95722               
+A-15077-59802       Iknowvate Technologies, Inc.MICHIGAN            76648               
+A-15054-53116       INTERPATH LABORATORYIDAHO               48069               
+A-15036-48417       KALYPSO LP          TEXAS               94702               
+A-15036-48480       GOLDMAN SACHS & CO. NEW YORK            146025              
+A-15036-48603       STAYMAN ESTATES, LLCCALIFORNIA          20426               
+A-13115-59265       NATIONAL INSTRUMENTSTEXAS               79789               
+A-14093-57792       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               42130               
+A-14136-70215       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          75442               
+A-13302-06789       JUNIPER NETWORKS    CALIFORNIA          134534              
+A-13149-67215       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          60611               
+A-13297-05418       JUNIPER NETWORKS    CALIFORNIA          109410              
+A-11157-83525       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-10302-28838       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10302-28832       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-10302-28844       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10302-28713       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-10301-28475       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-13123-61168       ADVANSOFT  WORLDWIDE, INCILLINOIS            80974               
+A-12153-68088       GARLAND INDEPENDENT SCHOOL DISTRICTTEXAS               49590               
+A-12172-74284       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44740               
+A-14036-39170       SOMAR LTD           VIRGINIA            35838               
+A-12202-84057       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44470               
+A-12202-84025       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44470               
+A-12193-81134       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44470               
+A-12150-66892       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44740               
+A-12169-72822       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44740               
+A-12167-72378       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44740               
+A-12165-71609       DALLAS INDEPENDENT SCHOOL DISTRICTTEXAS               44740               
+A-13164-71573       MONSTER WORLDWIDE, INC.MASSACHUSETTS       133328              
+A-10302-28859       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10302-28861       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10302-28637       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-10303-28887       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-10008-80881       INFOSYS TECHNOLOGIES LIMITEDTEXAS               85550               
+A-11136-78564       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-11080-64434       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-10300-27928       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-11087-66384       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11087-66452       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11087-66463       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11110-72577       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-14365-38809       UNIVERSITY OF ALABAMA AT BIRMINGHAMALABAMA             105527              
+A-14139-70702       ACTUATE CORPORATION CALIFORNIA          93267               
+A-09293-69836       INFOSYS TECHNOLOGIES LIMITEDTEXAS               69160               
+A-11109-72142       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-11105-71315       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11078-64165       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11154-83115       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-11147-81707       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11157-83545       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-11070-62232       INFOSYS TECHNOLOGIES LIMITEDTEXAS               105477              
+A-13200-81637       TECHNOLOGY CONSULTANTS-MA, INC.MICHIGAN            77376               
+A-11070-62080       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11088-66865       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               
+A-11087-66378       INFOSYS TECHNOLOGIES LIMITEDTEXAS               71552               

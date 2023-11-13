@@ -1,0 +1,476 @@
+A-19204-34288       Automotive Lighting, LLCMICHIGAN            107,370.00          
+A-19204-34312       VIRTUSA CORPORATION MASSACHUSETTS       107,162.00          
+A-19204-34397       IRIS SOFTWARE, INC. NEW JERSEY          117,624.00          
+A-19204-34417       GUGGENHEIM SECURITIES, LLCNEW YORK            74,797.00           
+A-19204-34485       BENGAL STAR INC     FLORIDA             26.43               
+A-19204-34486       BALLY GAMING, INC.  NEVADA              109,096.00          
+A-19204-34543       UNITED SHORE FINANCIAL SERVICES, LLCMICHIGAN            61,048.00           
+A-19204-34561       Mindstrong Inc.     CALIFORNIA          119,101.00          
+A-19204-34666       NUTANIX, INC.       CALIFORNIA          164,674.00          
+A-19205-34863       GEORGIA STATE UNIVERSITYGEORGIA             54,020.00           
+A-19205-34870       THE PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGVERMONT             41,940.00           
+A-19205-34900       BALLY GAMING, INC.  NEVADA              127,338.00          
+A-19205-34913       PREMIER IT SOLUTIONS, LLCTEXAS               97,864.00           
+A-19205-34991       HI-LEX CONTROLS, INC.MICHIGAN            63,128.00           
+A-19205-35005       TRINITY HEALTH      NORTH DAKOTA        208,000.00          
+A-19205-35047       CONFLUENT, INC.     CALIFORNIA          109,242.00          
+A-19205-35054       CALIFORNIA STATE POLYTECHNIC UNIVERSITY, POMONACALIFORNIA          96,000.00           
+A-19205-35121       Imaginary Forces, LLCCALIFORNIA          68,162.00           
+A-19205-35168       HAYMAN-WOODWARD CORPFLORIDA             102,190.00          
+A-19205-35181       WEBILENT TECHNOLOGY INC.CONNECTICUT         100,464.00          
+A-19205-35185       WEBILENT TECHNOLOGY INC.CONNECTICUT         114,650.00          
+A-19205-35200       IBM CORPORATION     NORTH CAROLINA      77,064.00           
+A-19205-35240       MUY PIZZA TEJAS LLC TEXAS               17,555.00           
+A-19206-35352       HENRY FORD HEALTH SYSTEMMICHIGAN            71,968.00           
+A-19206-35430       ILINK SYSTEMS, INC. WASHINGTON          113,318.00          
+A-19206-35449       ICON Clinical Research LLCPENNSYLVANIA        109,552.00          
+A-19206-35473       GOOGLE LLC          CALIFORNIA          80,416.00           
+A-19206-35499       HENRY SCHEIN, INC.  NEW YORK            122,408.00          
+A-19206-35521       HELLMUTH OBATA + KASSABAUM, INC.MISSOURI            78,021.00           
+A-19206-35569       FRANCO VAGO INTERNATIONAL, INC.NEW YORK            68,578.00           
+A-19206-35597       Pragma Edge Inc     ILLINOIS            113,069.00          
+A-19206-35616       PURDUE UNIVERSITY   INDIANA             49,850.00           
+A-19206-35617       ILLUMINA            CALIFORNIA          155,022.00          
+A-19206-35629       INTERNATIONAL SOFTWARE SYSTEMS INCMARYLAND            114,982.00          
+A-19206-35704       INTERNATIONAL SOFTWARE SYSTEMS INCMARYLAND            114,982.00          
+A-19206-35708       IBM CORPORATION     NORTH CAROLINA      77,064.00           
+A-19206-35709       INTERNATIONAL SOFTWARE SYSTEMS INCMARYLAND            114,982.00          
+A-19207-35929       Millard Mall Services, Inc.ILLINOIS            23,150.00           
+A-19207-35963       KODAK ALARIS        NEW YORK            107,640.00          
+A-19207-35992       IPG PHOTONICS CORPORATIONMASSACHUSETTS       112,528.00          
+A-19207-35998       IPG PHOTONICS CORPORATIONMASSACHUSETTS       112,528.00          
+A-19207-36010       HENRY SCHEIN, INC.  NEW YORK            122,408.00          
+A-19207-36025       GLOBALLOGIC INC.    CALIFORNIA          147,077.00          
+A-19207-36117       NUTANIX, INC.       CALIFORNIA          96,762.00           
+A-19207-36156       NUTANIX, INC.       CALIFORNIA          70,678.00           
+A-19207-36294       PHOENIX EAST AVIATION, LLCFLORIDA             36,960.00           
+A-19208-36313       GENERAL MOTORS COMPANYMICHIGAN            63,128.00           
+A-19209-36381       INTERNATIONAL SOFTWARE SYSTEMS INCMARYLAND            114,982.00          
+A-19209-36445       TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTERTEXAS               69,613.00           
+A-19209-36446       TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTERTEXAS               69,613.00           
+A-19209-36449       TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTERTEXAS               121,550.00          
+A-19210-36569       GENERAL MOTORS COMPANYMICHIGAN            75,608.00           
+A-19210-36688       GENERAL MOTORS COMPANYMICHIGAN            63,128.00           
+A-19210-36883       GERARDO FROESE      TEXAS               19,240.00           
+A-19210-36908       ACTIONIQ            NEW YORK            96,366.00           
+A-19211-37148       INTEL CORPORATION   CALIFORNIA          173,046.00          
+A-19217-39827       PERISCOPE, INC      CALIFORNIA          138,091.00          
+A-19247-53046       STAR NATURAL MEATS INC.NEW YORK            33,010.00           
+A-19253-56031       Loureiro Engineering Associates, Inc.CONNECTICUT         122,720.00          
+A-19254-56594       INFINIEN CONSULTING INC.NEW JERSEY          117,021.00          
+A-11338-21700       APTEK SOLUTIONS INC NEW JERSEY          nan                 
+A-17228-76337       EPACE TECHNOLOGIES,INCTEXAS               nan                 
+A-18180-92857       MICROEXCEL INC      NEW JERSEY          nan                 
+A-18208-01949       BKFS I SERVICES LLC FLORIDA             118,664.00          
+A-18215-04214       Carrizo Oil & Gas, Inc.TEXAS               nan                 
+A-18225-07272       TESLA, INC.         CALIFORNIA          nan                 
+A-18277-25717       TESLA, INC.         CALIFORNIA          nan                 
+A-18277-25725       TESLA, INC.         CALIFORNIA          nan                 
+A-18292-31110       GLOBAL INFORMATION TECHNOLOGY INC.NEW JERSEY          nan                 
+A-18344-50433       JUNIPER NETWORKS (US), INC.CALIFORNIA          nan                 
+A-18344-50482       APPLIED COMPUTER TECHNIQUESMICHIGAN            nan                 
+A-18354-54789       GLOBAL INFORMATION TECHNOLOGY INC.NEW JERSEY          nan                 
+A-18354-55015       Wasatch County School DistrictUTAH                nan                 
+A-19004-58996       WILLIAM MARSH RICE UNIVERSITYTEXAS               nan                 
+A-19004-59025       APPLICATIONS SOFTWARE TECHNOLOGY LLCILLINOIS            nan                 
+A-19010-60764       MERCYHURST UNIVERSITYPENNSYLVANIA        nan                 
+A-19015-62595       Evridge Farms       TEXAS               nan                 
+A-19017-63302       Nurani, P.C.        WASHINGTON          nan                 
+A-19032-68991       TECHDEMOCRACY LLC   NEW JERSEY          nan                 
+A-19035-69282       HOLIDAY RESORT GUAM GUAM                nan                 
+A-19037-70371       Investigroup LLC    NEW JERSEY          nan                 
+A-19042-72193       HAN ORTHOPAEDICS, INC.CALIFORNIA          nan                 
+A-19043-72341       J&B GURUNG, INC. (D/8/A &QUOT;INDIAN CUISINE&QUOT;)MARYLAND            nan                 
+A-19043-72376       TECH MAHINDRA (AMERICAS) INC., (FORMERLY MBT INTERNATIONAL, INC.)TEXAS               98,925.00           
+A-19045-73641       IRMA'S INC. D/B/A DOUGLASS WORKROOMGEORGIA             nan                 
+A-19050-74242       BLOOMBERG L.P.      NEW YORK            nan                 
+A-19050-74432       GOODIX TECHNOLOGY INC.CALIFORNIA          nan                 
+A-19050-74497       AT&T SERVICES, INC. TEXAS               nan                 
+A-19051-74729       I THAI CORP         CALIFORNIA          nan                 
+A-19052-75540       Leeco Steel         ILLINOIS            nan                 
+A-19056-76629       GVA INFOTECH INC    VIRGINIA            nan                 
+A-19057-76655       Jones-Hastings Company, Inc.LOUISIANA           nan                 
+A-19057-76683       Jones-Hastings Company, Inc.LOUISIANA           nan                 
+A-19057-76685       Jones-Hastings Company, Inc.LOUISIANA           nan                 
+A-19057-76765       INDOTRONIX INTERNATIONAL CORPORATIONNEW YORK            nan                 
+A-19058-77522       INTRAEDGE, INC      ARIZONA             nan                 
+A-19058-77531       INTRAEDGE, INC      ARIZONA             nan                 
+A-19059-77972       Eugenio Gonzalez DerbezCALIFORNIA          nan                 
+A-19060-78315       SOUMAVA SEN DDS PC  CALIFORNIA          nan                 
+A-19060-78327       SOUMAVA SEN DDS PC  CALIFORNIA          nan                 
+A-19067-80151       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19079-83664       AQUANTIA CORP.      CALIFORNIA          nan                 
+A-19087-86335       HP INC.             CALIFORNIA          nan                 
+A-19088-86740       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19088-87005       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19088-87027       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19094-89024       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19095-89273       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19095-89545       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19095-89619       BLACKROCK FINANCIAL MANAGEMENTNEW YORK            nan                 
+A-19098-89881       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19099-90372       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19100-90851       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19100-90961       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19100-91361       ATIEVA USA, INC.    CALIFORNIA          nan                 
+A-19101-91422       LARSEN & TOUBRO INFOTECH LIMITEDNEW JERSEY          nan                 
+A-19101-91438       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19102-91893       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19106-93589       APPLE INC.          CALIFORNIA          nan                 
+A-19106-93591       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19106-93638       AMAZON WEB SERVICES, INC.WASHINGTON          nan                 
+A-19107-94176       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19115-97709       MINDTREE LIMITED    NEW JERSEY          nan                 
+A-19116-97716       MINDTREE LIMITED    NEW JERSEY          nan                 
+A-19116-97929       APPLE INC.          CALIFORNIA          nan                 
+A-19119-98487       ECLINICALWORKS, LLC MASSACHUSETTS       nan                 
+A-19120-98878       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19120-98936       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19120-99022       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19120-99114       LOUISVILLE JEFFERSON CO METROPOLITAN SEWER DISTRICKENTUCKY            nan                 
+A-19123-00741       ZILLION TECHNOLOGIES, INCVIRGINIA            nan                 
+A-19126-01230       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19127-01911       EXPEDIA, INC.       WASHINGTON          nan                 
+A-19129-03316       CBRE, INC           TEXAS               nan                 
+A-19130-03803       HP INFOSYSTEM LLC   NEW JERSEY          nan                 
+A-19131-04098       CAPE ANALYTICS, INC CALIFORNIA          nan                 
+A-19134-04721       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19135-05302       BLOOMBERG L.P.      NEW YORK            nan                 
+A-19135-05569       AMAZON WEB SERVICES, INC.WASHINGTON          nan                 
+A-19136-06208       AUTODESK, INC.      CALIFORNIA          nan                 
+A-19136-06277       AMAZON WEB SERVICES, INC.WASHINGTON          nan                 
+A-19137-06796       AMAZON WEB SERVICES, INC.WASHINGTON          nan                 
+A-19137-06886       QIC, Inc.           TEXAS               nan                 
+A-19138-07031       MAASER CORP.        NEW YORK            nan                 
+A-19139-07055       AMERICAN BUREAU OF SHIPPINGTEXAS               nan                 
+A-19140-07517       EXPRESS SCRIPTS SERVICES COMPANYMISSOURI            nan                 
+A-19141-07799       APPLE INC.          CALIFORNIA          nan                 
+A-19142-08375       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19142-08412       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19142-08929       FRONTLINE CALL CENTER LLCWASHINGTON          nan                 
+A-19143-08892       IBM CORPORATION     NORTH CAROLINA      nan                 
+A-19143-09240       Acsel Health LLC    NEW YORK            nan                 
+A-19143-09444       MICRON TECHNOLOGY, INC.IDAHO               nan                 
+A-19144-09558       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19144-09609       APPLE INC.          CALIFORNIA          nan                 
+A-19144-09615       Adobe Inc.          CALIFORNIA          nan                 
+A-19144-09756       IBM CORPORATION     NORTH CAROLINA      nan                 
+A-19144-09897       TRIGYN TECHNOLOGIES INC.NEW JERSEY          nan                 
+A-19147-10150       APPLE INC.          CALIFORNIA          nan                 
+A-19147-10205       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19148-10366       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19149-10870       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19149-10899       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19149-11240       APARTMENT LIST, INC.CALIFORNIA          nan                 
+A-19149-11352       CAVALIER IT, INC.   NEW JERSEY          nan                 
+A-19150-11497       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19150-11777       APPLE INC.          CALIFORNIA          nan                 
+A-19150-11821       BRYCE LODGING LLC DBA QUALITY INN PANGUITCHUTAH                nan                 
+A-19150-11890       AVX Antenna, Inc. dba EthertronicsCALIFORNIA          nan                 
+A-19151-12050       ERNST & YOUNG U.S. LLPNEW JERSEY          nan                 
+A-19154-13045       KAI OS TECHNOLOGIES (SOFTWARE) INC.CALIFORNIA          nan                 
+A-19155-13486       Presbyterian Homes and ServicesMINNESOTA           nan                 
+A-19155-13827       Presbyterian Homes and ServicesMINNESOTA           nan                 
+A-19156-13973       Presbyterian Homes and ServicesMINNESOTA           nan                 
+A-19157-15061       MICRON TECHNOLOGY, INC.IDAHO               nan                 
+A-19158-15145       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19158-15147       BLOOMBERG L.P.      NEW YORK            nan                 
+A-19158-15384       Minisoft Technologies LLCTEXAS               nan                 
+A-19161-15793       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19161-16190       RUMMEL KLEPPER & KAHL LLPMARYLAND            nan                 
+A-19161-16318       KULICKE & SOFFA INDUSTRIES INC.PENNSYLVANIA        nan                 
+A-19162-16522       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19163-17045       BLOOMBERG L.P.      NEW YORK            nan                 
+A-19163-17315       9M SOLUTIONS, INC.  NORTH CAROLINA      nan                 
+A-19163-17380       AMERICAN AIRLINES   TEXAS               nan                 
+A-19164-17700       ALIBABA GROUP (U.S.) INC.CALIFORNIA          nan                 
+A-19164-17716       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19164-17757       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19164-17970       FARO Technologies   FLORIDA             nan                 
+A-19164-18143       CITIBANK, N.A       NEW YORK            nan                 
+A-19165-18295       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19165-18388       FRANKLIN PRODUCTS, INC.CONNECTICUT         nan                 
+A-19168-18938       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19168-18960       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19168-18979       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19168-18997       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19168-19197       AMERICAN NATIONAL INSURANCE COMPANYTEXAS               nan                 
+A-19169-19586       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19169-19636       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19169-19657       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19169-19798       LINKEDIN CORPORATIONCALIFORNIA          nan                 
+A-19170-20176       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19170-20185       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19170-20209       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19170-20248       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19170-20470       AMADEUS NORTH AMERICA, INC.MASSACHUSETTS       nan                 
+A-19171-20768       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19171-20808       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19171-20850       ACCENTURE LLP       ILLINOIS            nan                 
+A-19171-20865       ESRI INC.           CALIFORNIA          nan                 
+A-19171-21045       SPLUNK              CALIFORNIA          nan                 
+A-19171-21052       THE PNC FINANCIAL SERVICES GROUPPENNSYLVANIA        nan                 
+A-19171-21100       ADS ALLIANCE DATA SYSTEMS, INC.TEXAS               nan                 
+A-19171-21213       UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCESARKANSAS            nan                 
+A-19171-21269       JUNIPER NETWORKS (US), INC.CALIFORNIA          nan                 
+A-19172-21387       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19172-21404       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19172-21567       PUTNAM U.S. HOLDINGS I, LLCMASSACHUSETTS       nan                 
+A-19172-21714       FASTLY, INC.        CALIFORNIA          nan                 
+A-19175-22024       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19175-22034       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19175-22051       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19175-22260       AMPERE COMPUTING LLCCALIFORNIA          nan                 
+A-19175-22375       CBRE, INC           TEXAS               nan                 
+A-19175-22485       ZOOM VIDEO COMMUNICATIONS, INC.CALIFORNIA          nan                 
+A-19175-22575       MITSUBISHI ELECTRIC AUTOMATION, INC.ILLINOIS            nan                 
+A-19176-22645       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19176-22674       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19176-22683       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19176-22747       Elephant Insurance  VIRGINIA            nan                 
+A-19176-23162       AMGEN INC.          CALIFORNIA          nan                 
+A-19176-23168       AVX Antenna, Inc. dba EthertronicsCALIFORNIA          nan                 
+A-19176-23196       AMGEN INC.          CALIFORNIA          nan                 
+A-19177-23269       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19177-23313       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19177-23715       THE OHIO UNIVERSITY OHIO                nan                 
+A-19177-23828       EXPRESS SCRIPTS SERVICES COMPANYMISSOURI            nan                 
+A-19177-23868       MICROSOFT CORPORATIONWASHINGTON          nan                 
+A-19177-23951       LENDINGCLUB CORPORATIONCALIFORNIA          nan                 
+A-19178-23989       BOX, INC.           CALIFORNIA          nan                 
+A-19178-23999       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19178-24042       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19178-24096       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19178-24458       BAHWAN CYBERTEK INC MASSACHUSETTS       nan                 
+A-19178-24524       AMERICAN AIRLINES   TEXAS               nan                 
+A-19179-24702       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19179-24718       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19179-24949       LOCK HAVEN UNIVERSITYPENNSYLVANIA        nan                 
+A-19179-24993       FIRST DATA RESOURCES, LLCGEORGIA             nan                 
+A-19179-25090       AK Information Technologies, Inc.ILLINOIS            nan                 
+A-19179-25225       JUNIPER NETWORKS    CALIFORNIA          nan                 
+A-19179-25243       IBM CORPORATION     NORTH CAROLINA      nan                 
+A-19179-25260       Finwell, Inc.       CALIFORNIA          nan                 
+A-19179-25297       LENDINGCLUB CORPORATIONCALIFORNIA          nan                 
+A-19182-25515       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19182-25541       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19182-25683       ATLASSIAN INC.      CALIFORNIA          nan                 
+A-19182-25819       TECHDEMOCRACY LLC   NEW JERSEY          nan                 
+A-19182-25887       AK Information Technologies, Inc.ILLINOIS            nan                 
+A-19182-25889       AMPERE COMPUTING LLCCALIFORNIA          nan                 
+A-19182-25937       The Ivy Advisors Dr. Jiang, LLCCALIFORNIA          nan                 
+A-19182-25944       AK Information Technologies, Inc.ILLINOIS            nan                 
+A-19182-25972       TASTE OF JAPAN, LLC WASHINGTON          nan                 
+A-19182-25983       BOATS GROUP         FLORIDA             nan                 
+A-19183-26039       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19183-26042       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19183-26142       HSBC BANK USA, N.A. NEW YORK            nan                 
+A-19183-26256       JP MORGAN CHASE & COILLINOIS            nan                 
+A-19184-26603       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19184-26706       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19184-26730       CEO Development LLC NEVADA              nan                 
+A-19184-26973       OAKRIDGE AUCTION GALLERYVIRGINIA            nan                 
+A-19184-27017       California Institute of the Arts dba CalArtsCALIFORNIA          nan                 
+A-19184-27025       Wave Inc            HAWAII              nan                 
+A-19185-27181       DELOITTE CONSULTING LLPPENNSYLVANIA        nan                 
+A-19185-27183       NATSOFT CORPORATION NEW JERSEY          nan                 
+A-19186-27201       DELOITTE CONSULTING LLPPENNSYLVANIA        nan                 
+A-19186-27239       DELOITTE CONSULTING LLPPENNSYLVANIA        nan                 
+A-19186-27264       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19186-27266       ADVANCED MICRO DEVICES, INC. (AMD)CALIFORNIA          nan                 
+A-19186-27311       Flex Films USA Inc  KENTUCKY            nan                 
+A-19188-27469       AmeriCloud Solutions Inc.ILLINOIS            nan                 
+A-19189-27539       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19189-27622       Cleveland Park KinderHausDISTRICT OF COLUMBIAnan                 
+A-19189-27690       ALTIMETRIK CORP     MICHIGAN            nan                 
+A-19189-27792       ARICENT N.A.INC     CALIFORNIA          nan                 
+A-19189-27834       ARICENT N.A.INC     CALIFORNIA          nan                 
+A-19189-27837       FAIR ISAAC CORPORATIONCALIFORNIA          nan                 
+A-19189-27844       OCEANIKA YACHTS INC FLORIDA             nan                 
+A-19189-27904       SOLARIS PHARMACEUTICALS LLCNEW JERSEY          nan                 
+A-19190-27967       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19190-27971       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19190-28038       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19190-28056       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19190-28092       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19190-28148       AHF Industries, dba : Pluto CorporationINDIANA             nan                 
+A-19190-28243       CIRAINFOTECH        GEORGIA             nan                 
+A-19190-28254       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19190-28377       ASURION             TENNESSEE           nan                 
+A-19190-28413       Flex Films USA Inc  KENTUCKY            nan                 
+A-19190-28435       AVERA MCKENNAN HOSPITAL & UNIVERSITY HEALTH CENTERSOUTH DAKOTA        nan                 
+A-19190-28525       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19191-28644       SYNECHRON           NEW YORK            nan                 
+A-19191-28656       AMAZON.COM SERVICES, INC.WASHINGTON          nan                 
+A-19191-28660       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19191-28661       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19191-28666       Chinese American Service LeagueILLINOIS            nan                 
+A-19191-28669       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19191-28841       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19191-28899       Flex Films USA Inc  KENTUCKY            nan                 
+A-19191-28992       MACYS.COM, LLC      CALIFORNIA          nan                 
+A-19191-29018       WU CONSTRUCTION INC WASHINGTON          nan                 
+A-19191-29062       TCG DIGITAL SOLUTIONS LLCNEW JERSEY          nan                 
+A-19191-29093       MACYS.COM, LLC      CALIFORNIA          nan                 
+A-19191-29096       INDEED INC.         TEXAS               nan                 
+A-19192-29371       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19192-29394       THE NIELSEN COMPANY (US), LLCNEW YORK            nan                 
+A-19192-29420       MACYS.COM, LLC      CALIFORNIA          nan                 
+A-19192-29429       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19192-29440       DPS GROUP GLOBAL    MASSACHUSETTS       nan                 
+A-19192-29481       AHS INFORMATION SERVICESFLORIDA             nan                 
+A-19192-29578       NTT DATA SERVICES, LLCTEXAS               nan                 
+A-19192-29657       ZIPALOG INC.        TEXAS               nan                 
+A-19192-29702       Argus Merchant Services LLCNEW YORK            nan                 
+A-19192-29769       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19192-29857       D'AMATO CONVERSANO INC. DBA DCI ENGINEERSWASHINGTON          nan                 
+A-19192-29859       DPR CONSTRUCTION, A GENERAL PARTNERSHIPCALIFORNIA          nan                 
+A-19193-29893       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19193-29937       ANALOG DEVICES INC. MASSACHUSETTS       nan                 
+A-19193-30056       THE PNC FINANCIAL SERVICES GROUPPENNSYLVANIA        nan                 
+A-19193-30081       CATCHAFIRE          NEW YORK            nan                 
+A-19193-30146       IDS Electrical Engineers, Inc.CALIFORNIA          nan                 
+A-19193-30207       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19193-30319       MICRON TECHNOLOGY, INC.IDAHO               nan                 
+A-19193-30356       CEDARS-SINAI MEDICAL CENTERCALIFORNIA          nan                 
+A-19193-30380       RANGER PIPELINES INCORPORATEDCALIFORNIA          nan                 
+A-19193-30396       Bangkok Joe's LLC   DISTRICT OF COLUMBIAnan                 
+A-19194-30426       AMPCUS INC          VIRGINIA            nan                 
+A-19195-30462       SATANTA DISTRICT HOSPITALKANSAS              nan                 
+A-19196-30444       INTEL CORPORATION   CALIFORNIA          nan                 
+A-19196-30483       CISCO SYSTEMS, INC. CALIFORNIA          nan                 
+A-19196-30742       BOOMI, INC.         TEXAS               nan                 
+A-19196-30819       ESRI INC.           CALIFORNIA          nan                 
+A-19196-31111       LYFT INC            CALIFORNIA          nan                 
+A-19197-31189       CUMMINS INC.        INDIANA             nan                 
+A-19197-31216       SYNECHRON           NEW YORK            nan                 
+A-19197-31245       CUMMINS INC.        INDIANA             nan                 
+A-19197-31452       GC ENGINEERING, INC.TEXAS               nan                 
+A-19197-31586       GLOBUS MEDICAL INC. PENNSYLVANIA        nan                 
+A-19197-31684       KAIZEN TECHNOLOGIES, INCNEW JERSEY          nan                 
+A-19197-31687       Austin Capital Trust Company LLCNEVADA              nan                 
+A-19197-31712       INDEPTH ENGINEERING SOLUTIONS, LLCMICHIGAN            nan                 
+A-19198-31826       CUMMINS INC.        INDIANA             nan                 
+A-19198-31832       CUMMINS INC.        INDIANA             nan                 
+A-19198-31863       Chinese American Service LeagueILLINOIS            nan                 
+A-19198-32029       INITECH GLOBAL, LLC MICHIGAN            nan                 
+A-19198-32067       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19198-32148       APTIV CORPORATION   MICHIGAN            nan                 
+A-19198-32150       MICROSOFT CORPORATIONWASHINGTON          nan                 
+A-19198-32176       GLU MOBILE INC      CALIFORNIA          nan                 
+A-19198-32227       Blount, Inc.        OREGON              nan                 
+A-19199-32349       EVEREST CONSULTING GROUP, INCNEW JERSEY          nan                 
+A-19199-32372       CUMMINS INC.        INDIANA             nan                 
+A-19199-32599       BARCLAYS BANK DELAWARENEW YORK            nan                 
+A-19199-32606       EXADEL, INC.        CALIFORNIA          nan                 
+A-19199-32677       BorderX Lab, Inc.   CALIFORNIA          nan                 
+A-19199-32725       THE KROGER CO.      OHIO                nan                 
+A-19199-32731       GLOBALLOGIC INC.    CALIFORNIA          nan                 
+A-19199-32742       DONGWON AUTOPART TECHNOLOGY GEORGIA, LLCGEORGIA             nan                 
+A-19199-32751       EMC CORPORATION     TEXAS               nan                 
+A-19199-32765       BENJAMIN MOORE & CO.NEW JERSEY          nan                 
+A-19199-32844       The Anderson Company, LLCVIRGINIA            nan                 
+A-19199-32879       ALFA SERVICES USA, INC.NEW YORK            nan                 
+A-19199-32893       FRACTAL ANALYTICS   NEW YORK            nan                 
+A-19199-32903       GM CRUISE LLC       CALIFORNIA          nan                 
+A-19200-33162       STRIPE, INC.        CALIFORNIA          nan                 
+A-19200-33294       RETAILMENOT, INC    TEXAS               nan                 
+A-19200-33391       The Anderson Company, LLCVIRGINIA            nan                 
+A-19200-33412       RIOT GAMES INC      CALIFORNIA          nan                 
+A-19200-33418       SAMSUNG RESEARCH AMERICA, INC.CALIFORNIA          nan                 
+A-19200-33420       AMERICAN GENERAL LIFE INSURANCE COMPANYNEW YORK            nan                 
+A-19200-33427       ZNA SERVICES LLC    ILLINOIS            nan                 
+A-19200-33445       AIRBNB, INC.        CALIFORNIA          nan                 
+A-19200-33460       CUPBOP CO           UTAH                nan                 
+A-19200-33466       AIRBNB, INC.        CALIFORNIA          nan                 
+A-19201-33494       TELECOMMUNICATION SYSTEMS, INC.MARYLAND            nan                 
+A-19201-33501       NEUSTAR INFORMATION SERVICES, INCVIRGINIA            nan                 
+A-19201-33507       NIIT TECHNOLOGIES LIMITEDGEORGIA             nan                 
+A-19201-33524       NEUSTAR             VIRGINIA            nan                 
+A-19202-33542       The Lawn Champs, LLCMISSOURI            nan                 
+A-19202-33564       The Lawn Champs, LLCMISSOURI            nan                 
+A-19202-33588       Capitotal Advisory IncNEW YORK            nan                 
+A-19202-33601       Jasmine Thai LLC    FLORIDA             nan                 
+A-19203-33663       KNACK SYSTEMS,LLC   NEW JERSEY          nan                 
+A-19203-33708       AIG ASSET MANAGEMENT (U.S.), LLCNEW YORK            nan                 
+A-19203-33815       LENDINGCLUB CORPORATIONCALIFORNIA          nan                 
+A-19203-33847       The Chemours Company FC, LLCDELAWARE            nan                 
+A-19203-33907       Randstad Technologies, LLCMASSACHUSETTS       nan                 
+A-19203-33909       DIVERSANT LLC       NEW JERSEY          nan                 
+A-19203-33952       APTUDE INC          ILLINOIS            nan                 
+A-19203-33963       DEEM, INC.          CALIFORNIA          nan                 
+A-19203-34012       ORPINE INC          GEORGIA             nan                 
+A-19203-34030       The Anderson Company, LLCVIRGINIA            nan                 
+A-19203-34069       SMARTTHINGS INC     CALIFORNIA          nan                 
+A-19204-34192       3I INFOTECH INC.    NEW JERSEY          nan                 
+A-19204-34315       ARKANSAS TECH UNIVERSITYARKANSAS            nan                 
+A-19204-34362       Aptim Environmental & Infrastructure, Inc.LOUISIANA           nan                 
+A-19204-34478       Macy's Systems and Technology, Inc.GEORGIA             nan                 
+A-19204-34504       RELIANCE GLOBAL SERVICESNEW JERSEY          nan                 
+A-19204-34578       EVEREST CONSULTING GROUP, INCNEW JERSEY          nan                 
+A-19204-34594       AIRBNB, INC.        CALIFORNIA          nan                 
+A-19204-34636       The Anderson Company, LLCVIRGINIA            nan                 
+A-19205-34715       QUALCOMM TECHNOLOGIES INC.CALIFORNIA          nan                 
+A-19205-34721       Daniel Lee & Co., IncCALIFORNIA          nan                 
+A-19205-34805       INGENWORKS INC      NEW JERSEY          nan                 
+A-19205-34884       N Y Property Insurance Underwriting AssociationNEW YORK            nan                 
+A-19205-34899       Humac, Inc.         ARIZONA             nan                 
+A-19205-34970       Dakota Provisions, LLCSOUTH DAKOTA        nan                 
+A-19205-34995       Dakota Provisions, LLCSOUTH DAKOTA        nan                 
+A-19205-35037       Dakota Provisions, LLCSOUTH DAKOTA        nan                 
+A-19205-35042       MONSANTO COMPANY    MISSOURI            nan                 
+A-19205-35045       Dakota Provisions, LLCSOUTH DAKOTA        nan                 
+A-19205-35113       NEMO IT SOLUTIONS, INCTEXAS               nan                 
+A-19205-35195       MIZUHO SECURITIES USA LLCNEW YORK            nan                 
+A-19205-35197       BITSIGHT TECHNOLOGIES, INC.MASSACHUSETTS       nan                 
+A-19205-35220       DMZ Builders        CALIFORNIA          nan                 
+A-19206-35395       QUICKEN LOANS INC.  MICHIGAN            nan                 
+A-19206-35411       OAKLAND UNIVERSITY  MICHIGAN            nan                 
+A-19206-35436       Raleigh General HospitalWEST VIRGINIA       nan                 
+A-19206-35444       MOBILENET SERVICES, INC.CALIFORNIA          nan                 
+A-19206-35475       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          nan                 
+A-19206-35522       INGENUS PHARMACEUTICALS, NJ, LLCNEW JERSEY          nan                 
+A-19206-35718       APPLIED CRYO TECHNOLOGIES, INC.TEXAS               nan                 
+A-19207-35909       Coast Dental of Texas, PCFLORIDA             nan                 
+A-19207-35915       QUALTRICS, LLC      UTAH                nan                 
+A-19207-35917       QUALTRICS, LLC      UTAH                nan                 
+A-19207-35938       NAVISTAR, INC.      ILLINOIS            nan                 
+A-19207-35950       Austin Industrial, Inc.TEXAS               nan                 
+A-19207-35952       Summit Landscape Group, LLCSOUTH CAROLINA      nan                 
+A-19207-35967       THE NIELSEN COMPANY (US), LLCNEW YORK            nan                 
+A-19207-35987       Rocket Homes Real Estate LLCMICHIGAN            nan                 
+A-19207-36014       QUEST GLOBAL SERVICES NA INCCONNECTICUT         nan                 
+A-19207-36016       SEAL COMPANY ENTERPRISES, INCOKLAHOMA            nan                 
+A-19207-36022       QUEST GLOBAL SERVICES NA INCCONNECTICUT         nan                 
+A-19207-36033       QUEST GLOBAL SERVICES NA INCCONNECTICUT         nan                 
+A-19207-36092       CIRO'S LANDSCAPING, INC.CALIFORNIA          nan                 
+A-19207-36105       SANRA SOLUTIONS INC CALIFORNIA          nan                 
+A-19207-36113       LIFE360 INC         CALIFORNIA          nan                 
+A-19207-36131       KIBOMI INC          CALIFORNIA          nan                 
+A-19207-36140       Automotive Lighting, LLCMICHIGAN            nan                 
+A-19207-36161       SUMITOMO MITSUI BANKING CORPORATIONNEW YORK            nan                 
+A-19207-36162       ONEOK SERVICES COMPANY, L.L.C.OKLAHOMA            nan                 
+A-19207-36177       MARK GONSENHAUSER RUGS & CARPETS, INC.VIRGINIA            nan                 
+A-19207-36228       MONSANTO COMPANY    MISSOURI            nan                 
+A-19207-36256       SILICON LABORATORIES INC.TEXAS               nan                 
+A-19207-36271       MIDWAY SUPPLY COMPANY, INC.TENNESSEE           nan                 
+A-19208-36336       KUTZTOWN UNIVERSITY PENNSYLVANIA        nan                 
+A-19208-36357       KEY SAFETY SYSTEMS, INC.MICHIGAN            nan                 
+A-19208-36359       J.C. PENNEY CORPORATION, INC.TEXAS               nan                 
+A-19208-36372       FANNIE MAE          DISTRICT OF COLUMBIAnan                 
+A-19210-36612       Jin Express Ltd     ILLINOIS            nan                 
+A-19210-36619       COMPUNNEL SOFTWARE GROUP, INC.NEW JERSEY          nan                 
+A-19210-36632       OAKLAND UNIVERSITY  MICHIGAN            nan                 
+A-19210-36711       MIDWAY SUPPLY COMPANY, INC.TENNESSEE           nan                 
+A-19210-36799       CIRO'S LANDSCAPING, INC.CALIFORNIA          nan                 
+A-19210-36898       FACEBOOK, INC.      CALIFORNIA          nan                 
+A-19210-36972       Legend Diamonds Inc CALIFORNIA          nan                 
+A-19211-37244       BUBBAS'S BAR-B-QUE  WYOMING             nan                 
+A-19211-37539       ESSENTIAL TECHNOLOGIES, INC.GEORGIA             nan                 
+A-19212-37773       Excellent Facets IncNEW YORK            nan                 
+A-19212-37886       EXPEDENT CORP       TEXAS               nan                 
+A-19242-51661       JORGE CAMPA         FLORIDA             nan                 
+A-19253-56032       Catchpoint          NEW YORK            nan                 
+A-19253-56261       ACCENTURE LLP       ILLINOIS            nan                 
+A-19261-59992       Main Street Subs & Salads, LLCWISCONSIN           nan                 
+A-19266-61558       VIRTUSA CORPORATION MASSACHUSETTS       nan                 

@@ -1,0 +1,500 @@
+A-15314-37775       JUMP OPERATIONS     IL                  105102              
+A-15295-31438       CORNERSTONE ONDEMAND, INC.CA                  87818               
+A-15324-42108       MINDTREE LIMITED    NJ                  90938               
+A-15306-34848       AON SERVICE CORPORATIONIL                  102669              
+A-15306-34878       ASTIR IT SOLUTIONS, INCNJ                  123490              
+A-15286-27628       VMWARE, INC.        CA                  120349              
+A-15286-27668       VMWARE, INC.        CA                  98342               
+A-15286-27682       VMWARE, INC.        CA                  120349              
+A-15324-42182       USA WASTE MANAGEMENT RESOURCES, LLCTX                  113464              
+A-15324-42265       AVCO CONSULTING INC MA                  86882               
+A-15324-42301       GOOGLE INC.         CA                  99939               
+A-15325-42343       AVCO CONSULTING INC MA                  86882               
+A-15309-36317       CERNER CORPORATION  MO                  62608               
+A-15271-22858       KFORCE INC.         FL                  74672               
+A-15268-21987       Sterling Software IncMI                  79539               
+A-15293-30353       KFORCE INC.         FL                  59093               
+A-15293-30402       KFORCE INC.         FL                  74672               
+A-15292-29901       PROFICIENT BUSINESS SYSTEMS, INC.GA                  93371               
+A-15292-29958       KFORCE INC.         FL                  74672               
+A-15283-27079       KFORCE INC.         FL                  74672               
+A-15247-14830       HCL AMERICA INC.    CA                  111114              
+A-15328-43198       AVCO CONSULTING INC MA                  86882               
+A-15308-35989       KFORCE INC.         FL                  74672               
+A-16048-73911       GRAINGER MANAGEMENT LLCIL                  66518               
+A-16048-73913       MPHASIS CORPORATION NY                  91562               
+A-16048-73920       MICROSOFT CORPORATIONWA                  84739               
+A-16048-73933       TEKPROS INC         TX                  98883               
+A-16048-73935       GOOGLE INC.         CA                  98342               
+A-16048-73943       COMPUTER SOLUTIONS AND TECHNOLOGIES LLCNJ                  103626              
+A-16048-73946       GOOGLE INC.         CA                  99939               
+A-16048-73926       LINKEDIN CORPORATIONCA                  120349              
+A-16048-73955       MICROSOFT CORPORATIONWA                  117458              
+A-16048-73957       CLAIRVOYANT, LLC    AZ                  74984               
+A-16048-73958       WAYNSYS INC         NJ                  83741               
+A-15320-39832       STAT9 TECHNOLOGIES INC.NC                  79498               
+A-15320-39923       GOOGLE INC.         CA                  99939               
+A-15327-42913       XCEED INFOTEK, INC. AZ                  73258               
+A-16035-69187       YAHOO! INC.         CA                  138251              
+A-15267-21489       FMR LLC             MA                  85919               
+A-15342-47793       MICROSOFT CORPORATIONWA                  84739               
+A-15342-47811       MICROSOFT CORPORATIONWA                  101088              
+A-15342-47893       MICROSOFT CORPORATIONWA                  133806              
+A-15342-47885       MICROSOFT CORPORATIONWA                  84739               
+A-15342-47973       QUADGEN WIRELESS SOLUTIONS INCPA                  81619               
+A-15342-47962       MICROSOFT CORPORATIONWA                  101088              
+A-16047-73214       SVAM INTERNATIONAL INCNY                  72384               
+A-16047-73227       IRIS SOFTWARE, INC. NJ                  123490              
+A-16047-73228       WORLDSCAPE INC      CA                  121202              
+A-16047-73232       DB GLOBAL TECHNOLOGYNC                  110698              
+A-16047-73237       QUALITY SOFTWARE SERVICES INCMD                  92061               
+A-16047-73240       PHYSICIANS MUTUAL   NE                  54766               
+A-16047-73246       CAPITAL ONE SERVICES, LLCVA                  68931               
+A-16047-73261       IAC SEARCH & MEDIA, INC.CA                  121202              
+A-16047-73298       CAPITAL ONE SERVICES, LLCVA                  88878               
+A-16011-59670       CAPITAL ONE SERVICES II LLCVA                  97531               
+A-16011-59789       MICROSOFT CORPORATIONWA                  101088              
+A-16011-59812       MICROSOFT CORPORATIONWA                  101088              
+A-16053-75302       MASTECH, INC., A MASTECH HOLDINGS, INC. COMPANYPA                  101712              
+A-16053-75359       PROTEGE LLC         VA                  127379              
+A-16053-75476       COMPUTER SCIENCES CORPORATIONVA                  103626              
+A-16054-75896       GOOGLE INC.         CA                  120349              
+A-16054-76034       PALANTIR TECHNOLOGIESCA                  91562               
+A-16054-76041       PALANTIR TECHNOLOGIESCA                  91562               
+A-16054-76043       PALANTIR TECHNOLOGIESCA                  91562               
+A-16054-76069       YAHOO! INC.         CA                  117388              
+A-16054-76084       MASTERBRAND CABINETS, INCIN                  106870              
+A-16060-78100       MAXIMA CONSULTING INCMA                  112632              
+A-16060-78103       PYRAMID TECHNOLOGY SOLUTIONS, INC.IN                  105997              
+A-16060-78211       HOWMEDICA OSTEONICS CORP/STRYKER ORTHONJ                  88005               
+A-15344-48939       MICROSOFT CORPORATIONWA                  117458              
+A-15344-49005       MICROSOFT CORPORATIONWA                  84739               
+A-15344-49027       MONITISE AMERICAS, INC.CA                  117603              
+A-15344-49039       ELITE IT SOLUTIONS INCIL                  89149               
+A-16061-78445       Bitwise Inc.        IL                  50856               
+A-16061-78594       COLUMBIA I.S. CONSULTING GROUP INC.CT                  123552              
+A-15280-25763       CERNER CORPORATION  MO                  62608               
+A-16062-79148       BLANCCO US, LLC     GA                  75338               
+A-16063-79476       COMTEC CONSULTANTS, INCLA                  106350              
+A-15299-32575       ERICSSON INC.       TX                  83741               
+A-16060-77914       CITIZENS PROPERTY INSURANCE CORP.FL                  88130               
+A-16063-80076       CALIFORNIA CREATIVE SOLUTIONS, INCCA                  107786              
+A-15363-55164       MICROSOFT CORPORATIONWA                  117458              
+A-15363-55191       MINDTREE LIMITED    NJ                  103626              
+A-15363-55215       SYNECHRON           FL                  103626              
+A-15363-55240       MICROSOFT CORPORATIONWA                  117458              
+A-15363-55248       MICROSOFT CORPORATIONWA                  84739               
+A-15363-55263       MICROSOFT CORPORATIONWA                  101088              
+A-15363-55292       MICROSOFT CORPORATIONWA                  101088              
+A-15363-55333       SYNTHESIS SYSTEMS, INC.CA                  142376              
+A-15363-55430       MICROSOFT CORPORATIONWA                  101088              
+A-15363-55453       MICROSOFT CORPORATIONWA                  101088              
+A-16065-80650       1WAYSOLUTIONS, INC  GA                  93371               
+A-16065-80667       3S BUSINESS CORPORATIONTX                  82618               
+A-16011-59513       BLOOMBERG L.P.      NY                  91562               
+A-16068-81880       AMAZON CORPORATE LLCWA                  101088              
+A-16068-81931       GYFT, INC           CA                  164382              
+A-16069-82064       4TH SOURCE          FL                  71594               
+A-16055-76585       SEAGATE US LLC      CA                  98966               
+A-16055-76609       CLASSPASS, INC.     NY                  138362              
+A-16056-76741       FUJITSU AMERICA, INC.TX                  115794              
+A-16056-76767       INTERNATIONAL PAPER COMPANYTN                  95326               
+A-16056-76748       FUJITSU AMERICA, INC.TX                  115794              
+A-16056-76789       PAYPAL, INC.        CA                  99357               
+A-16056-76822       FUJITSU AMERICA, INC.TX                  115794              
+A-16045-72965       THE MATHWORKS, INC. MA                  81973               
+A-16046-72989       SUPRASOFT, INC      IL                  87027               
+A-16046-72990       PROSOFT ASSOCIATES, INCDC                  127379              
+A-16046-72998       International Technology Solutions, IncSC                  88816               
+A-16019-62743       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16068-81493       AMAZON CORPORATE LLCWA                  101088              
+A-16068-81827       ARM, INC.           CA                  164382              
+A-15342-47634       CAPITAL ONE SERVICES II LLCVA                  93392               
+A-15362-54708       NETRA TECHNOLOGIES, INCIL                  105102              
+A-15362-54722       Quest IT Solutions, IncTX                  82618               
+A-15327-42609       BOX, INC.           CA                  98342               
+A-15327-42571       LORHAN CORPORATION INC.NJ                  83741               
+A-15339-46925       INFOSMART SYSTEMS, INC.TX                  96866               
+A-15340-47040       ADOBE SYSTEMS INCORPORATEDCA                  91686               
+A-15341-47148       GROUPON, INC.       IL                  142376              
+A-15364-55779       CAPITAL ONE SERVICES, LLCVA                  88878               
+A-15364-55827       TIBCO SOFTWARE INC. CA                  120349              
+A-15364-55797       BARCLAYS BANK DELAWAREDE                  84635               
+A-15364-55861       CAPITAL ONE SERVICES, LLCVA                  84635               
+A-15364-55887       HOMESITE GROUP, INCORPORATEDMA                  93517               
+A-15364-55891       MICROSOFT CORPORATIONWA                  120349              
+A-15364-55897       MICROSOFT CORPORATIONWA                  101088              
+A-15364-55949       FMR LLC             MA                  84531               
+A-15364-55981       MICROSOFT CORPORATIONWA                  117458              
+A-15364-55983       MICROSOFT CORPORATIONWA                  101088              
+A-15364-56011       MICROSOFT CORPORATIONWA                  101088              
+A-15365-56055       CAPITAL ONE SERVICES, LLCVA                  81952               
+A-15336-45298       BIRLASOFT INC       NJ                  123490              
+A-16041-71655       GLOBAL SHOP SOLUTIONS, INC.TX                  67184               
+A-15345-49792       JSMN INTERNATIONAL, INC.NJ                  130666              
+A-15345-49814       INSPUR USA INC      WA                  133806              
+A-15345-49925       MICROSOFT CORPORATIONWA                  117458              
+A-15345-49947       MICROSOFT CORPORATIONWA                  101088              
+A-16007-58278       ALCON LABORATORIES, INC.TX                  87859               
+A-15343-48679       MINDTREE LIMITED    NJ                  74984               
+A-15343-48817       FACEBOOK, INC.      CA                  96866               
+A-15343-48818       WORKDAY, INC.       CA                  121202              
+A-16020-62983       APPLE INC.          CA                  120349              
+A-16020-63065       3Cube Solutions Inc VA                  88878               
+A-15268-21747       DELTA INFORMATION SYSTEMS, INC.GA                  93371               
+A-16006-57708       NETRA TECHNOLOGIES, INCIL                  105102              
+A-16006-57770       INSPERITY SERVICES, LPTX                  113464              
+A-16006-57893       AEROHIVE NETWORKS INCCA                  164382              
+A-16006-57894       ANN TAYLOR, INC.    NY                  130666              
+A-16006-57929       NETRA TECHNOLOGIES, INCIL                  105102              
+A-16012-59976       AMAZON CORPORATE LLCWA                  101088              
+A-15348-50472       COURSERA, INC.      CA                  120349              
+A-16005-57115       APPLE INC.          CA                  164382              
+A-16019-62567       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15309-36175       SEARS HOLDINGS MANAGEMENT CORPORATIONIL                  68931               
+A-15309-36201       CERNER CORPORATION  MO                  62608               
+A-15328-43289       AVCO CONSULTING INC MA                  86882               
+A-15328-43406       SPARTA CONSULTING   CA                  95098               
+A-15328-43488       APPLE INC.          CA                  120349              
+A-15329-43772       MICROSOFT CORPORATIONWA                  117458              
+A-16034-68855       MICROSOFT CORPORATIONWA                  101088              
+A-16004-56520       MICROSOFT CORPORATIONWA                  84739               
+A-15322-41185       NAEHAS, INC.        CA                  142376              
+A-15323-41315       KENNEDY INTERNATIONAL SOFTWARE, INCTX                  82618               
+A-15313-37230       MALLA SYSTEMS INC DBA EFULGENTAZ                  73258               
+A-15365-56136       MICROSOFT CORPORATIONWA                  84739               
+A-15365-56141       MICROSOFT CORPORATIONWA                  101088              
+A-15365-56149       JASPER TECHNOLOGIES, INC.CA                  115956              
+A-15365-56170       STAPLES, INC.       MA                  119226              
+A-15365-56206       CAPITAL ONE SERVICES, LLCVA                  74776               
+A-15357-54064       1WAYSOLUTIONS, INC  GA                  93371               
+A-15357-54316       MICROSOFT CORPORATIONWA                  84739               
+A-15357-54384       YOURPEOPLE, INC. D/B/A ZENEFITSCA                  96866               
+A-15358-54399       NET ESOLUTIONS CORPORATIONVA                  127379              
+A-15358-54427       DEPOSITORY TRUST & CLEARING CORPORATIONNY                  105810              
+A-15358-54504       CAPITAL ONE SERVICES, LLCVA                  88878               
+A-15358-54466       MICROSOFT CORPORATIONWA                  120349              
+A-16035-69422       SUNMERGE SYSTEMS INC.NJ                  103626              
+A-16035-69433       CAPGEMINI FINANCIAL SERVICES USA INC.IL                  87027               
+A-16035-69463       CAPGEMINI FINANCIAL SERVICES USA INC.IL                  87027               
+A-16035-69593       CALIFORNIA CREATIVE SOLUTIONS, INCCA                  107786              
+A-15231-09875       GUITAR CENTER, INC. CA                  120453              
+A-15270-22261       KFORCE INC.         FL                  74672               
+A-15271-22381       KFORCE INC.         FL                  74672               
+A-16036-70017       RESOURCE LOGISTICS, INC.NJ                  123490              
+A-15316-38707       Numentica LLC       CA                  87818               
+A-15363-55493       MICROSOFT CORPORATIONWA                  101088              
+A-15363-55548       VERIZON COMMUNICATIONS INC., & ALL ITS SUBSIDIARIES & AFFILIATESNY                  74672               
+A-15364-55588       CITIUSTECH INC      NJ                  111259              
+A-15364-55633       CAPITAL ONE SERVICES II LLCVA                  84635               
+A-15364-55691       MICROSOFT CORPORATIONWA                  117458              
+A-15364-55698       CAPITAL ONE SERVICES, LLCVA                  74776               
+A-15364-55739       MICROSOFT CORPORATIONWA                  101088              
+A-15294-30930       KFORCE INC.         FL                  74672               
+A-15294-31027       KFORCE INC.         FL                  59093               
+A-15338-46633       MICROSOFT CORPORATIONWA                  133806              
+A-16074-84254       ANNIK INC           WA                  117458              
+A-16075-84804       3S BUSINESS CORPORATIONTX                  82618               
+A-16091-91478       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91529       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91483       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91493       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91494       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91498       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91501       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91547       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91552       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16091-91573       SHAMROCK FOODS COMPANYAZ                  59010               
+A-16078-86215       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16078-86270       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16070-82628       AMAZON CORPORATE LLCWA                  101088              
+A-16084-88853       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16084-88865       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16082-87691       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16082-87724       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16082-87734       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16083-88093       COMPUWEIGH CORPORATIONCT                  55827               
+A-16089-90420       Bizible, Inc.       WA                  84739               
+A-16089-90422       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90425       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90546       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90614       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90624       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90707       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90727       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16084-88901       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16084-88948       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16083-88299       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16084-88529       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16084-88574       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16084-88576       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-91036       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-91060       MASTECH, INC., A MASTECH HOLDINGS, INC. COMPANYPA                  101712              
+A-16088-90037       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16088-90099       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16088-90145       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16088-89888       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16088-89989       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16089-90721       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-90889       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-90873       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-90876       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-90909       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16090-90912       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15191-96922       MICROSOFT CORPORATIONWA                  132142              
+A-15140-78391       MICROSOFT CORPORATIONWA                  83138               
+A-16007-58217       RELIABLE SOFTWARE RESOURCES INCMI                  104666              
+A-16042-72140       BLACKHAWK NETWORK, INC.CA                  143645              
+A-15362-54914       GENERAL ELECTRIC COMPANYCA                  143645              
+A-16055-76338       Ayres Grill, Inc.   CA                  100672              
+A-15352-52885       AIRBNB, INC.        CA                  120390              
+A-15314-37909       VMWARE, INC.        CA                  99466               
+A-15344-49101       MIRACLE SOFTWARE SYSTEMS INC.MI                  104666              
+A-16067-81119       ARRAY NETWORKS, INC.CA                  119350              
+A-15322-40931       SPLUNK              CA                  102357              
+A-15323-41745       ORACLE AMERICA, INC.CA                  64813               
+A-15315-38203       ORACLE AMERICA, INC.CA                  89364               
+A-15308-35765       MENTOR GRAPHICS CORPORATIONOR                  119288              
+A-16048-73865       3DNA Corp           CA                  100672              
+A-16048-73937       NETAPP, INC.        CA                  99195               
+A-16035-69236       YAHOO! INC.         CA                  136266              
+A-16035-69317       YAHOO! INC.         CA                  102619              
+A-16035-69342       YAHOO! INC.         CA                  103691              
+A-15245-14328       VIMEO LLC           NY                  134909              
+A-15294-30772       AT&T SERVICES, INC. TX                  99466               
+A-15302-33870       Plutus Financial, IncCA                  119350              
+A-16011-59731       GOLDMAN SACHS SERVICES LLCNJ                  113693              
+A-16053-75358       KNOWLES ELECTRONICS, LLC.IL                  138403              
+A-16060-78237       NETAPP, INC.        CA                  116822              
+A-16005-56949       DROPBOX, INC.       CA                  120390              
+A-15363-55271       ACXIOM CORPORATION  AR                  102357              
+A-15363-55442       NOKIA SOLUTIONS AND NETWORKS US LLCTX                  100277              
+A-16055-76596       YAHOO! INC.         CA                  103691              
+A-16045-72950       INFOBLOX            CA                  157477              
+A-15317-39323       ORACLE AMERICA, INC.CA                  112965              
+A-15327-42648       MICROSOFT CORPORATIONWA                  115814              
+A-15364-55989       APPLE INC.          CA                  157477              
+A-15364-55999       SALESFORCE.COM      CA                  120390              
+A-15365-56047       VMWARE, INC.        CA                  119350              
+A-15345-49823       MICROSOFT CORPORATIONWA                  119350              
+A-16007-58269       MIRACLE SOFTWARE SYSTEMS INC.MI                  104666              
+A-16006-57832       VMWARE, INC.        CA                  119350              
+A-16006-57880       APPLE INC.          CA                  119350              
+A-15313-37270       APPDYNAMICS         CA                  120390              
+A-15338-46632       NOKIA USA INC.      CA                  157477              
+A-16055-76356       NETAPP, INC.        CA                  126464              
+A-15201-99762       TECH MAHINDRA (AMERICAS) INC., (FORMERLY MBT INTERNATIONAL, INC.)TX                  52478               
+A-16006-58058       PROSPER MARKETPLACE CA                  88650               
+A-16007-58218       PLAYTIKA SANTA MONICA, LLCCA                  108992              
+A-15288-28963       RELIABLE SOFTWARE RESOURCES INCMI                  69514               
+A-16067-80770       COMTEC CONSULTANTS, INCLA                  72966               
+A-16007-58392       VIRGO INC           PA                  63461               
+A-15085-61848       ACXIOM CORPORATION  AR                  66976               
+A-16166-21368       L&T TECHNOLOGY SERVICES LIMITEDNJ                  79019               
+A-15078-60201       MICROSOFT CORPORATIONWA                  75525               
+A-15208-02510       MICROSOFT CORPORATIONWA                  58386               
+A-15344-49256       NOKIA SOLUTIONS AND NETWORKS US LLCTX                  78900               
+A-15232-10242       MICROSOFT CORPORATIONWA                  87838               
+A-15310-36660       APPLIED THOUGHT AUDITORS AND CONSULTANT, INCFL                  77563               
+A-15328-43085       NOKIA SOLUTIONS AND NETWORKS US LLCTX                  100110              
+A-16064-80220       AIG Technologies, Inc.NY                  89856               
+A-16045-72974       SCEPTER TECHNOLOGIES INCMD                  94245               
+A-15327-42623       BOX, INC.           CA                  82576               
+A-16088-89949       MICROSOFT CORPORATIONWA                  66789               
+A-15288-29048       Edge Technology Group LLCCT                  77605               
+A-15344-49086       PAYPAL DATA SERVICES, INC.TX                  100173              
+A-15345-49735       LUMOS NETWORKS CORP.VA                  80018               
+A-15340-47030       DEMANDWARE, INC.    MA                  64834               
+A-16048-73690       GUARDIAN ANALYTICS  CA                  118830              
+A-15299-32255       KFORCE INC.         FL                  62088               
+A-15323-41417       VMWARE, INC.        CA                  128098              
+A-15295-31111       KFORCE INC.         FL                  62088               
+A-16005-57009       CAPITAL ONE SERVICES, LLCVA                  82472               
+A-15300-32767       KFORCE INC.         FL                  62088               
+A-16055-76523       BMC SOFTWARE, INC.  TX                  104198              
+A-15360-54631       DROPBOX, INC.       CA                  56555               
+A-15345-49800       KFORCE INC.         FL                  62088               
+A-16007-58358       KFORCE INC.         FL                  62088               
+A-16006-57935       KFORCE INC.         FL                  62088               
+A-15348-50417       MASTERCARD INTERNATIONAL INCORPORATEDNY                  68141               
+A-15329-43654       EFIIA CONSULTING LLCDC                  122824              
+A-16085-89046       360 It Professionals, IncCA                  80995               
+A-16048-73944       EASTMAN CHEMICAL COMPANYTN                  47299               
+A-15365-56119       CAPITAL ONE SERVICES II LLCVA                  66934               
+A-15316-38686       INNOVATIVE SCHEDULING, LLCFL                  52790               
+A-16091-91590       L&W Supply CorporationIL                  83554               
+A-16064-80526       84.51 LLC           OH                  62608               
+A-16006-57609       GOOGLE INC.         CA                  96423               
+A-16049-74559       PHILIPS ULTRASOUND, INC.WA                  54954               
+A-15335-44881       SEARS HOLDINGS MANAGEMENT CORPORATIONIL                  72467               
+A-15328-43090       THE PNC FINANCIAL SERVICES GROUPPA                  45573               
+A-15342-47896       MICROSOFT CORPORATIONWA                  59093               
+A-15338-46757       MICROSOFT CORPORATIONWA                  59093               
+A-15300-32891       KFORCE INC.         FL                  34965               
+A-15345-49931       MICROSOFT CORPORATIONWA                  59093               
+A-15344-48822       WORKDAY, INC.       CA                  107390              
+A-16034-68869       ELEMENTUM SCM, INC. CA                  89440               
+A-15364-55708       Earl Swensson Associates, Inc.TN                  33696               
+A-16054-76085       Andrea Cochran Landscape Architecture, Inc.CA                  101733              
+A-16054-76113       Andrea Cochran Landscape Architecture, Inc.CA                  101733              
+A-16053-75294       class A surfacing llcMI                  108722              
+A-16160-19160       BOSTON SCIENTIFIC   MA                  57013               
+A-16060-78167       HOWMEDICA OSTEONICS CORP/STRYKER ORTHONJ                  93496               
+A-11034-51958       DOUBLETREE PAPER MILLS LLCAZ                  90397               
+A-16043-72718       AI ENGINEERS, INC.  CT                  75837               
+A-16055-76584       AB CONSULTANTS, INC MD                  77397               
+A-15103-66215       MICROSOFT CORPORATIONWA                  128066              
+A-15344-49404       MICROSOFT CORPORATIONWA                  105331              
+A-16011-59693       MICROSOFT CORPORATIONWA                  128066              
+A-15335-45179       MICROSOFT CORPORATIONWA                  59883               
+A-15343-48683       MICROSOFT CORPORATIONWA                  82618               
+A-15302-33838       TELECOM TECHNOLOGY SERVICES, INC.CA                  131622              
+A-15302-33977       TELECOM TECHNOLOGY SERVICES, INC.CA                  131622              
+A-16060-77998       Gulf States Engineering Inc.AL                  94930               
+A-15201-99743       PWRSOLUTIONS, INC.  TX                  77875               
+A-15224-07633       M.C.DEAN, INC.      VA                  64938               
+A-15344-49434       APPLE INC.          CA                  109658              
+A-15315-38182       CROWN CASTLE USA, INC.PA                  67704               
+A-15308-35803       ABB INC.            NC                  96491               
+A-15363-55202       QUADGEN WIRELESS SOLUTIONS INCPA                  82056               
+A-15358-54464       QUADGEN WIRELESS SOLUTIONS INCPA                  82056               
+A-14127-67290       OMNIVISION TECHNOLOGIES, INC.CA                  106766              
+A-14296-18886       INTEL CORPORATION   CA                  82285               
+A-15181-93411       OMNIVISION TECHNOLOGIES, INC.CA                  108992              
+A-15181-93417       OMNIVISION TECHNOLOGIES, INC.CA                  108992              
+A-15217-05698       STMICROELECTRONICS, INC.TX                  83569               
+A-16029-66896       AVAGO TECHNOLOGIES  CA                  112458              
+A-16069-82418       GLOBALFOUNDRIES U.S. INC.CA                  80642               
+A-16056-77047       ARM, INC.           CA                  68661               
+A-16057-77655       AUTOLIV ASP, INC.   MI                  73278               
+A-16028-66692       AVAGO TECHNOLOGIES  CA                  110860              
+A-16050-74670       GLOBALFOUNDRIES U.S. INC.CA                  110597              
+A-15266-21129       INVENSENSE, INC.    CA                  108992              
+A-16048-73939       BAREFOOT NETWORKS, INC.CA                  152131              
+A-15327-42745       ARM, INC.           CA                  85779               
+A-16038-70201       APPLE INC.          CA                  108992              
+A-16042-72329       COVENTOR, INC.      NC                  112632              
+A-16011-59749       APPLE INC.          CA                  142814              
+A-16053-75319       KNOWLES ELECTRONICS, LLC.IL                  152131              
+A-15243-13212       CYMER LLC           CA                  110448              
+A-16039-70421       APPLE INC.          CA                  108992              
+A-15350-51421       INTEL CORPORATION   CA                  85779               
+A-15302-33997       INTEL MOBILE COMMUNICATIONS, INC.CA                  88834               
+A-16091-91555       SAMSUNG SEMICONDUCTOR, INC.CA                  130562              
+A-16091-91579       Dialog Semiconductor Inc.CA                  109720              
+A-15201-99897       INTEGRATED MANAGEMENT SERVICES, PAMS                  63773               
+A-16067-80920       BLACK & VEATCH CORPORATIONKS                  109054              
+A-15175-90804       TÜV SÜD AMERICA INC MA                  66102               
+A-16050-74897       HERAEUS PRECIOUS METALS NORTH AMERCIA DAYCHEM, LLCNY                  67267               
+A-16048-73918       CUMMINS INC.        IN                  72134               
+A-16056-76736       ALTAIR PRODUCTDESIGN, INC.MI                  88088               
+A-15329-43597       NAN YA PLASTICS CORPORATION, AMERICASC                  64522               
+A-15357-54330       AVAGO TECHNOLOGIES  CA                  89294               
+A-15302-33901       M3 ENGINEERING & TECHNOLOGY CORPAZ                  110989              
+A-16080-86692       FREESCALE SEMICONDUCTOR, INC.TX                  85966               
+A-16067-81067       BENTELER AUTOMOTIVE CORPORATIONMI                  51605               
+A-15170-88881       ASSOCIATED WINERY SYSTEMSCA                  67434               
+A-15170-88885       PROSPERO EQUIPMENT CORPORATIONNY                  61589               
+A-15308-35736       FORD MOTOR COMPANY  MI                  74518               
+A-15356-53734       NIKKISO CRYO, INC.  NV                  93995               
+A-16036-69665       BLACK & VEATCH CORPORATIONKS                  86902               
+A-15348-50193       CONTROL COMPONENTS INC.CA                  96450               
+A-16045-72957       Pro-Tech Sales Co., Inc.IL                  71885               
+A-16091-91462       DNV GL Energy Services USA, Inc.MA                  68474               
+A-16091-91488       OPTIMAL INC.        MI                  93850               
+A-13102-55352       SKM SYSTEMS ANALYSIS INC.CA                  72592               
+A-16047-73255       TECHNOLOGY HOLDING, LLCUT                  63627               
+A-15338-46825       PIC USA, INC.       TN                  77189               
+A-16047-73543       Brooklyn Imports, Inc.NJ                  45802               
+A-15313-37265       MISSISSIPPI STATE UNIVERSITYMS                  41267               
+A-16091-91425       METRUM RESEARCH GROUP LLCCT                  64355               
+A-14300-19796       COSMETICS & PERFUME FILLING & PACKAGING, INC.NJ                  51064               
+A-15161-84862       SCIEGEN PHARMACEUTICALS, INC.NY                  89419               
+A-15266-20876       CMIC, INC.          IL                  70845               
+A-16055-76612       TECO DIAGNOSTICS    CA                  47798               
+A-15338-46504       NOVEL LABORATORIES, INC.NJ                  51064               
+A-15268-21824       LINN OPERATING, INC TX                  80538               
+A-16056-77195       AIG EMPLOYEE SERVICES, INC.NY                  70054               
+A-16007-58352       Campbellsville UniversityKY                  26520               
+A-16162-20616       BETHANY PRESBYTERIAN CHURCHMD                  45011               
+A-16091-91692       CHOONG SHIN EVANGELICAL CHURCH OF LOS ANGELESCA                  30534               
+A-16090-91116       Korean Presbyterian Church of Corpus ChristiTX                  58656               
+A-16007-58224       INDIUM CORPORATION OF AMERICANY                  157539              
+A-16048-73806       BOIES, SCHILLER & FLEXNER LLPNY                  124426              
+A-16047-73295       NHEGA LLC           NY                  124426              
+A-16055-76369       ARIZONA STATE UNIVERSITYAZ                  41910               
+A-15341-47259       UNIVERSITY OF CENTRAL OKLAHOMAOK                  31850               
+A-16047-73442       NORTHWESTERN UNIVERSITYIL                  29010               
+A-16053-75269       UNIVERSITY OF KANSASKS                  32480               
+A-16076-85204       CALIFORNIA STATE POLYTECHNIC UNIVERSITY, POMONACA                  100008              
+A-15148-80449       WESTFIELD STATE UNIVERSITYMA                  71814.56            
+A-15223-07363       THE UNIVERSITY OF OKLAHOMAOK                  27790               
+A-16070-83036       BOISE STATE  UNIVERSITYID                  29000               
+A-15265-20480       PURDUE UNIVERSITY   IN                  58070               
+A-15301-33208       PURDUE UNIVERSITY   IN                  52280               
+A-16067-81276       CALIFORNIA POLYTECHNIC STATE UNIVERSITYCA                  70008               
+A-15259-18458       LSU AGRICULTURAL CENTERLA                  50040               
+A-16028-66717       CALIFORNIA POLYTECHNIC STATE UNIVERSITYCA                  70008               
+A-15230-09675       UNIVERSITY OF CALIFORNIA, LOS ANGELESCA                  68790               
+A-16075-84395       COLUMBIA INTERNATIONAL COLLEGENY                  62380               
+A-15344-49339       UNIVERSITY OF NEVADA, RENONV                  34730               
+A-16053-75352       EMORY UNIVERSITY    GA                  48300               
+A-16067-80860       AUSTIN PEAY STATE UNIVERSITYTN                  29920               
+A-16011-59753       TEXAS TECH UNIVERSITYTX                  21670               
+A-16056-76806       THE UNIVERSITY OF WISCONSIN AT WHITEWATERWI                  43590               
+A-15153-81860       WESTFIELD STATE UNIVERSITYMA                  59028.15            
+A-15348-50184       WEST VIRGINIA UNIVERSITYWV                  35910               
+A-07089-23725       THE UNIVERSITY OF OKLAHOMAOK                  28550               
+A-15310-36929       Culinary Institute Inc.TX                  63232               
+A-16062-79462       Blair Helicopter Services, Inc.CA                  64043               
+A-16047-73205       KNOWLEDGE RESOURCES GROUP, INC.GA                  42160               
+A-15007-39885       KENT STATE UNIVERSITYOH                  40000               
+A-15365-55963       UNIVERSITY OF SOUTH FLORIDAFL                  40498               
+A-16076-85233       CALIFORNIA LUTHERAN UNIVERSITYCA                  47299               
+A-16091-91619       PAGANO MEDIA, INC.  MA                  52478               
+A-15315-38226       GOOGLE INC.         CA                  66144               
+A-15338-46893       APPLE INC.          CA                  85925               
+A-15237-11404       Mischief International Inc.NJ                  78291               
+A-16047-73382       TRABEN USA,INC.     CA                  33904               
+A-15293-30433       KIRK NIX ASSOCIATES INCCA                  34715               
+A-15273-23627       EES Energy Solutions, LLCFL                  36504               
+A-15308-35939       Spotlight Concept, Inc.CA                  71926               
+A-15294-30910       St. Louis Cardinals, LLCMO                  79350               
+A-15267-21582       The Inter-American Institute for PhilosophyVA                  72322               
+A-16091-91384       Lingua Pros, LLC    IL                  41059               
+A-16048-73942       UNIVERSITY OF NEW ENGLANDME                  71770               
+A-14035-38819       UNIVERSITY OF CALIFORNIA, LOS ANGELESCA                  83783               
+A-16056-76688       UNIVERSITY OF DETROIT MERCYMI                  73010               
+A-16056-76698       UNIVERSITY OF DETROIT MERCYMI                  55490               
+A-16048-73689       Halls Drug Store, LLCNC                  126381              
+A-15281-26389       Baalaajee Inc d/b/a Williamson Road PharmacyVA                  125424              
+A-16024-64520       GUTHRIE MEDICAL GROUP, P.C.PA                  90                  
+A-15348-50207       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  107536              
+A-15348-50213       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  107536              
+A-15348-50269       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  90                  
+A-15348-50278       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  156146              
+A-15348-50331       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  107536              
+A-16050-74998       COVENANT MEDICAL CENTER, INC.IA                  90                  
+A-16006-58104       INPATIENT CONSULTANTS OF GEORGIA, INC.CA                  187199              
+A-15362-55048       SIGNATURE HEALTHCAREMA                  170000              
+A-16015-61581       24 ON PHYSICIANS, PCGA                  187199              
+A-16055-76274       24 ON PHYSICIANS, PCGA                  187199              
+A-16015-61686       24 ON PHYSICIANS, PCGA                  187199              
+A-16013-60749       24 ON PHYSICIANS, PCGA                  187199              
+A-16019-62363       24 ON PHYSICIANS, PCGA                  187199              
+A-15324-41914       GEISINGER CLINIC    PA                  114234              
+A-15324-41997       GEISINGER CLINIC    PA                  114234              
+A-15324-42117       GEISINGER CLINIC    PA                  114234              
+A-15246-14663       GEISINGER CLINIC    PA                  114234              
+A-15247-14818       Falmouth Hospital   MA                  90                  
+A-16026-64949       THE MARY IMOGENE BASSETT HOSPITALNY                  83325               
+A-15348-50157       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  90                  
+A-15348-50183       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  90                  
+A-16047-73197       UPMC COMMUNITY MEDICINE INC.PA                  41267               
+A-16047-73199       ELLIOT PHYSICIAN NETWORKNH                  90                  
+A-16060-78227       APOGEE MEDICAL GROUP, PENNSYLVANIA, PCAZ                  187199              
+A-15362-54683       DIGNITY HEALTH      CA                  86362               
+A-15350-51424       24 ON PHYSICIANS, PCGA                  187199              
+A-15348-50353       MERCY CLINIC SPRINGFIELD COMMUNITIESMO                  90                  
+A-15357-54285       PENINSULA REGIONAL MEDICAL CENTERMD                  169811              
+A-16035-69567       COVENANT MEDICAL CENTER, INC.IA                  90                  

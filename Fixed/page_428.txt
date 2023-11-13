@@ -1,0 +1,500 @@
+A-16195-32277       ELLUCIAN COMPANY LP VA                  70928               
+A-16176-25863       CYMA SYSTEMS INC    CT                  91062               
+A-16179-26448       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28180       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28187       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28203       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28213       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28220       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28268       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28338       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28366       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28402       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28426       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15238-12010       EXPERIS US, INC.    WI                  76731               
+A-16164-20798       INTEL CORPORATION   CA                  119350              
+A-16250-49856       SAMSUNG SEMICONDUCTOR, INC.CA                  119350              
+A-15279-25451       FOURSQUARE LABS, INCNY                  134909              
+A-16054-76052       YAHOO! INC.         CA                  103691              
+A-16055-76602       YAHOO! INC.         CA                  103691              
+A-16027-65679       COMPUSOFT INTEGRATED SOLUTIONS, INC.MI                  77605               
+A-16190-30793       CHICAGO MERCANTILE EXCHANGEIL                  83658               
+A-16190-30847       CIENET TECHNOLOGIES, INCCA                  157477              
+A-16174-25007       ARISTA NETWORKS, INC.CA                  119350              
+A-16174-25012       ARISTA NETWORKS, INC.CA                  138403              
+A-16175-25155       ARISTA NETWORKS, INC.CA                  119350              
+A-16173-24319       CISCO SYSTEMS, INC. CA                  115304              
+A-16180-26789       GROUPON, INC.       IL                  132142              
+A-16174-24564       AMAZON CORPORATE LLCWA                  99466               
+A-16179-26226       CISCO SYSTEMS, INC. CA                  115304              
+A-16179-26378       CANDOR GROUP        IL                  113922              
+A-16180-27256       BLOOMREACH          CA                  119350              
+A-16169-22981       COMCAST CABLE COMMUNICATIONS, LLCPA                  71885               
+A-16166-21618       DELL USA LP         TX                  98862               
+A-16174-24682       CISCO SYSTEMS, INC. CA                  102619              
+A-16186-28942       CIENET TECHNOLOGIES, INCCA                  157477              
+A-16187-29093       CITIBANK, N.A       NY                  134909              
+A-16196-32880       CHICAGO MERCANTILE EXCHANGEIL                  83658               
+A-16180-27016       CISCO SYSTEMS, INC. CA                  115304              
+A-16176-25684       CIENA CORPORATION   MD                  91832               
+A-16176-25686       CISCO SYSTEMS, INC. CA                  115304              
+A-16176-25753       CISCO SYSTEMS, INC. CA                  115304              
+A-16176-25877       CISCO SYSTEMS, INC. CA                  115304              
+A-16176-25954       CISCO SYSTEMS, INC. CA                  115304              
+A-16177-26007       CISCO SYSTEMS, INC. CA                  100277              
+A-16190-30811       Desert Sales AcademyNV                  76482               
+A-16175-25328       American Food Supplies LLCTX                  65000               
+A-16176-25738       CISCO SYSTEMS, INC. CA                  107869              
+A-16176-25875       CISCO SYSTEMS, INC. CA                  100110              
+A-16172-23811       CIGNITI INC         TX                  81515               
+A-16179-26205       CIGNITI INC         TX                  81515               
+A-16180-27219       BASIS TECHNOLOGY CORPORATIONMA                  109762              
+A-16174-24782       DREAMWORKS ANIMATION LLCCA                  63149               
+A-16176-25599       ELI LILLY AND COMPANYIN                  44470               
+A-16181-27769       CITICORP CREDIT SERVICES, INC. (USA)NY                  66685               
+A-16174-24732       EDUCATIONAL TESTING SERVICENJ                  59384               
+A-16197-33085       BEELINE             FL                  48714               
+A-16176-25667       ELI LILLY AND COMPANYIN                  44470               
+A-16194-31584       BOSTON COLLEGE      MA                  58032               
+A-16032-67611       HMC GROUP DBA HMC ARCHITECTSCA                  75837               
+A-16192-30921       CALLISONRTKL INC.   MD                  51875               
+A-16192-30922       CALLISONRTKL INC.   MD                  57574               
+A-16195-32159       CARRIER JOHNSON     CA                  78936               
+A-16182-28028       Enea Garden Design IncFL                  55078               
+A-16015-61825       GRIFOLS SHARED SERVICES NORTH AMERICA, INC.CA                  72301               
+A-16168-22746       CONTINENTAL AUTOMOTIVE SYSTEMS, INC.MI                  73882               
+A-16080-86684       CYPRESS SEMICONDUCTOR CORPORATIONCA                  125403              
+A-16028-66659       Infineon Technologies Americas Corp.CA                  88109               
+A-15362-54908       AVAGO TECHNOLOGIES  CA                  78816               
+A-16181-27406       Dialog Semiconductor Inc.CA                  93766               
+A-16190-30526       BROADCOM CORPORATIONCA                  96970               
+A-16175-25357       CYPRESS SEMICONDUCTOR CORPORATIONCA                  128584              
+A-16188-29622       SIEMENS ENERGY, INC.FL                  93142               
+A-16034-68547       IM FLASH TECHNOLOGIES, LLCUT                  69243               
+A-16162-20680       BORBET ALABAMA, INC AL                  66581               
+A-16180-26952       CONTINENTAL AUTOMOTIVE SYSTEMS, INC.MI                  53248               
+A-16190-30532       CROWLEY MARITIME CORPORATIONFL                  82243               
+A-16182-28154       DELL PRODUCTS LP    TX                  73445               
+A-16179-26184       EXCELSIOR BLOWER SYSTEMS, INC.PA                  58864               
+A-16027-66028       Burr Oak Tool Inc.  MI                  56326               
+A-16175-25127       CARLING TECHNOLOGIES, INC.CT                  73112               
+A-16179-26421       ATIEVA, INC.        CA                  87526               
+A-16167-22100       ELEMENT PLASTICS MFG LLCTX                  63024               
+A-16190-30530       CHILDREN'S HOSPITAL MA                  47050               
+A-16193-31017       EA ENGINEERING, SCIENCE AND TECHNOLOGY, INC.MD                  42224               
+A-16173-24292       CORNERSTONE RESEARCH, INC.MA                  132642              
+A-16174-24615       CORNERSTONE RESEARCH, INC.MA                  96096               
+A-16036-69994       HANMAEUM SENIOR SERVICES, INCCA                  22547               
+A-16194-31606       CLEMSON UNIVERSITY  SC                  52560               
+A-16022-64250       GEORGIA SOUTHERN UNIVERSITYGA                  57347               
+A-16035-69332       HOKE COUNTY SCHOOLS NC                  34140               
+A-16162-20559       BRYAN INDEPENDENT SCHOOL DISTRICTTX                  43867               
+A-16181-27379       CASA ESPERANZA MONTESSORI CHARTER SCHOOLNC                  45077               
+A-16034-68705       Meta-4 Art (DBA: CMay Gallery)CA                  44658               
+A-16187-29079       DOMINIQUE LEVY GALLERYNY                  61901               
+A-16193-31229       Botani Trimmings, Inc.NY                  41850               
+A-16168-22843       CMG Strategy Co., LLCCO                  65437               
+A-16195-32010       Elite Gymnastics AcademyMN                  29537               
+A-15358-54536       ILKT, INC.          CA                  27602               
+A-16193-31018       CLEVELAND CLINIC FOUNDATIONOH                  58270               
+A-16187-29033       Cogent Healthcare of Iowa PCIA                  187200              
+A-16175-25406       East Bay Physicians Medical Group, Inc.CA                  187200              
+A-16181-27284       FH & HF Torrance 1 LLCCA                  25605               
+A-16252-50666       JAPIKA GROUP CORP   NY                  29931               
+A-16029-67019       Hing Kee Inc.       IL                  46696               
+A-16020-63130       GT Operating Company LLCNY                  42432               
+A-16180-26981       The Feve, Ivc.      OH                  43722               
+A-16270-56381       MUY BRANDS, LLC     TX                  18262               
+A-16271-56708       MUY BRANDS, LLC     TX                  18262               
+A-16182-28100       MUY HAMBURGER PARTNERS, LLCTX                  16869               
+A-16182-28184       MUY HAMBURGER PARTNERS, LLCTX                  16869               
+A-16057-77249       SOMERSET FARM       VA                  41309               
+A-16176-25854       WILLIAM A. MCLEAN   CA                  31096               
+A-16029-67081       Ibrahim Ashemimry   FL                  11.19               
+A-16034-68977       HILDEBRAND FOOD INC TX                  21798               
+A-16161-19800       AQR CAPITAL MANAGEMENTCT                  104478              
+A-16189-30015       CLOUDGENIX INC      CA                  133078              
+A-16193-31408       Boothwyn Pharmacy LLCPA                  29078               
+A-16035-69098       I-FE APPAREL INC.   NJ                  18117               
+A-16180-27188       COBB INTERNATIONAL FARMERS MARKETGA                  17014               
+A-16180-27130       COBB INTERNATIONAL FARMERS MARKETGA                  17014               
+A-16194-31599       COBB INTERNATIONAL FARMERS MARKETGA                  17014               
+A-16006-58094       HENRY'S IRRIGATION  TX                  27726               
+A-15337-46158       Bill Patterson Construction, Inc.AL                  13.11               
+A-15229-08993       H.K. ELECTRICAL, INC.CA                  62712               
+A-16033-68256       Hodgkins Truck CenterIL                  50877               
+A-16082-87448       Load Trail, LLC     TX                  21.54               
+A-16187-29119       CASE FARMS PROCESSING INC.NC                  9.51                
+A-16176-25910       CASE FARMS PROCESSING INC.NC                  9.51                
+A-16182-28128       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16182-28048       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16182-28108       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16182-28139       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16181-27828       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16181-27820       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16177-26025       TECUMSEH POULTRY LLCNE                  10.93               
+A-16055-76185       Great Host International,Inc DBA Andalucia NutsTX                  24398               
+A-16183-28625       CLARION MOBILE, INC.TX                  18366               
+A-16012-59880       BOA MARINE SERVICES, INC.TX                  90                  
+A-16195-32200       AXMentor Inc.       CA                  94266               
+A-16188-29786       Garvish Immigration Law Group, LLCGA                  89502               
+A-16238-46270       CDK GLOBAL, LLC     IL                  115565              
+A-16202-34247       Domino's Pizza International Payroll Services, IncMI                  133058              
+A-16201-34087       Coty Inc.           NY                  179774              
+A-16195-32017       Convergent Dental, Inc.MA                  128794              
+A-16181-27347       Arya & Sejal Enterprises, Inc. dba MSM GroupGA                  120266              
+A-16167-21966       DELOITTE CONSULTING LLPPA                  100628              
+A-15344-48918       CHINA MERCHANTS BANK CO., LTDNY                  147805              
+A-16192-30930       FRIED, FRANK, HARRIS, SHRIVER & JACOBSON LLPNY                  227178              
+A-16189-29977       COMPREHENSIVE BREAST CENTER LPFL                  83782               
+A-16201-33936       GC CONSULTANTS INC  NY                  147805              
+A-16188-29486       DELOITTE TRANSACTIONS & BUSINESS ANALYTICS, LLPTN                  116004              
+A-16202-34540       Cosmoledo, LLC      NY                  147805              
+A-16194-31769       Logistics Plus      PA                  57637               
+A-16194-31483       ATLANTIC PACIFIC EQUIPMENT, INC.GA                  109595              
+A-16193-31424       Foster Builder, Inc VA                  59509               
+A-16081-87005       El Toro Bravo, Inc  IL                  48152               
+A-16193-31396       OECY COMPANY INC    CA                  50066               
+A-16098-94512       GILEAD SCIENCES, INC.CA                  239658              
+A-16202-34269       Envogue International, LLCNY                  74422               
+A-16189-30278       Auto Injury Solutions Inc.CO                  57824               
+A-16100-95170       AVCO CONSULTING INC MA                  60008               
+A-16265-54700       Forsys Subsea, Inc. TX                  37648               
+A-16201-33909       FIRST TEK, INC.     NJ                  101400              
+A-16208-35877       GASFORAL LLC        FL                  90584               
+A-16202-34389       FIRST TEK, INC.     NJ                  101400              
+A-16203-34702       ERICSSON INC.       TX                  91395               
+A-16243-48044       Crystal Falls Spirits, LLCTN                  29099               
+A-16259-53223       GMP GLOBAL MARKETING INCCA                  55994               
+A-16054-75751       BLOOMEX LLC         NY                  61589               
+A-16181-27438       BANK OF CHINA       NY                  61589               
+A-16201-33959       DIGITAS, INC.       MA                  51106               
+A-16201-34080       DON CAMILLIO ROSSLYN LLCVA                  42099               
+A-16207-35494       CPA Global (Landon IP) Inc.VA                  47944               
+A-15301-33223       BIOSS INC.          MA                  97302               
+A-16036-69730       Atrium Medical CenterTX                  66144               
+A-15348-50597       KUKDONG APPAREL (AMERICA), INCCA                  47445               
+A-15231-10018       KIT LEUNG, CPA      CA                  61880               
+A-16243-47660       14 SPRING STREET CAFE LLCNY                  25.51               
+A-16189-30385       FUNCTIONAL LIFE ACHIEVEMENT, INC.NY                  54766               
+A-16181-27837       EXELON BUSINESS SERVICES COMPANYIL                  89669               
+A-16182-28301       BARCLAYS BANK DELAWAREDE                  102086              
+A-12356-25184       PATNI AMERICAS, INC.MA                  76544               
+A-12356-25214       PATNI AMERICAS, INC.MA                  76544               
+A-12353-23707       PATNI AMERICAS, INC.MA                  76544               
+A-16014-61078       CONCEPTS INFORMATION TECHNOLOGY INCVA                  83782               
+A-15349-50937       ENDUE CORP          MA                  74506               
+A-16008-59068       ELEKTROBIT AUTOMOTIVE AMERICAS INC.WA                  81744               
+A-15364-55872       BLIZZARD ENTERTAINMENT INC.CA                  58219               
+A-16193-31092       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16193-31095       CAREMARK, L.L.C.    RI                  74422               
+A-16193-31085       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16193-31116       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16193-31153       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16193-31216       DELL MARKETING LP   TX                  88191               
+A-16193-31221       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16196-32662       BROADSOFT, INC.     MD                  104541              
+A-16098-94580       INFOSYS LTD.        TX                  75335               
+A-16189-30174       Nieto Technology Partners, LLCTX                  82763               
+A-16194-31928       DELOITTE CONSULTING LLPPA                  45864               
+A-16181-27646       WIRELESS DF TEXAS LLCTX                  60133               
+A-16181-27715       De Lage Landen Financial Services Inc.PA                  112029              
+A-16183-28567       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16202-34237       DELOITTE TAX LLP    PA                  73174               
+A-16187-29354       ZUORA, INC.         CA                  121222              
+A-16203-35001       COREMEDIA CORPORATIONCA                  103750              
+A-16183-28732       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16183-28825       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16196-32726       BANK OF THE WEST    CA                  75421               
+A-16188-29436       GRAND SUPERCENTER INC.NJ                  61797               
+A-16200-33434       DELOITTE CONSULTING LLPPA                  73653               
+A-16200-33620       HAPPYWELL, INC.     IL                  59779               
+A-16193-31253       DELL MARKETING LP   TX                  94765               
+A-16193-31274       DELOITTE & TOUCHE LLPPA                  73174               
+A-16193-31341       Infineon Technologies Americas Corp.CA                  58677               
+A-16193-31366       DELOITTE & TOUCHE LLPPA                  77106               
+A-16193-31460       AMERISOURCEBERGEN CORPORATIONPA                  112029              
+A-16189-29901       POPULUS GROUP, LLC  MI                  134971              
+A-16194-31482       EMC CORPORATION     MA                  113526              
+A-16182-28227       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16182-28354       BALLY GAMING, INC.  NV                  100422              
+A-16182-28318       C&W International Fabricators LLCTX                  82763               
+A-16195-31944       EMC CORPORATION     MA                  81890               
+A-15260-18954       ORACLE AMERICA, INC.CA                  100006              
+A-15341-47463       JP MORGAN CHASE & COIL                  91562               
+A-16181-27526       CONNVERTEX TECHNOLOGIES, INC.UT                  76586               
+A-16255-51531       YELLOWJACKET, INC.  GA                  97700               
+A-16182-28215       CONNVERTEX TECHNOLOGIES, INC.UT                  76586               
+A-16252-50862       Infosytech Solutions, Inc.LA                  80288               
+A-16222-40603       Aplomb Technologies, IncNJ                  103626              
+A-12351-23225       PATNI AMERICAS, INC.MA                  83844.8             
+A-12351-23227       PATNI AMERICAS, INC.MA                  83844.8             
+A-12351-23230       PATNI AMERICAS, INC.MA                  83844.8             
+A-12352-23287       PATNI AMERICAS, INC.MA                  83844.8             
+A-12352-23401       PATNI AMERICAS, INC.MA                  83844.8             
+A-12356-25241       PATNI AMERICAS, INC.MA                  83844.8             
+A-12356-25279       PATNI AMERICAS, INC.MA                  83845               
+A-12349-22837       PATNI AMERICAS, INC.MA                  83845               
+A-12349-22850       PATNI AMERICAS, INC.MA                  83844.8             
+A-12349-22936       PATNI AMERICAS, INC.MA                  83845               
+A-12349-23001       PATNI AMERICAS, INC.MA                  83844.8             
+A-12350-23148       PATNI AMERICAS, INC.MA                  83844.8             
+A-12350-23150       PATNI AMERICAS, INC.MA                  83844.8             
+A-12355-24573       PATNI AMERICAS, INC.MA                  83844.8             
+A-12348-22658       PATNI AMERICAS, INC.MA                  83845               
+A-12348-22660       PATNI AMERICAS, INC.MA                  83844.8             
+A-12255-97941       PATNI AMERICAS, INC.MA                  83844.8             
+A-12257-98796       PATNI AMERICAS, INC.MA                  83844.8             
+A-12255-98144       PATNI AMERICAS, INC.MA                  83844.8             
+A-12255-98229       PATNI AMERICAS, INC.MA                  83844.8             
+A-12256-98322       PATNI AMERICAS, INC.MA                  83844.8             
+A-12256-98332       PATNI AMERICAS, INC.MA                  83844.8             
+A-12241-94871       PATNI AMERICAS, INC.MA                  83844.8             
+A-12240-94424       PATNI AMERICAS, INC.MA                  83844.8             
+A-12241-94605       PATNI AMERICAS, INC.MA                  83844.8             
+A-12250-96882       PATNI AMERICAS, INC.MA                  83844.8             
+A-12250-96912       PATNI AMERICAS, INC.MA                  83844.8             
+A-12250-96948       PATNI AMERICAS, INC.MA                  83844.8             
+A-12250-96970       PATNI AMERICAS, INC.MA                  83844.8             
+A-12250-97018       PATNI AMERICAS, INC.MA                  83844.8             
+A-13126-61543       INFOSYS LTD.        TX                  68162               
+A-13178-75752       INFOSYS LTD.        TX                  68162               
+A-12256-98600       PATNI AMERICAS, INC.MA                  83844.8             
+A-12352-23605       PATNI AMERICAS, INC.MA                  83845               
+A-16032-67400       TEGNOSIS LLC        GA                  75338               
+A-16054-75729       Elite Software, Inc.FL                  52208               
+A-16015-61627       GENESYS TELECOMMUNICATIONS LABORATORIES, INC.CA                  88878               
+A-16061-78871       MARUTHI TECHNOLOGIES , L.L.C.TX                  81952               
+A-16067-81010       INFOMERICA, INC     NC                  95098               
+A-16046-73137       AMERICAN PROFESSIONALS INCNJ                  82285               
+A-16046-73155       AMERICAN PROFESSIONALS INCNJ                  82285               
+A-16008-58839       CA, INC.            NY                  107349              
+A-15345-49671       BRAINER CONSULTANCY, INC.CA                  120349              
+A-16012-59946       EMC CORPORATION     MA                  119226              
+A-16042-71769       KOHLER CO.          WI                  89357               
+A-16201-33889       EPAM SYSTEMS, INC   PA                  81619               
+A-16193-31097       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31103       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31082       BARCLAYS CAPITAL INC.NY                  111114              
+A-16193-31119       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31145       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31146       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31168       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31178       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31180       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31181       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31159       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31163       CITIUSTECH INC      NJ                  111259              
+A-16193-31201       DELOITTE CONSULTING LLPPA                  106954              
+A-16193-31205       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31206       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16193-31183       Datagence, Inc.     NJ                  100755              
+A-16193-31208       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-27935       CAPITAL ONE SERVICES, LLCVA                  81952               
+A-16182-28127       DART CONTAINER OF MI, LLCMI                  64646               
+A-16182-28060       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16182-28081       CROSSFIRE CONSULTING CORPORATIONNY                  130666              
+A-16182-28158       CONNVERTEX TECHNOLOGIES, INC.UT                  76586               
+A-16191-30876       FORTIRA INC         NJ                  63877               
+A-16193-30997       GALLEGA SOFTWARE SOLUTIONS , INCGA                  75338               
+A-16175-25083       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16207-35687       DELL USA LP         TX                  99875               
+A-16189-30100       FIS MANAGEMENT SERVICES LLCFL                  91562               
+A-16189-30106       GALAXY I TECHNOLOGIES, INC.AZ                  90938               
+A-16189-30173       Galaxy Software Solutions, IncMI                  95846               
+A-16111-99738       INFOSYS LTD.        TX                  98883               
+A-16194-31874       WAYFAIR LLC         MA                  93517               
+A-16075-84672       HCL GLOBAL SYSTEMS INC.MI                  65811               
+A-16181-27449       BEACON HEALTH STRATEGIES LLCMA                  93517               
+A-16181-27637       CSG SYSTEMS INC.    CO                  81910               
+A-16181-27809       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16181-27810       Biz Technology Solutions, incNC                  81890               
+A-16182-28490       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28569       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28595       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28583       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28585       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28648       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28642       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28678       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16201-34133       ECLINICALWORKS, LLC MA                  86882               
+A-16202-34362       DW PRACTICE, LLC.   GA                  111384              
+A-16203-34756       CORT BUSINESS SERVICESVA                  95098               
+A-16070-82643       HCL GLOBAL SYSTEMS INC.MI                  65811               
+A-16112-00539       INFOSYS LTD.        TX                  81952               
+A-16084-88833       AUDIBLE, INC.       NJ                  87298               
+A-16098-94308       HCL GLOBAL SYSTEMS INC.MI                  65811               
+A-16098-94333       HCL GLOBAL SYSTEMS INC.MI                  65811               
+A-16119-03026       EPI-USE AMERICA, INC.GA                  93371               
+A-16074-84110       HCL GLOBAL SYSTEMS INC.MI                  65811               
+A-16201-33920       CONVATEC INC.       NJ                  123490              
+A-16201-34114       CONCEPTS INFORMATION TECHNOLOGY INCVA                  108139              
+A-16209-36249       Art.sy, Inc.        NY                  91562               
+A-16183-28699       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28726       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28749       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28731       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28745       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28768       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28774       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28803       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28844       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16183-28870       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-28975       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  71739               
+A-16187-28981       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-28986       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-29007       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-29011       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-29016       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-29022       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-29076       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16187-29084       APPLE INC.          CA                  124675              
+A-16210-36971       FIS MANAGEMENT SERVICES LLCFL                  87027               
+A-16210-37070       GIG-WERKS, LLC      NY                  91562               
+A-16195-32053       EMC CORPORATION     MA                  119226              
+A-16188-29632       FIS MANAGEMENT SERVICES LLCFL                  113464              
+A-16188-29638       FUTURETECH CONSULTANTS, LLCGA                  75338               
+A-16195-32352       BYTEWARE, INC.      GA                  93371               
+A-16189-30235       GALAXY I TECHNOLOGIES, INC.AZ                  90938               
+A-16190-30344       GALAXY I TECHNOLOGIES, INC.AZ                  90938               
+A-16200-33460       ARMO CONSULTANTS DBA ARMO SOLUTIONSNJ                  129002              
+A-16200-33470       COLLABORATIVE CONSULTING, LLCMA                  131747              
+A-16193-31282       GARMIN INTERNATIONAL, INCKS                  106309              
+A-16193-31314       DELL MARKETING LP   TX                  76950               
+A-16193-31345       DENKEN SOLUTIONS, INC.CA                  86674               
+A-16188-29754       ARMO CONSULTANTS DBA ARMO SOLUTIONSNJ                  129002              
+A-16189-29953       FUSION PLUS SOLUTIONS, INCNJ                  83741               
+A-16189-29932       GALAXY I TECHNOLOGIES, INC.AZ                  90938               
+A-16202-34417       ESSENDANT           IL                  97115               
+A-16202-34476       DFS CORPORATE SERVICES LLCIL                  97115               
+A-16202-34578       ECLINICALWORKS, LLC MA                  86882               
+A-16202-34617       Donyati, llc        CO                  101754              
+A-16194-31488       DATA INC.           NJ                  130666              
+A-16194-31485       DRFIRST             MD                  85322               
+A-16194-31511       DELOITTE CONSULTING LLPPA                  87443               
+A-16194-31521       BIRCH COMMUNICATIONSGA                  98600               
+A-16194-31548       TABNER INC          NC                  105248              
+A-16194-31642       FIS MANAGEMENT SERVICES LLCFL                  113464              
+A-16194-31711       Galaxy Software Solutions, IncMI                  95846               
+A-16182-28206       DART CONTAINER OF MI, LLCMI                  64646               
+A-16182-28306       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-16086-89587       NUMBERS ONLY, INC.  TX                  101400              
+A-15352-52672       CA, INC.            NY                  157477              
+A-15355-53335       INTEL CORPORATION   CA                  82098               
+A-16020-63074       EMC CORPORATION     MA                  94203               
+A-15357-54226       INTEL CORPORATION   CA                  88234               
+A-16200-33793       FIREEYE, INC.       CA                  157477              
+A-16193-31166       FIREEYE, INC.       CA                  157477              
+A-16190-30799       FREESCALE SEMICONDUCTOR, INC.TX                  76294               
+A-16208-35855       CISCO SYSTEMS, INC. CA                  114150              
+A-16193-31286       CHICAGO MERCANTILE EXCHANGEIL                  83658               
+A-16193-31368       CHICAGO MERCANTILE EXCHANGEIL                  83658               
+A-16193-31402       CARS.COM            IL                  83658               
+A-16194-31516       AMDOCS INC.         MO                  85883               
+A-16190-30787       Desert Sales AcademyNV                  76482               
+A-16179-26402       CRITERION SOFTWARE, LLCNJ                  48.49               
+A-16075-84396       COMPUSOFT INTEGRATED SOLUTIONS, INC.MI                  104187              
+A-16190-30490       FIRST TEK, INC.     NJ                  100859              
+A-15353-52911       BROADGATEINC        MI                  74422               
+A-15356-53898       INFOMERICA, INC     NC                  83803               
+A-16193-30991       ERICSSON INC.       TX                  68682               
+A-16189-30149       FIRST DATA TECHNOLOGIES, INCGA                  83450               
+A-16200-33646       ERICSSON INC.       TX                  68682               
+A-16264-54428       OOYALA, INC.        CA                  81515               
+A-16200-33718       GROUPON, INC.       IL                  55682               
+A-16189-29933       Encore Consulting Services, IncIL                  105955              
+A-16200-33669       DELOITTE CONSULTING LLPPA                  106538              
+A-16187-29059       LINKEDIN CORPORATIONCA                  53893               
+A-16232-44391       RESOLVE TECH SOLUTIONS INCTX                  89066               
+A-16187-29338       ESSENCE GROUP HOLDINGS CORPORATIONMO                  54954               
+A-16182-28483       CALLISONRTKL INC.   MD                  48984               
+A-16189-30285       HANDEL ARCHITECTS   NY                  60694               
+A-16201-33837       ENTECH ENGINEERING P.CNY                  80725               
+A-16189-30185       ATZL, NASHER & ZIGLER P.C.NY                  80725               
+A-16188-29481       HALEY & ALDRICH, INC.MA                  77730               
+A-16182-28452       AmeriCloud Solutions Inc.IL                  82763               
+A-16182-28291       BTI Solutions, Inc. dba Blue Telcom, Inc.TX                  89461               
+A-15352-52900       INTEL CORPORATION   CA                  86174               
+A-16034-68915       EMPOWER MICRO SYSTEMSCA                  108992              
+A-15356-53944       INTEL CORPORATION   CA                  86174               
+A-15342-48122       SILICON LABORATORIES INC.TX                  86507               
+A-16193-31093       FREESCALE SEMICONDUCTOR, INC.TX                  77834               
+A-16118-02454       FTE AUTOMOTIVE USA INC.MI                  73278               
+A-16190-30648       FREESCALE SEMICONDUCTOR, INC.TX                  77834               
+A-16190-30690       FREESCALE SEMICONDUCTOR, INC.TX                  77834               
+A-16202-34573       FINISAR CORPORATION CA                  130562              
+A-16201-33988       SOLARCITY           CA                  122408              
+A-14310-23376       ONWARD TECHNOLOGIES INCIL                  96990               
+A-16194-31596       Toledo Engineering Co., Inc.OH                  83387               
+A-15336-45729       KILOWATT ENGINEERING, INC. DBA KW ENGINEERING, INCCA                  75296               
+A-16193-31150       GENERAL MOTORS COMPANYMI                  79102               
+A-16195-32440       ATIEVA, INC.        CA                  123386              
+A-16207-35740       FCA US LLC          MI                  79102               
+A-16202-34479       DASSAULT SYSTEMES AMERICAS CORP.MI                  79102               
+A-16203-35038       East Coast Partners IncNY                  38584               
+A-16057-77271       Bobst North America Inc.NJ                  73986               
+A-16189-30365       Zymergen, Inc       CA                  69784               
+A-16202-34305       DICERNA PHARMACEUTICALSMA                  46966               
+A-16193-31340       GILEAD SCIENCES, INC.CA                  86778               
+A-16181-27502       AMNEAL PHARMACEUTICALS OF NY, LLCNY                  59509               
+A-16194-31887       DIGNITY HEALTH      CA                  45074               
+A-16196-32791       Barr Consulting and Holdings IncCA                  128274              
+A-16182-28245       BOSTON COLLEGE      MA                  47210               
+A-16181-27794       CALIFORNIA STATE UNIVERSITY, MONTEREY BAYCA                  75000               
+A-16187-29267       DEPT OF MEDICINE MEDICAL SERVICE GROUP @ SUNY HSCNY                  161000              
+A-16187-29099       CALIFORNIA STATE UNIVERSITY, LOS ANGELESCA                  63000               
+A-16013-60540       BROOKLYN AMITY SCHOOLNY                  63150               
+A-16036-70071       BOWMAN INTERNATIONAL SCHOOLCA                  60717               
+A-16181-27509       CASA ESPERANZA MONTESSORI CHARTER SCHOOLNC                  45077               
+A-15363-55228       Camden Fairview School District # 16AR                  36880               
+A-16196-32573       BarkBox, Inc.       NY                  59467               
+A-16193-31115       Ecochem, Inc.       CA                  39312               
+A-16200-33747       Desert Foothills Lutheran ChurchAZ                  35859               
+A-16182-27971       CATALINAS CINEMA, CORP.PR                  26104               
+A-16207-35793       CORNERSTONE DENTAL SPECIALTIES INCCA                  119371              
+A-16194-31818       Springfield HospitalVT                  90                  
+A-16193-31325       COASTAL MEDICAL, INC.RI                  102149              
+A-16011-59473       KAIROS ACUPUNCTURE, INC.CA                  40893               
+A-16196-32654       Bartlett Regional HospitalAK                  76981               
+A-15313-37262       CASA NAOMI          CA                  18013               
+A-16249-49556       Master Staffing Inc CA                  21840               
+A-16012-60258       KIKUHISA CORP DBA ANJINCA                  40144               
+A-16011-59776       K'S KITCHEN, INC.   CA                  43950               
+A-15314-37843       MUY PIZZA HOUSTON, LLCTX                  16744               
+A-16047-73386       MUY PIZZA SOUTHEAST LLCTX                  17950               
+A-16182-28492       MUY PIZZA SOUTHEAST LLCTX                  16682               
+A-16182-28498       MUY PIZZA SOUTHEAST LLCTX                  16682               
+A-16123-04479       automediqs Transport incPA                  31762               
+A-16272-57136       Chen's Family, Inc, dba Tai's DynastyOR                  25771               
+A-16272-57024       Cho & So Inc        PA                  25584               
+A-16209-36457       Happy Family Business, LLCTX                  21632               
+A-16188-29727       OCEANSIDE LOVE BOAT GROUP, INC.CA                  22277               
+A-16033-68263       BOSTON KAJU, INC.   MA                  20197               
+A-16272-57191       MUY BRANDS, LLC     TX                  18034               
+A-16039-70473       MUY PIZZA SOUTHEAST LLCTX                  17867               
+A-15322-40739       KAZ SUSHI BISTRO    DC                  17160               
+A-16004-56478       KU'S NAIL & SPA CORP.NY                  44179               
+A-16265-55002       JOHN F. MARTIN/JOHN F. MARTIN RACING STABLES, INC.CA                  19573               
+A-16243-47928       J Nails & Beauty Spa, IncIL                  21819               
+A-16246-49347       SEACOAST UNITED SPORTS CLUB, INC.NH                  38168               
+A-16005-57453       Karimi Business Inc. dba MLK C-StoreTX                  55328               
+A-16022-64206       JP MORGAN CHASE & COIL                  149739              
+A-16194-31906       DONGJIN ZIPPER & TRIM, INC.CA                  28662               
+A-16256-51594       IBM CORPORATION     NC                  65270               
+A-15365-56093       ELETTRIC80          IL                  104478              
+A-16200-33786       Hanmi Motors Sales, Inc.CA                  27290               
+A-16004-56779       C&L USA, INC.       PA                  48027               
+A-16042-71749       G.B. Logistics (USA), Inc.CA                  55994               
+A-16187-29179       COBB INTERNATIONAL FARMERS MARKETGA                  17014               
+A-16187-29091       COBB INTERNATIONAL FARMERS MARKETGA                  17014               
+A-16195-32432       BROWN DENTAL OFFICE, P.C.NV                  45968               
+A-16018-62145       Atlanta USA Investment LLCGA                  41642               
+A-16182-28412       The Church of the Open BibleNY                  39936               
+A-16266-55348       LONG FAMILY FARMS PARTNERSHIPOK                  37107               
+A-16124-04827       CORE TECH INTERNATIONAL CORPORATIONGU                  29536               
+A-16023-64457       DUPONT AUTOMOTIVE, INC.NY                  43202               
+A-16048-74090       ECO DRIVE AUTO SALES & LEASING INCCA                  46280               
+A-16201-34085       DESMA USA, INC.     KY                  48547               
+A-16187-29096       COBB INTERNATIONAL FARMERS MARKETGA                  20904               
+A-16229-43067       TECUMSEH POULTRY LLCNE                  11.46               
+A-16231-43930       TECUMSEH POULTRY LLCNE                  11.46               

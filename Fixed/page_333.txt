@@ -1,0 +1,500 @@
+A-15356-53801       LoJack Corporation  MA                  96179               
+A-15356-53952       SAINT XAVIER UNIVERSITYIL                  73965               
+A-15358-54476       BLUE CROSS AND BLUE SHIELD OF MASSACHUSETTS, INC.MA                  100110              
+A-15358-54523       ADA CORE TECHNOLOGIES, INC.NY                  60112               
+A-15356-53615       SRI TECH SOLUTIONS INCFL                  64314               
+A-15363-55227       GOOGLE INC.         CA                  116667              
+A-15357-54237       CITIGROUP GLOBAL MARKETS INC.NY                  91915               
+A-15357-54323       CISCO SYSTEMS, INC. CA                  98322               
+A-15357-54324       CITIGROUP GLOBAL MARKETS INC.NY                  91915               
+A-15358-54551       HOBSONS             OH                  133682              
+A-16027-65876       RAMSCA, INC.        FL                  31886               
+A-16027-65843       SYNCHRONOSS TECHNOLOGIES INC.NJ                  90900               
+A-16021-63724       YAHOO! INC.         CA                  111558              
+A-16004-56917       ARKSTEK             CO                  108451              
+A-15351-52167       AMAZON CORPORATE LLCWA                  71032               
+A-16007-58297       GROUPWARE SOLUTIONS, INC.NJ                  120182              
+A-15365-56327       CSC COVANSYS CORPORATIONMI                  96803               
+A-14247-03786       RAMSEY QUANTITATIVE SYSTEMS, INC.KY                  74838               
+A-16021-63729       INTRAEDGE, INC      AZ                  43430               
+A-16021-63722       MCKINSEY & COMPANY, INC UNITED STATESNY                  54954               
+A-15333-44116       PAYPAL, INC.        CA                  89440               
+A-15356-53849       Alorica Inc.        FL                  89294               
+A-15350-51260       PVR TECHNOLOGIES INCPA                  53165               
+A-15351-52344       SAGE BIONETWORKS    WA                  55661               
+A-16027-65786       Regions Bank        AL                  54683               
+A-15348-50475       AMERICAN EXPRESS COMPANYNY                  66685               
+A-15328-43457       VERIZON COMMUNICATIONS INC., & ALL ITS SUBSIDIARIES & AFFILIATESNY                  71490               
+A-15357-54137       GOOGLE INC.         CA                  60466               
+A-15357-54322       DISCOVER PRODUCTS INC.IL                  79227               
+A-15358-54535       PVR TECHNOLOGIES INCPA                  53165               
+A-15355-53297       INTUITIVE SURGICAL OPERATIONS, INCCA                  100589              
+A-15328-43225       UNIVERSITY OF MICHIGANMI                  69930               
+A-16011-59595       ST PAPER LLC        WI                  78499               
+A-16005-57019       CARDINAL HEALTH     OH                  75899               
+A-15349-50727       AECOM TECHNICAL SERVICES, INC.CA                  74277               
+A-16005-57053       AECOM TECHNICAL SERVICES, INC.CA                  77626               
+A-15356-53668       INTEL CORPORATION   CA                  91624               
+A-16021-63719       BALTIMORE GAS AND ELECTRIC COMPANYMD                  81702               
+A-16021-63738       JACKSON FAMILY WINESCA                  100922              
+A-15355-53458       APPLE INC.          CA                  146786              
+A-15356-53602       CG POWER SOLUTIONS USA INCNY                  82056               
+A-16027-65828       OPTIMAL INC.        MI                  91354               
+A-15329-43676       TETRA PAK INC       IL                  89925               
+A-15357-54282       Ricardo, Inc.       MI                  82763               
+A-16091-91482       LHP SOFTWARE, LLC   IN                  76794               
+A-15321-40176       INTEL CORPORATION   CA                  77834               
+A-15337-46114       INTEL CORPORATION   CA                  85779               
+A-15356-53621       NATIONAL INSTRUMENTSTX                  68661               
+A-15356-53626       INTEL CORPORATION   CA                  85779               
+A-15347-50037       INTEL MOBILE COMMUNICATIONS, INC.CA                  75962               
+A-16011-59707       SILICON LABORATORIES INC.TX                  85779               
+A-16011-59612       MICROCHIP TECHNOLOGYAZ                  73531               
+A-15351-52308       INTEL MASSACHUSETTS, INC.MA                  80615               
+A-15351-52318       ATMEL CORPORATION   CA                  145392              
+A-15345-49848       INTEL CORPORATION   CA                  92035               
+A-15345-49876       FITBIT, INC.        CA                  110219              
+A-15329-43733       APPLE INC.          CA                  152131              
+A-15365-56133       INTEL CORPORATION   CA                  88795               
+A-15357-54146       INTEL CORPORATION   CA                  88795               
+A-15357-54221       IMAGINTATION TECHNOLOGIES, LLCCA                  152131              
+A-15357-54258       SANDISK CORPORATION CA                  130562              
+A-15357-54407       INTEL CORPORATION   CA                  86174               
+A-15358-54405       A2Z DEVELOPMENT CENTER, INC.CA                  130562              
+A-15358-54475       INTEL CORPORATION   CA                  86174               
+A-15345-49827       Lakeland of Illinois IncIL                  67746               
+A-15355-53261       Deljou Art Group IncGA                  60320               
+A-16008-58828       HANNA CYLINDERS, LLCWI                  100381              
+A-16027-65952       KUKA ASSEMBLY AND TEST CORP.MI                  92851               
+A-15357-54412       MOTOROLA SOLUTIONS INC.IL                  69430               
+A-15355-53213       ASML US,INC         AZ                  85966               
+A-15332-44134       TESLA MOTORSINC     CA                  109762              
+A-16006-57950       GLOBALFOUNDRIES U.S. INC.CA                  85238               
+A-16027-65941       APPLIED MATERIALS, INC.CA                  127192              
+A-16005-57227       GLOBALFOUNDRIES U.S. INC.CA                  85238               
+A-15357-54373       INTEL CORPORATION   CA                  88275               
+A-16012-60147       GOKEN AMERICA, LLC  OH                  68474               
+A-15308-35914       DET NORSKE VERITAS (U.S.A.), INC.TX                  77917               
+A-15356-53584       INPRENTUS           IL                  65146               
+A-15328-43414       TETRA PAK INC       IL                  56784               
+A-16025-64702       GENERAL MOTORS COMPANYMI                  104520              
+A-16025-64569       BRLI NO 2 ACQUISITION CORP (DBA GENEDX, INC)MD                  52749               
+A-15365-56118       PATEL CONSULTANTS CORPORATIONNJ                  106704              
+A-16011-59617       RESONANT INC.       CA                  133058              
+A-16025-64619       THE LUBRIZOL CORPORATIONOH                  105352              
+A-15356-53765       HESS CORPORATION    TX                  205525              
+A-15328-43299       CATERPILLAR INC.    IL                  44720               
+A-15356-53844       Golden Gate Regional CenterCA                  45302               
+A-15345-49919       LINKLATERS          NY                  124426              
+A-15365-56064       A2Z DEVELOPMENT CENTER, INC.CA                  195049              
+A-15357-54165       Sherman IP LLP      CA                  128274              
+A-14234-00867       WAYLAND BAPTIST UNIVERSITYTX                  47373               
+A-15258-17794       PURDUE UNIVERSITY   IN                  41410               
+A-16012-59846       HIRAM COLLEGE       OH                  52050               
+A-15350-51287       North Central CollegeIL                  23740               
+A-15345-49892       UNIVERSITY OF MICHIGANMI                  44150               
+A-16005-57128       UNIVERSITY OF DELAWAREDE                  100000              
+A-15358-54470       University of Puerto Rico-Mayaguez CampusPR                  27130               
+A-16012-60126       New Jersey City UniversityNJ                  70306.72            
+A-16006-57647       BUTLER UNIVERSITY   IN                  42210               
+A-15293-30331       RENSSELAER POLYTECHNIC INSTITUTENY                  47430               
+A-16006-57959       KANSAS STATE UNIVERSITYKS                  83553               
+A-15363-55505       ANDREWS UNIVERSITY  MI                  37990               
+A-15362-54982       KANSAS STATE UNIVERSITYKS                  28180               
+A-16020-63153       FLORIDA STATE UNIVERSITYFL                  57657               
+A-14128-67451       ESPANOLA PUBLIC SCHOOLSNM                  34681               
+A-14276-12995       GLOBAL TEACHERS RESEARCH AND RESOURCES, INC.GA                  62490               
+A-15197-98925       CASADY SCHOOL       OK                  43393               
+A-15267-21282       CALHOUN FALLS CHARTER SCHOOLSC                  44233               
+A-15271-22674       RIVERWALK EDUCATION FOUNDATION, INC.TX                  45350               
+A-15294-30725       HARMONY PUBLIC SCHOOLSTX                  42360               
+A-15271-22662       LISA ACADEMY        AR                  39670               
+A-13108-57170       BALTIMORE CITY PUBLIC SCHOOL SYSTEMMD                  47475               
+A-14279-13268       GLOBAL TEACHERS RESEARCH AND RESOURCES, INC.GA                  60070               
+A-14267-09764       Golden Dragon TaekwondoOK                  17805               
+A-16011-59576       Basking Ridge Top Mixed Martial Arts, LLCNJ                  53373               
+A-15289-29330       RIVERWALK EDUCATION FOUNDATION, INC.TX                  44762               
+A-15294-30738       RIVERWALK EDUCATION FOUNDATION, INC.TX                  44762               
+A-16021-63828       FACEBOOK, INC.      CA                  61443               
+A-15345-49843       GOOGLE INC.         CA                  66144               
+A-15356-53565       Glory of Zion International Ministries, Inc.TX                  64459               
+A-16004-56901       Sweet Claire Inc    CA                  39312               
+A-15362-55047       Studio Styles International, IncFL                  30555               
+A-16027-65799       OMG 428 Broadway IncNY                  78894               
+A-15358-54393       MASTERPIECE ALPINE SPORTS TWO, INC.NY                  38522               
+A-15106-67473       ONGOAL, LLC DBA SPORTING KANSAS CITYMO                  28087               
+A-15020-43926       CAPITAL STARS LLC   MD                  50570               
+A-16005-57014       Milwaukee Kickers Soccer ClubWI                  42390               
+A-16013-60611       Hahna Korean Presbyterian ChurchIL                  29349               
+A-15345-49899       M + D Properties    CA                  40747               
+A-15280-25843       BACKCHINA LLC       TX                  50794               
+A-15357-54065       PLENIA HEALTH CORP  FL                  92352               
+A-15357-54347       Cherylle C. Corpuz Esq., P.C.PA                  45219               
+A-15131-75247       GLOBAL PHARMACY INC.TX                  98946               
+A-16021-63792       KIM PHARMACY        CA                  115461              
+A-15362-54830       MARTINSVILLE PHYSICIAN PRACTICES LLCVA                  132933              
+A-15365-56095       VCU HEALTH SYSTEM AUTHORITYVA                  41267               
+A-15146-79914       APOGEE MEDICAL GROUP, FLORIDA, INC.AZ                  115336              
+A-16027-66088       APOGEE MEDICAL GROUP, MISSOURI, INC.AZ                  187199              
+A-16013-60485       MAYO CLINIC         MN                  43627               
+A-16013-60594       MAYO CLINIC         MN                  43627               
+A-15355-53048       PENINSULA REGIONAL MEDICAL CENTERMD                  169811              
+A-15356-53532       PENINSULA REGIONAL MEDICAL CENTERMD                  169811              
+A-15356-53904       UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCESAR                  46720               
+A-16011-59627       HOSPITALIST MEDICINE PHYSICIANS OF CALIFORNIAWA                  187200              
+A-15362-54644       IOWA PHYSICIANS CLINIC MEDICAL FOUNDATIONIA                  48214               
+A-16027-65901       Apogee Medical Group, Kansas, PAAZ                  187199              
+A-16134-10067       Billings Clinic     MT                  187199              
+A-16013-60471       MASS GENERAL PHYSICIANS ORGANIZATIONMA                  143478              
+A-16013-60554       MARSHFIELD CLINIC   WI                  90                  
+A-15335-44779       UNIVERSITY OF ALABAMA AT BIRMINGHAMAL                  53685               
+A-15328-43068       HARVARD MEDICAL FACULTY PHYSICIANS AT BIDMC, INC.MA                  60882               
+A-16004-56771       CENTRAL NH ER ASSOCIATES, PANH                  187199              
+A-16011-59619       PROVIDENCE HEALTH & SERVICES - WASHINGTONWA                  212326              
+A-16020-62970       MEDICAL COLLEGE OF WISCONSINWI                  54288               
+A-16004-56522       ABINGTON MEMORIAL HOSPITALPA                  76731               
+A-16004-56572       ABINGTON MEMORIAL HOSPITALPA                  76731               
+A-16027-65747       Hamidreza Moghaddam FL                  50315               
+A-15352-52387       BLUE HORIZON VENTURES, LLCTX                  93808               
+A-15299-32523       HISC 261 Inc        CA                  21112               
+A-15356-53707       China One Big Rapids LLCMI                  44637               
+A-16019-62786       Samurai Restaurant Corp.CA                  36525               
+A-15345-49923       QUAN'S ENTERPRISES INC.MA                  50918               
+A-16018-62157       SOHO SUSHI INC      CA                  50731               
+A-16027-65945       Jai Bhole Nath Inc. NY                  54912               
+A-15302-33903       MAJIN ENTERPRISES, INCCA                  62608               
+A-10158-02276       ROYAL FOOD INC.  T/A  MANHATTAN PIZZA & PASTAMD                  38189               
+A-15356-53713       MUY PIZZA TEJAS LLC TX                  16765               
+A-14263-08777       SZECHUAN CHINESE RESTAURANT INCOR                  25750               
+A-15355-53243       K CHANDA LLC        WA                  29765               
+A-16005-57367       Huang Garden Chinese RestaurantCO                  22526               
+A-15274-24177       Hanabi, Inc.        IL                  25958               
+A-16014-61241       DRAGON JADE RESTAURANTMN                  27602               
+A-16008-59001       Hing Long US, Inc. DBA Heaven Dragon Chinese RestaCO                  26520               
+A-16027-65910       BONCHON ALLSTON, LLC.MA                  20197               
+A-16117-02301       MUY HAMBURGER PARTNERS, LLCTX                  16869               
+A-14262-08615       DMKD, Inc. dba ServiceMaster Building CareNC                  16744               
+A-14266-09384       DMKD, Inc. dba ServiceMaster Building CareNC                  16744               
+A-14262-08580       DMKD, Inc. dba ServiceMaster Building CareNC                  16744               
+A-14262-08594       DMKD, Inc. dba ServiceMaster Building CareNC                  16744               
+A-14262-08602       DMKD, Inc. dba ServiceMaster Building CareNC                  16744               
+A-16025-64759       CLEANERS OF AMERICA CORPORATIONTX                  16848               
+A-16025-64788       CLEANERS OF AMERICA CORPORATIONTX                  16848               
+A-15253-16421       GLENDA MONDEJAR     NY                  20842               
+A-16004-56489       Manna Spanail Corp. dba Paradise Total Spa NailsNJ                  31574               
+A-15357-54260       University Sports Medicine & Orthopedic SurgeryCA                  28350               
+A-16027-65776       silhouette hair designVA                  35298               
+A-16020-63197       Golden Source Tile LLCNJ                  94786               
+A-15287-28647       HH WIRELESS, INC    CA                  17971               
+A-16012-59986       CREDIT SUISSE SECURITIES (USA) LLCNY                  159141              
+A-15357-54239       Tinicum IncorporatedNY                  112029              
+A-15357-54241       ROYAL BANK OF CANADANJ                  206232              
+A-15287-28107       INGETEAM INC        WI                  78520               
+A-15328-43159       TRANS-TEC AMERICA, LLCAZ                  125632              
+A-15351-52317       CADENCE DESIGN SYSTEMS, INC.CA                  133078              
+A-15345-49797       TENARIS GLOBAL SERVICES (USA) CORPORATIONTX                  70221               
+A-15364-55664       GOOGLE INC.         CA                  113963              
+A-16021-63790       Vocal, Inc.         CA                  42744               
+A-16005-57015       I-Fe Apparel, Inc.  NJ                  61797               
+A-16021-63834       LOVEY DOVEY PLUS, INC.CA                  27144               
+A-10252-18434       D & F CONSTRUCTION CO., INC.MD                  38958               
+A-15275-24540       BROGDON CONSTRUCTIONTN                  31990               
+A-16048-73863       BLUE AIR COMMERCIAL REFRIGERATION, INC.CA                  52291               
+A-14171-80584       JUBILAT PROVISIONS INC.NY                  29702               
+A-15279-25476       HARRISON POULTRY    GA                  8.16                
+A-16090-90971       GEORGE'S PROCESSING, INC.MO                  21299               
+A-16137-10297       GEORGE'S PROCESSING, INC.MO                  21299               
+A-15362-54939       MOUNTAIRE FARMS OF DELAWARE, INCDE                  19552               
+A-15363-55107       MOUNTAIRE FARMS OF DELAWARE, INCDE                  19552               
+A-16011-59529       MOUNTAIRE FARMS OF DELAWARE, INCDE                  19552               
+A-16019-62817       WAYNE FARMS LLC     GA                  10.2                
+A-16019-62820       WAYNE FARMS LLC     GA                  10.2                
+A-16003-56380       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-16004-56675       HOUSE OF RAEFORD FARMS, INCNC                  16869               
+A-16002-56368       HOUSE OF RAEFORD FARMS, INC.NC                  18366               
+A-15357-54136       MOUNTAIRE FARMS OF DELAWARE, INCDE                  19522               
+A-16013-60869       CSK Enterprises, Inc. t/a Town Valet CleanersPA                  39458               
+A-15352-52591       Deen Fashion Inc.   NJ                  23587               
+A-16004-56670       Golden Gate Cleaners Inc.MI                  29328               
+A-15355-53172       STEFANOS FURS INC.  NY                  31741               
+A-15362-54868       DELOITTE CONSULTING LLPPA                  140629              
+A-15348-50330       CARMOT2, INC        TX                  131186              
+A-16004-56428       CUSCOWILLA MANAGEMENT & ADMINISTRATIVE SERGA                  116126              
+A-15362-55023       MERRILL LYNCH       NC                  215405              
+A-15344-49321       ENVESTNET ASSET MANAGEMENT, INC.IL                  140275              
+A-15362-54850       GIANT CEMENT HOLDING INCVA                  128835              
+A-15343-48815       Gold Textiles Inc.  CA                  174658              
+A-15348-50521       AMAZON CORPORATE LLCWA                  115565              
+A-16006-57976       307 CHARTRES LLC    LA                  54579               
+A-16004-56431       DASSAULT SYSTEMES SERVICES LLCNC                  167586              
+A-16004-56483       INGERSOLL-RAND COMPANYNJ                  80267               
+A-14259-07190       JD CONSULTING, INC. GA                  125507              
+A-16006-58035       NOBLE COMMUNICATIONS, INCFL                  111509              
+A-15362-54978       CAPGEMINI AMERICA, INC.IL                  107346              
+A-15349-51142       CES USA INC.,       IL                  149094              
+A-16008-59137       UBS AG,             CT                  108200              
+A-15335-45220       DELOITTE & TOUCHE LLPPA                  121996              
+A-16020-63236       PricewaterhouseCoopers Advisory Services LLCFL                  174533              
+A-16006-57909       MARIN SOFTWARE INC. CA                  200366              
+A-16006-57960       APPFOLIO, INC.      CA                  157394              
+A-16006-57965       DELOITTE CONSULTING LLPPA                  107346              
+A-15348-50310       ANU SOFTWARE CONSULTANTS, INC.MI                  94432               
+A-15348-50404       DELOITTE CONSULTING LLPPA                  146994              
+A-15342-48146       LEADSMARKET.COM LLC CA                  122429              
+A-15300-32951       Energy Oilfield Services LLCTX                  84718               
+A-16006-58014       Rioglass Solar Inc. AZ                  94661               
+A-15348-50110       RBC CAPITAL MARKETS, LLCNJ                  227178              
+A-15344-49062       DELOITTE & TOUCHE LLPPA                  111049              
+A-16018-62134       Columbus Hospital Ltach, LLCNJ                  98842               
+A-15348-50565       BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.CA                  112000              
+A-16020-63054       CITIGROUP GLOBAL MARKETS INC.NY                  227178              
+A-15363-55153       KIMBERLY-CLARK CORPORATIONWI                  95222               
+A-16007-58570       EFFECTIVE MANAGEMENT SERVICES, LLCCA                  77355               
+A-15362-54755       Allan Myers - VirginiaVA                  127254              
+A-16098-94268       RIPPLE LABS INC.    CA                  110864              
+A-15275-24672       BASF CORPORATION    NJ                  137925              
+A-15326-42412       AMERICAN BUREAU OF SHIPPINGTX                  110947              
+A-16006-57977       BLVD Capital, LLC   CA                  91894               
+A-16047-73291       NUR INTERNATIONAL, INCTX                  78250               
+A-15335-44700       POWERTECH AMERICA, INCGA                  58406               
+A-15355-53102       INTEPLAST GROUP, LTD.TX                  49462               
+A-15342-47703       DIVERSIFIED FOAM PRODUCTS, INC.NJ                  90189               
+A-15351-52190       C3 Networks, Inc.   CA                  56035               
+A-15343-48183       3Qi Labs, Inc       CA                  114795              
+A-16004-56451       Atala Corp d/b/a Honda Cars of BostonMA                  102336              
+A-15337-46168       AON CONSULTING, INC.IL                  51750               
+A-15355-53365       K LINE LOGISTICS U.S.A. INC.NY                  45906               
+A-15342-47972       CARBONITE, INC.     MA                  57470               
+A-16008-59175       MBC Distribution, Inc.CA                  39354               
+A-15364-55834       M3 USA CORPORATION  DC                  124197              
+A-15139-77778       BROOKLYN IMPORT, INCNJ                  73757               
+A-14225-97954       NMS HEALTHCARE OF HAGERSTOWN, LLCMD                  64709               
+A-14247-03867       VENSUN PHARMACEUTICALS, INC.PA                  63003               
+A-15362-54911       CAMERON INTERNATIONAL CORPORATIONTX                  62899               
+A-15362-54990       MEDTRONIC, INC.     MN                  76294               
+A-15355-53203       DIRECT ENERGY, LP   TX                  77528               
+A-15356-53945       GREATER AUSTIN MERCHANTS COOPERATIVE ASSOCIATIONTX                  54725               
+A-15345-49970       JLK ROSENBERGER, LLPCA                  47882               
+A-16008-59143       VERIZON COMMUNICATIONS INC., & ALL ITS SUBSIDIARIES & AFFILIATESNY                  51376               
+A-15361-54636       Quattro Caffe/Antonio CafeCA                  47882               
+A-15351-52248       Farstad Oil, Inc.   ND                  48256               
+A-15345-49945       HARVARD LABEL INC.  CA                  61880               
+A-15337-46154       Epath Digital, LP   CA                  47882               
+A-15357-54273       Vanguard Natural Resources, LLCTX                  83200               
+A-15362-55002       BANK OF AMERICA     NC                  109200              
+A-15350-51300       USA GATEWAY TRAVEL INCTX                  62150               
+A-15344-48867       POINT72 ASSET MANAGEMENT, L.P.CT                  60403               
+A-16006-57910       CITADEL LLC         IL                  89669               
+A-15342-48034       MESIROW FINANCIAL HOLDINGS, INC.IL                  101566              
+A-16004-56643       GOLDMAN SACHS & CO. NJ                  111100              
+A-15364-55765       PHOENIX LIFE INSURANCE COMPANYCT                  84510               
+A-10200-09172       THE SHERWIN-WILLIAMS COMPANYOH                  93101               
+A-16002-56371       ST JUDE CHILDREN'S RESEARCH HOSPITALTN                  68723               
+A-15347-50030       INTEL CORPORATION   CA                  89024               
+A-15063-55884       ZION MARKET CERRITOS, INCCA                  81474               
+A-15139-77994       MICROSOFT CORPORATIONWA                  115773              
+A-15335-44707       SAP LABS, LLC       CA                  87600               
+A-15362-54942       APEX IT SERVICES, LLCMD                  93954               
+A-15362-55018       CAREFUSION RESOURCES, LLCCA                  106974              
+A-15363-55171       BROADRIDGE FINANCIAL SOLUTIONS, INC.NJ                  111613              
+A-15363-55158       Little Hills HealthcareMO                  89586               
+A-16015-61875       IGATE TECHNOLOGIES, INC.NJ                  86070               
+A-15349-51011       BPA TECHNOLOGIES INC,.CA                  111100              
+A-15344-49242       SYNOPSYS, INC.      CA                  69805               
+A-15292-29724       INFOSYS LTD.        TX                  98904               
+A-15335-44831       AMERICAN EXPRESS TRAVEL RELATED SERVICESNY                  78125               
+A-15335-44900       APPLE INC.          CA                  89149               
+A-15335-44965       COMCAST CABLE COMMUNICATIONS, LLCPA                  59717               
+A-15303-34604       TECH MAHINDRA (AMERICAS) INC., (FORMERLY MBT INTERNATIONAL, INC.)TX                  86216               
+A-15306-34911       ZOETIS INC.         NJ                  106392              
+A-15326-42409       GAP INC.            CA                  121222              
+A-15292-29791       INFOSYS LTD.        TX                  98904               
+A-15356-53816       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-15356-53824       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-15356-53838       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-15356-53868       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-15347-50039       AMGEN INC.          CA                  103771              
+A-15347-50045       BANK OF AMERICA     NC                  120224              
+A-15348-50150       IGATE TECHNOLOGIES, INC.NJ                  86070               
+A-15348-50187       IGATE TECHNOLOGIES, INC.NJ                  86070               
+A-15315-38408       LIFE TIME FITNESS, INC.MN                  100506              
+A-16008-59165       VISA USA            CA                  96169               
+A-15344-48878       ENGAGEPOINT, INC.   MD                  59238               
+A-15363-55408       ORACLE FINANCIAL SERVICES SOFTWARE INC.NJ                  93101               
+A-16019-62703       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16020-62850       EBAY INC.           CA                  80342               
+A-15271-22612       CHELSOFT SOLUTIONS CO.KS                  64854               
+A-15342-47732       Summit Data Communications, Inc.OH                  57741               
+A-15364-55816       INOVALON, INC.      MD                  103750              
+A-15351-52195       INGRAM MICRO        CA                  104520              
+A-15351-52254       I LOVE VELVET INC   NY                  61797               
+A-15345-49725       ERP ANALYSTS, INC   OH                  79643               
+A-15345-49893       IGATE TECHNOLOGIES, INC.NJ                  86070               
+A-15345-49895       IGATE TECHNOLOGIES, INC.NJ                  86070               
+A-15348-50515       DELOITTE CONSULTING LLPPA                  82888               
+A-16006-57945       Carl Zeiss Vision Inc.CA                  106974              
+A-16006-57954       TYCO ELECTRONICS CORPORATIONPA                  82888               
+A-15348-50247       ALSTOM SIGNALING INC.NY                  61818               
+A-15342-48005       SYNECHRON           FL                  116709              
+A-16019-62589       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  66144               
+A-16004-56435       CAREMARK, L.L.C.    RI                  73174               
+A-16004-56471       CAREMARK, L.L.C.    RI                  73174               
+A-15359-54590       MILLENNIUM INFORMATION TECHNOLOGIESNJ                  101400              
+A-16011-59709       GROUPON, INC.       IL                  77709               
+A-14273-11477       COMPUTEK SOLUTIONS, INCNJ                  68557               
+A-15357-54219       ARCUS TECHNOLOGIES INCIL                  88026               
+A-13323-16427       UNIFIED SYSTEMS, INC.VA                  87422               
+A-14219-96276       SUPERB DEVELOPMENT & SERVICE CORPORATIONHI                  65333               
+A-15093-63995       CIGNITI, INC.       TX                  95077               
+A-15127-74207       SMARTSOFT INTERNATIONAL INCGA                  104437              
+A-15131-75048       WORLDWIDE POINT OF SALE LLCNJ                  91104               
+A-15148-80703       KSOFT SYSTEMS INC   NJ                  77210               
+A-15355-53321       TWO SIGMA INVESTMENTS, LLCNY                  111114              
+A-15324-42264       RIVERSAND TECHNOLOGIES, INCTX                  82618               
+A-16006-57927       LENORA SYSTEMS INC  WA                  128773              
+A-16006-57942       LENORA SYSTEMS INC  WA                  128773              
+A-16006-57968       LENORA SYSTEMS INC  WA                  128773              
+A-15105-67044       DATA GLOVE INC.     NJ                  94536               
+A-15334-44462       CAPITAL ONE SERVICES II LLCVA                  84635               
+A-14143-72154       MICROSOFT CORPORATIONWA                  112986              
+A-15119-71652       MICROSOFT CORPORATIONWA                  109762              
+A-15124-72933       MICROSOFT CORPORATIONWA                  97219               
+A-15113-69759       MICROSOFT CORPORATIONWA                  81432               
+A-15127-74292       MICROSOFT CORPORATIONWA                  97219               
+A-15139-77795       MICROSOFT CORPORATIONWA                  112986              
+A-15139-77841       MICROSOFT CORPORATIONWA                  97219               
+A-15141-78775       MICROSOFT CORPORATIONWA                  97219               
+A-16006-58010       BMC SOFTWARE, INC.  TX                  98438               
+A-16006-58019       Staffcube, LLC      TX                  82618               
+A-16006-58036       MILLENNIUM SOFTWARE INC.MI                  93246               
+A-15334-44552       YOURPEOPLE, INC. D/B/A ZENEFITSCA                  96866               
+A-15335-44667       SUNERA TECHNOLOGIES, INCMI                  79539               
+A-16012-60263       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60281       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60293       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60296       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60302       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60318       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60325       AMAZON CORPORATE LLCWA                  101088              
+A-15362-54893       BANK OF THE WEST    CA                  142064              
+A-15362-54967       FLEET WHOLESALE SUPPLY CO., INCWI                  87859               
+A-15362-54989       CSC CONSULTING, INC.VA                  108139              
+A-15362-54973       APOLLIDON, LLC      FL                  74672               
+A-15362-54975       UNIGROUP, INC.      MO                  108056              
+A-15362-55016       MEDALLIA, INC.      CA                  120349              
+A-15362-55044       IT Catalyst Global Solutions IncCA                  100360              
+A-15363-55131       MILLENNIUM INFORMATION TECHNOLOGIESNJ                  123490              
+A-15363-55148       BANK OF AMERICA     NC                  133806              
+A-15363-55150       AMAZON CORPORATE LLCWA                  117458              
+A-15363-55155       Luzon Technologies IncVA                  88878               
+A-15363-55111       INFOJINI, INC       MD                  115794              
+A-15363-55119       INFOJINI, INC       MD                  115794              
+A-15363-55121       HUMANA              KY                  47445               
+A-16014-61062       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60331       AMAZON CORPORATE LLCWA                  117458              
+A-16012-60370       AMAZON CORPORATE LLCWA                  101088              
+A-16012-60389       AMAZON CORPORATE LLCWA                  101088              
+A-16013-60392       AMAZON CORPORATE LLCWA                  101088              
+A-16013-60418       AMAZON CORPORATE LLCWA                  117458              
+A-16013-60420       AMAZON CORPORATE LLCWA                  101088              
+A-16013-60448       AMAZON CORPORATE LLCWA                  101088              
+A-16013-60458       EMC CORPORATION     MA                  119226              
+A-16013-60459       AMAZON CORPORATE LLCWA                  101088              
+A-16013-60434       AMAZON CORPORATE LLCWA                  101088              
+A-16013-60492       AMAZON CORPORATE LLCWA                  101088              
+A-16015-61569       AMAZON CORPORATE LLCWA                  101088              
+A-16015-61586       AMAZON CORPORATE LLCWA                  101088              
+A-15352-52480       DIVERSANT LLC       NJ                  123490              
+A-15352-52747       AKSHAYA INC         CA                  142064              
+A-15352-52749       AKSHAYA INC         CA                  121202              
+A-16015-61881       IGATE TECHNOLOGIES, INC.NJ                  83741               
+A-15343-48338       DISH NETWORK LLC    CO                  79102               
+A-15343-48449       INOVANT LLC         CA                  95082               
+A-15344-49207       WHATSAPP INC.       CA                  96866               
+A-16013-60739       GLOBALFOUNDRIES U.S. INC.CA                  100214              
+A-16013-60864       EMC CORPORATION     MA                  119226              
+A-16019-62358       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15314-37556       IT KEYSOURCE INC    FL                  77168               
+A-15335-44810       COMCAST CABLE COMMUNICATIONS, LLCPA                  111925              
+A-15335-44885       VESTORLY, INC       NY                  111114              
+A-15335-44890       BLOOMBERG L.P.      NY                  91562               
+A-15335-44974       ISYNC SOLUTIONS INC PA                  81619               
+A-15274-23917       AVANT SYSTEMS INC   TX                  81952               
+A-15295-31530       DGN TECHNOLOGIES INC.CA                  126630              
+A-15316-38921       BANK OF AMERICA     NC                  77168               
+A-15324-41917       ZOLON TECH SOLUTIONS, INC.VA                  108139              
+A-15286-27611       PERSONIFY INC.      VA                  97115               
+A-15255-16953       Code Ace Solutions IncNJ                  103626              
+A-15255-16955       Code Ace Solutions IncNJ                  103626              
+A-15279-25276       AVANT SYSTEMS INC   TX                  81952               
+A-15328-43110       SMARTSOFT INTERNATIONAL INCGA                  111384              
+A-15308-35820       ZILLION TECHNOLOGIES, INCVA                  88878               
+A-15356-53806       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15356-53814       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15356-53823       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15356-53923       FACEBOOK, INC.      CA                  96866               
+A-15356-53968       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15356-53978       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15246-14544       Code Ace Solutions IncNJ                  103626              
+A-15345-49957       FACEBOOK, INC.      CA                  96866               
+A-15347-50020       SEVEN SEVEN SOFTWARES, INC.NJ                  129002              
+A-15348-50093       INTEL CORPORATION   CA                  99927               
+A-15348-50219       QSSI                MD                  91874               
+A-15348-50226       BJ'S WHOLESALE CLUB, INC.MA                  86882               
+A-15342-47960       TECHPILLARS INC     GA                  111384              
+A-15315-38402       NAGARRO, INC.       CA                  74298               
+A-16008-59147       Handsfree Learning, Inc.CA                  96866               
+A-16008-59136       LORHAN CORPORATION INC.NJ                  103626              
+A-16008-59172       CVS PHARMACY, INC.  RI                  106891              
+A-16008-59183       CVS PHARMACY, INC.  RI                  106891              
+A-16008-59184       NGMOCO, LLC         CA                  96866               
+A-15344-48854       CYBERTHINK, INC.    NJ                  123490              
+A-15344-48881       R3 TECHNOLOGY INC., NJ                  123490              
+A-15344-48902       COMPUNNEL SOFTWARE GROUP, INC.NJ                  83741               
+A-16004-56798       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15363-55162       NEW YORK GLOBAL CONSULTANTS INCNY                  107349              
+A-15363-55190       IBM CORPORATION     NC                  71365               
+A-15363-55192       CSC COVANSYS CORPORATIONMI                  93246               
+A-15363-55204       UNICORN TECHNOLOGIES LLCGA                  75338               
+A-15363-55278       FACEBOOK, INC.      CA                  76107               
+A-15363-55393       MORGAN STANLEY & CO. LLCNY                  101646              
+A-15363-55400       SLALOM, LLC         WA                  130666              
+A-15363-55415       AKSHAYA INC         CA                  142064              
+A-16011-59616       FV USA LLC dba CoupangCA                  164382              
+A-15245-13940       CERNER CORPORATION  MO                  62608               
+A-16020-63163       RANDSTAD TECHNOLOGIES, LPMA                  112632              
+A-16007-58609       GOOGLE INC.         CA                  99939               
+A-15342-47710       HERMITAGE INFOTECH, LLCNJ                  77210               
+A-15342-47715       HERMITAGE INFOTECH, LLCNJ                  77210               
+A-15342-47719       MORGAN STANLEY SMITH BARNEY LLCNY                  130666              
+A-16014-61168       EMC CORPORATION     MA                  164382              
+A-16014-61177       CERNER CORPORATION  MO                  65312               
+A-16014-61330       AMAZON CORPORATE LLCWA                  101088              
+A-15361-54634       Sterling Software IncMI                  79539               
+A-15361-54647       Sterling Software IncMI                  79539               
+A-15362-54749       Blue Apron, Inc.    NY                  91562               
+A-15362-54751       Computer Solutions & Software International, LLCFL                  72946               
+A-15362-54861       J.C. PENNEY CORPORATION, INC.TX                  90700               
+A-15362-54866       GOLDMAN SACHS & CO. NJ                  86718               
+A-15327-42480       SOFTPATH TECHNOLOGIESMI                  93642               
+A-16008-58959       FACEBOOK, INC.      CA                  96866               
+A-15364-55808       REACHLOCAL, INC.    CA                  87818               
+A-15364-55875       Great-West Life & Annuity Insurance CompanyCO                  92643               
+A-15351-52240       CAPITAL ONE SERVICES, LLCVA                  88878               
+A-15345-49913       INTUIT              CA                  107786              
+A-16015-61998       EDIFECS, INC.       WA                  117458              
+A-15343-48819       C-VISION INC        MI                  79539               
+A-16006-57828       APPLE INC.          CA                  120349              
+A-16006-57879       NATSOFT CORPORATION NJ                  103626              
+A-16006-57882       AXIS TECHNICAL GROUP, LLCCA                  86674               
+A-16006-57885       IBM CORPORATION     NC                  72010               
+A-16006-57888       ARRIS ENTERPRISES, INC.GA                  97219               
+A-16006-57891       CHARTER GLOBAL, INC.GA                  111384              
+A-16006-57941       PYRAMID TECHNOLOGY SOLUTIONS, INC.IN                  105997              
+A-16006-57953       EMINENT SOFTWARE SERVICESCT                  96949               
+A-16006-57962       COGNIZANT TECHNOLOGY SOLUTIONS US CORPORATIONTX                  81765               
+A-15350-51500       DIVIHN INTEGRATION INCIL                  87027               
+A-16012-59876       EduMind Inc         OH                  76253               
+A-16012-59954       EMC CORPORATION     MA                  119226              
+A-15348-50326       VENTURESOFT GLOBAL INCCA                  126048              
+A-15348-50351       Carey International, Inc.DC                  67142               
