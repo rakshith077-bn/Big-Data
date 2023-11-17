@@ -1,14 +1,18 @@
 import os
 import sys
 import pandas as pd
+import argparse
+import time
+import multiprocessing
+import argparse
 
 input_file = 'final_data.xlsx'
 
 # Creating 3 directories ["Fixed", "Delimited", "Offset"]
-def create_directories(input_file):
 
+def create_directories(input_file):
     try:
-        data = pd.read_excel(input_file)
+        df = pd.read_excel(input_file)
     
     except FileNotFoundError:
         print(f"The specified file {input_file} not found")
@@ -16,186 +20,282 @@ def create_directories(input_file):
     except Exception as e:
         print(f"The following error occured: {e}")
         return None
-    
-    directories = ["Fixed", "Delimited", "Offset"]
+
+    directories = ["Fixed", "Delimited", "Offset"] 
 
     for directory in directories:
         try:
             os.mkdir(directory)
-            print(f"The Directory {directory} has been successfully created")
+            print(f"The directory {directory} has been created")
         
         except FileExistsError:
-            print(f"The directory {directory} already exists")
+            print("The directory already exists")
         
         except Exception as e:
             print(f"The following error occured: {e}")
-    return data
+        
+    return df
 
+# Creating files in "Fixed" Directory
 
-# Reading the data
-def reading_input_file(data):
-    if data is not None:
-        try:
-            for index, row in data.iterrows():
-                row_tuple = ('INSERT',) + tuple(row)
-                print(row_tuple)
-
-        except Exception as e:
-            print(f"The following error occured: {e}")
-
-
-# Creating files in "Fixed" Directories
-def create_pages_fixed(data, directory, rows_per_page=500):
-    total_rows = len(data)
+def creating_fixed_pages(df, directory, rows_per_page = 500):
+    total_rows = len(df)
     total_pages = (total_rows + rows_per_page - 1) // rows_per_page
 
-    for page_num in range(total_pages):
-        page_path = os.path.join(directory, f"page_{page_num}.txt")
+    start_time = time.time()
+
+    for number_of_pages in range(total_pages):
+        page_path = os.path.join(directory, f"page_{number_of_pages}.txt")
 
         try:
-            with open(page_path, 'w') as page_file:
-                start_index = page_num * rows_per_page
-                end_index = min((page_num + 1) * rows_per_page, total_rows)
+            with open(page_path, 'w') as file_page:
+                start = number_of_pages * rows_per_page
+                end = min((number_of_pages + 1) * rows_per_page, total_rows)
 
-                for row_index in range(start_index, end_index):
-                    row = data.iloc[row_index]
+                for row_index in range(start, end):
+                    row = df.iloc[row_index]
                     formatted_row = [f"{value: <20}" for value in row]
                     line = ''.join(formatted_row) + '\n'
-                    page_file.write(line)
+                    file_page.write(line)
 
-                print("Files in 'Fixed' Directory created successfully")
-        
+            print(f"Page in the 'Fixed' Directory is created successfully")
+            end_time = time.time()
+                    
+        except FileExistsError:
+            print("The file already exists")
+
         except Exception as e:
-            print(f"The following error occured while creating the directory {directory}")
+            print(f"The following error occured: {e}")
+    
+    end_time = time.time()
+    time_taken_fixed = start_time - end_time
 
+    print(f"The time taken create files in the Fixed Directory: {time_taken_fixed} Seconds")
 
-# Creating files in "Delimited" directory
-def create_pages_delimited(df, directory, delimiter='$', rows_per_page=500):
+# Creating files in "Delimited" Directory 
+
+def creating_delimited_pages(df, directory, delimiter='$', rows_per_page = 500):
     total_rows = len(df)
     total_pages = (total_rows + rows_per_page - 1) // rows_per_page
 
-    for page_num in range(total_pages):
-        page_path = os.path.join(directory, f"page_{page_num}.txt")
+    start_time = time.time()
+
+    for page_number in range(total_pages):
+        page_path = os.path.join(directory, f"page_{page_number}.txt")
 
         try:
             with open(page_path, 'w') as page_file:
-                start_index = page_num * rows_per_page
-                end_index = min((page_num + 1) * rows_per_page, total_rows)
+                start = page_number * rows_per_page
+                end = min((page_number + 1) * rows_per_page, total_rows)
 
-                for row_index in range(start_index, end_index):
+                for row_index in range(start, end):
                     row = df.iloc[row_index]
-                    formatted_row = delimiter.join(char for value in row for char in str(value))
-                    line = f"{formatted_row}{delimiter}\n"
+                    row_after_formating = delimiter.join(char for value in row for char in str(value))
+                    line = f"{row_after_formating}{delimiter}\n"
                     page_file.write(line)
 
-                print("Files in 'Delimited' created succesfully")
+            print(f"Page in 'Delimited' directory created succesfully")
+       
+        except FileExistsError:
+            print("The files already exists")
 
         except Exception as e:
-            print(f"The following error occurred during the process: {e}")
+            print(f"The following error occured: {e}")
+    
+    end_time = time.time()
+    time_taken_delimited = start_time - end_time
 
+    print(f"Time taken to create files in the Delimited Directory: {time_taken_delimited} Seconds")
 
-# Creating files in the directory "Offset"
-def create_pages_offset(df, directory, fixed_length_size=2, rows_per_page=500):
+# Creating files in the "Offset" Directory
+
+def creating_offset_pages(df, directory, fixed_length_size = 2, rows_in_page = 500):
     total_rows = len(df)
-    total_pages = (total_rows + rows_per_page - 1) // rows_per_page
+    total_pages = (total_rows + rows_in_page - 1) // rows_in_page
 
-    for page_num in range(total_pages):
-        page_path = os.path.join(directory, f"page_{page_num}.txt")
+    start_time = time.time()
+
+    for number_of_pages in range(total_pages):        
+        page_path = os.path.join(directory, f"page_{number_of_pages}.txt")
 
         try:
             with open(page_path, 'w') as page_file:
-                start_index = page_num * rows_per_page
-                end_index = min((page_num + 1) * rows_per_page, total_rows)
+                starting = number_of_pages * rows_in_page
+                ending = min((number_of_pages + 1) * rows_in_page, total_rows)
 
-                for row_index in range(start_index, end_index):
+                for row_index in range(starting, ending):
                     row = df.iloc[row_index]
 
                     offsets = [(i * fixed_length_size) for i in range(len(row))]
 
-                    combined_values = [f"{value:0>{fixed_length_size}}" for value in row]
-                    combined_values += [f"{offset:0>{fixed_length_size}}" for offset in offsets]
+                    values_joined = [f"{value:0>{fixed_length_size}}" for value in row]
+                    values_joined += [f"{offset:0>{fixed_length_size}}" for offset in offsets]
 
                     line = f"{len(row)},{fixed_length_size}\n"
-                    line += ''.join(combined_values) + '\n'
+                    line += ''.join(values_joined) + '\n'
                     page_file.write(line)
 
-                print("Files created successfully")
+            print(f"Pages in the 'Offset' directory is created successfully")
+        
+        except FileExistsError:
+            print("The files already exists")
 
         except Exception as e:
             print(f"An error occurred while writing to '{directory}' directory: {e}")
 
+    end_time = time.time()
+    time_taken_offset = end_time - start_time
+
+    print(f"Time taken to create files in the Offset directory is: {time_taken_offset} Seconds")
+
+
+def first_part_command_arguments():
+    parse = argparse.ArgumentParser(description='Storing data from the Input File')
+    parse.add_argument('operation', help = 'operation type (store)')
+    parse.add_argument('dataset', help = 'Location of the dataset file')
+
+    arguments = parse.parse_args()
+
+    output = f'operation: {arguments.operation}, input file: {arguments.dataset}'
+    return output
+
+def handling_operation_store(input_file_path):
+    df = create_directories(input_file_path)
+    
+    if df is not None:
+        creating_fixed_pages(df, "Fixed", rows_per_page=500)
+        creating_delimited_pages(df, "Delimited", delimiter='$', rows_per_page=500)
+        creating_offset_pages(df, "Offset", fixed_length_size=2, rows_in_page=500)
+
+def main():
+    # Get command line arguments
+    given_command = 'python3 store_analyze.py store <location_of_input_file>'
+    outcome1 = first_part_command_arguments()
+
+    print(f"This is the example command: {given_command}")
+    print(f"Command arguments: {outcome1}")
+
+    if "store" in outcome1:
+        input_file_path = outcome1.split()[-1]
+        create_directories(input_file_path)
+        handling_operation_store(input_file_path)
+        creating_fixed_pages(input_file_path)
+        creating_delimited_pages(input_file_path)
+        creating_offset_pages(input_file_path)
+
+    else:
+        print("Invalide operation selected")
+
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python store_analyze.py <command> <location_of_the_file>")
-    else:
-        command = sys.argv[1]
-        input_file = sys.argv[2]
+    main()
 
-        if command == "store":
-            df = input_and_directories(input_file)
-            if df is not None:
-                data = create_directories(input_file)
-                create_pages_fixed(df, "Fixed")
-                create_pages_delimited(df, "Delimited", delimiter='$')
-                create_pages_offset(df, "Offset", fixed_length_size=2)
-        else:
-            print(f"Unknown command: {command}")
+# Analysis - Part 2 
 
+def reading_the_pages(directory, page_num):
+    page_path = os.path.join(directory, f"Page {page_num}.txt")
 
-# Part 2 - Analysis
-import multiprocessing
+    with open(page_path, 'r') as file:
+        data_lines = file.readlines()
 
-def read_page(directory, page_num):
-    page_path = os.path.join(directory, f"page_{page_num}.txt")
-    with open(page_path, 'r') as page_file:
-        lines = page_file.readlines()
-    return lines
+    # Parsing each line as values 
 
-def calculate_average(lines, attribute_index):
+    parsed_data = [data_lines(line) for line in data_lines]
+
+    return parsed_data
+
+def converting_to_numeric_values(attribute_indexing):
+    tuple_conversion = []
+    try:
+        number_values = int(attribute_indexing)
+        tuple_conversion.append(number_values)
+        return number_values
+        
+    except ValueError:
+        return tuple(tuple_conversion)
+
+tuple_final = converting_to_numeric_values(attribute_indexing=2)
+
+def calculation_of_average(lines, attribute_indexing):
     total_sum = 0
     total_count = 0
 
     for line in lines:
-        values = line.split(',')
         try:
-            attribute_value = int(values[attribute_index])
+            attribute_value = int(line[attribute_indexing])
             total_sum += attribute_value
             total_count += 1
-        except ValueError:
-            print(f"Skipping non-numeric value: {values[attribute_index]}")
+
+        except (ValueError, IndexError):
+            print(f"Skipping invalid or non-numeric value in line: {line}")
 
     return total_sum, total_count
 
-def analyze_directory(directory, attribute_index, num_processes):
-    total_sum = 0
-    total_count = 0
+def analyze_page(page_args):
+    # This function is used by each process to analyze a specific page
+    directory, page_num, attribute_index = page_args
+    lines = reading_the_pages(directory, page_num)
+    return calculation_of_average(lines, attribute_index)
 
-    page_files = [f"page_{i}.txt" for i in range(len(os.listdir(directory)))]
+def part2_analysis(directory, attribute_index, number_of_processes):
+    # Generating a list of pages
+    page_files = [i for i in range(len(os.listdir(directory)))]
 
-    with multiprocessing.Pool(processes=num_processes) as pool:
-        results = pool.starmap(
-            read_page,
-            [(directory, i) for i in range(len(page_files))]
-        )
+    start_time = time.time()
 
-        for result in results:
-            sum_page, count_page = calculate_average(result, attribute_index)
-            total_sum += sum_page
-            total_count += count_page
+    # Creating a pool of processes
+    with multiprocessing.Pool(processes=number_of_processes) as pool:
+        # Mapping the analyze_page function to each page
+        results = pool.map(analyze_page, [(directory, page, attribute_index) for page in page_files])
+
+    # Calculate the overall average from the results
+    total_sum = sum(result[0] for result in results)
+    total_count = sum(result[1] for result in results)
 
     if total_count > 0:
-        average = total_sum / total_count
-        print(f"{attribute_index} average: {average}")
+        average_cal = total_sum / total_count
+        print(f"{attribute_index} average: {average_cal}")
     else:
-        print("No numeric values found in the specified attribute.")
+        print("No numeric attributes found")
+    
+    end_time = time.time()
+    time_taken_analysis = end_time - start_time
+
+    print(f"Time taken to process: {time_taken_analysis}")
+
+def second_part_command_arguments():
+    parse = argparse.ArgumentParser(description='Part 2 analysis')
+    parse.add_argument('operation', help='operation type (analyze)')
+    parse.add_argument('directory', help='Location of the directory file')
+    parse.add_argument('attribute_index', type=int, help='Attribute index for calculating the average of')
+    parse.add_argument('number_of_processes', type=int, help='Number of processes for part-2')
+
+    arguments = parse.parse_args()
+
+    output = {
+        'operation': arguments.operation,
+        'directory': arguments.directory,
+        'attribute_index': arguments.attribute_index,
+        'number_of_processes': arguments.number_of_processes
+    }
+    
+    return output
+
+def main():
+    # Get command line arguments
+    given_command = 'python3 store_analyze.py store <location_of_input_file> <attribute_index> <number_of_processes>'
+    output = second_part_command_arguments()
+
+    print(f"This is the example command: {given_command}")
+    print(f"Command arguments: {output}")
+
+    if "analyze" in output['operation']:
+        attribute_index = output['attribute_index']
+        num_processes = output['number_of_processes']
+        directory = output['directory']
+        part2_analysis(directory, attribute_index, num_processes)
+    else:
+        print("Invalid operation selected")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 5 or sys.argv[1] != "analyze":
-        print("Usage: python store_analyze.py analyze <Fixed, Delimited, Offset> <index_of_attribute> <num_processes>")
-    else:
-        directory = sys.argv[2]
-        attribute_index = int(sys.argv[3])
-        num_processes = int(sys.argv[4])
-
-        analyze_directory(directory, attribute_index, num_processes)
+    main()
