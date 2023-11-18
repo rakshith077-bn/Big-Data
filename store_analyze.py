@@ -209,12 +209,15 @@ def converting_to_numeric_values(attribute_indexing):
     try:
         number_values = int(attribute_indexing)
         tuple_conversion.append(number_values)
-        return number_values
-        
-    except ValueError:
         return tuple(tuple_conversion)
-
+    
+    except ValueError:
+        print("You have given an invalid attribute index")
+        return None
+            
+attribute_indesxing = 2
 tuple_final = converting_to_numeric_values(attribute_indexing=2)
+
 
 def calculation_of_average(lines, attribute_indexing):
     total_sum = 0
